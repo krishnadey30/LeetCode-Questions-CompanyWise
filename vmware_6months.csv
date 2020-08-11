@@ -1,0 +1,24 @@
+146,LRU Cache,33.2%,Medium,0.06230548855614676, https://leetcode.com/problems/lru-cache
+981,Time Based Key-Value Store,53.1%,Medium,0.049406315387071284, https://leetcode.com/problems/time-based-key-value-store
+97,Interleaving String,31.5%,Hard,0.04548535439411653, https://leetcode.com/problems/interleaving-string
+706,Design HashMap,61.3%,Easy,0.039016652342451774, https://leetcode.com/problems/design-hashmap
+697,Degree of an Array,53.8%,Easy,0.03226086221822144, https://leetcode.com/problems/degree-of-an-array
+1048,Longest String Chain,54.7%,Medium,0.019361689049145963, https://leetcode.com/problems/longest-string-chain
+80,Remove Duplicates from Sorted Array II,44.0%,Medium,0.014815085785140639, https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+20,Valid Parentheses,39.0%,Easy,0.014292491180025941, https://leetcode.com/problems/valid-parentheses
+150,Evaluate Reverse Polish Notation,36.3%,Medium,0.01413451093490476, https://leetcode.com/problems/evaluate-reverse-polish-notation
+56,Merge Intervals,39.3%,Medium,0.013819532422258866, https://leetcode.com/problems/merge-intervals
+733,Flood Fill,55.3%,Easy,0.011217167530924988, https://leetcode.com/problems/flood-fill
+905,Sort Array By Parity,74.1%,Easy,0.009603915354180344, https://leetcode.com/problems/sort-array-by-parity
+63,Unique Paths II,34.6%,Medium,0.008712753874961187, https://leetcode.com/problems/unique-paths-ii
+49,Group Anagrams,56.9%,Medium,0.008538951314232168, https://leetcode.com/problems/group-anagrams
+23,Merge k Sorted Lists,40.2%,Hard,0.004051459000748015, https://leetcode.com/problems/merge-k-sorted-lists
+977,Squares of a Sorted Array,72.1%,Easy,0.003891055492966611, https://leetcode.com/problems/squares-of-a-sorted-array
+8,String to Integer (atoi),15.4%,Medium,0.0037925521897059712, https://leetcode.com/problems/string-to-integer-atoi
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.003496778759264278, https://leetcode.com/problems/longest-substring-without-repeating-characters
+1,Two Sum,45.6%,Easy,0.003278422738041615, https://leetcode.com/problems/two-sum
+33,Search in Rotated Sorted Array,34.5%,Medium,0.003229976968332634, https://leetcode.com/problems/search-in-rotated-sorted-array
+98,Validate Binary Search Tree,27.8%,Medium,0.002943776044013381, https://leetcode.com/problems/validate-binary-search-tree
+21,Merge Two Sorted Lists,53.5%,Easy,0.0022551737583973706, https://leetcode.com/problems/merge-two-sorted-lists
+15,3Sum,26.8%,Medium,0.0021990113314367685, https://leetcode.com/problems/3sum
+2,Add Two Numbers,33.9%,Medium,0.0016886191111440908, https://leetcode.com/problems/add-two-numbers

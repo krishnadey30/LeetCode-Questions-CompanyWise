@@ -1,0 +1,466 @@
+937,Reorder Data in Log Files,54.3%,Easy,3.9547702430822818, https://leetcode.com/problems/reorder-data-in-log-files
+200,Number of Islands,46.8%,Medium,3.6590323855166846, https://leetcode.com/problems/number-of-islands
+1192,Critical Connections in a Network,48.6%,Hard,3.3632945279510875, https://leetcode.com/problems/critical-connections-in-a-network
+763,Partition Labels,76.1%,Medium,3.1678101129592746, https://leetcode.com/problems/partition-labels
+994,Rotting Oranges,49.2%,Medium,2.8720722553936775, https://leetcode.com/problems/rotting-oranges
+692,Top K Frequent Words,51.8%,Medium,2.7214375224426046, https://leetcode.com/problems/top-k-frequent-words
+819,Most Common Word,44.8%,Easy,2.4256996648770075, https://leetcode.com/problems/most-common-word
+146,LRU Cache,33.2%,Medium,2.1299618073114104, https://leetcode.com/problems/lru-cache
+1152,Analyze User Website Visit Pattern,43.5%,Medium,1.8342239497458135, https://leetcode.com/problems/analyze-user-website-visit-pattern
+23,Merge k Sorted Lists,40.2%,Hard,1.739235050219392, https://leetcode.com/problems/merge-k-sorted-lists
+588,Design In-Memory File System,45.9%,Hard,1.6763233015814871, https://leetcode.com/problems/design-in-memory-file-system
+1,Two Sum,45.6%,Easy,1.5089728550598949, https://leetcode.com/problems/two-sum
+472,Concatenated Words,43.7%,Hard,1.4802648705378958, https://leetcode.com/problems/concatenated-words
+973,K Closest Points to Origin,63.8%,Medium,1.4345467018065698, https://leetcode.com/problems/k-closest-points-to-origin
+957,Prison Cells After N Days,40.7%,Medium,1.3423289104477119, https://leetcode.com/problems/prison-cells-after-n-days
+460,LFU Cache,34.2%,Hard,1.1854052630535123, https://leetcode.com/problems/lfu-cache
+1167,Minimum Cost to Connect Sticks,62.8%,Medium,1.1814314904899383, https://leetcode.com/problems/minimum-cost-to-connect-sticks
+42,Trapping Rain Water,48.9%,Hard,1.1037585327659545, https://leetcode.com/problems/trapping-rain-water
+138,Copy List with Random Pointer,36.4%,Medium,1.102640803567812, https://leetcode.com/problems/copy-list-with-random-pointer
+127,Word Ladder,29.6%,Medium,1.0425997036961998, https://leetcode.com/problems/word-ladder
+295,Find Median from Data Stream,44.3%,Hard,1.0194793992505597, https://leetcode.com/problems/find-median-from-data-stream
+348,Design Tic-Tac-Toe,54.3%,Medium,0.9433716904768258, https://leetcode.com/problems/design-tic-tac-toe
+212,Word Search II,34.9%,Hard,0.8857014706209553, https://leetcode.com/problems/word-search-ii
+253,Meeting Rooms II,45.7%,Medium,0.8632775077826929, https://leetcode.com/problems/meeting-rooms-ii
+21,Merge Two Sorted Lists,53.5%,Easy,0.8095181456041088, https://leetcode.com/problems/merge-two-sorted-lists
+694,Number of Distinct Islands,56.0%,Medium,0.7884573603642702, https://leetcode.com/problems/number-of-distinct-islands
+269,Alien Dictionary,33.3%,Hard,0.7683984542353193, https://leetcode.com/problems/alien-dictionary
+273,Integer to English Words,27.1%,Hard,0.7404748586772619, https://leetcode.com/problems/integer-to-english-words
+380,Insert Delete GetRandom O(1),47.5%,Medium,0.7362463730417975, https://leetcode.com/problems/insert-delete-getrandom-o1
+297,Serialize and Deserialize Binary Tree,47.5%,Hard,0.7044467358138786, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+863,All Nodes Distance K in Binary Tree,55.4%,Medium,0.6739386478106545, https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+139,Word Break,40.1%,Medium,0.6613827480153901, https://leetcode.com/problems/word-break
+2,Add Two Numbers,33.9%,Medium,0.5977271417553114, https://leetcode.com/problems/add-two-numbers
+726,Number of Atoms,49.0%,Hard,0.591070740103309, https://leetcode.com/problems/number-of-atoms
+909,Snakes and Ladders,38.4%,Medium,0.581062856900522, https://leetcode.com/problems/snakes-and-ladders
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.5695968683666981, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+126,Word Ladder II,22.1%,Hard,0.5693600008081126, https://leetcode.com/problems/word-ladder-ii
+353,Design Snake Game,34.2%,Medium,0.5678280191954505, https://leetcode.com/problems/design-snake-game
+1268,Search Suggestions System,63.2%,Medium,0.5670827306499265, https://leetcode.com/problems/search-suggestions-system
+240,Search a 2D Matrix II,43.2%,Medium,0.5659839416965464, https://leetcode.com/problems/search-a-2d-matrix-ii
+733,Flood Fill,55.3%,Easy,0.5434516866606699, https://leetcode.com/problems/flood-fill
+49,Group Anagrams,56.9%,Medium,0.5274564521278222, https://leetcode.com/problems/group-anagrams
+1429,First Unique Number,47.0%,Medium,0.5239621016713606, https://leetcode.com/problems/first-unique-number
+56,Merge Intervals,39.3%,Medium,0.5198989648602567, https://leetcode.com/problems/merge-intervals
+1091,Shortest Path in Binary Matrix,38.2%,Medium,0.5014571171893788, https://leetcode.com/problems/shortest-path-in-binary-matrix
+15,3Sum,26.8%,Medium,0.4923847546019265, https://leetcode.com/problems/3sum
+227,Basic Calculator II,36.9%,Medium,0.47707464048628756, https://leetcode.com/problems/basic-calculator-ii
+815,Bus Routes,42.5%,Hard,0.46566970439379607, https://leetcode.com/problems/bus-routes
+465,Optimal Account Balancing,46.9%,Hard,0.44746022914476763, https://leetcode.com/problems/optimal-account-balancing
+564,Find the Closest Palindrome,19.7%,Hard,0.43712242797885603, https://leetcode.com/problems/find-the-closest-palindrome
+5,Longest Palindromic Substring,29.5%,Medium,0.43711515550369573, https://leetcode.com/problems/longest-palindromic-substring
+642,Design Search Autocomplete System,44.7%,Hard,0.43349242036282026, https://leetcode.com/problems/design-search-autocomplete-system
+17,Letter Combinations of a Phone Number,46.8%,Medium,0.42775086183255473, https://leetcode.com/problems/letter-combinations-of-a-phone-number
+403,Frog Jump,39.7%,Hard,0.42647291912626817, https://leetcode.com/problems/frog-jump
+394,Decode String,50.0%,Medium,0.42186669570914975, https://leetcode.com/problems/decode-string
+210,Course Schedule II,40.7%,Medium,0.4187970574421199, https://leetcode.com/problems/course-schedule-ii
+239,Sliding Window Maximum,43.0%,Hard,0.4104750065235096, https://leetcode.com/problems/sliding-window-maximum
+1335,Minimum Difficulty of a Job Schedule,57.6%,Hard,0.3963047387095001, https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule
+317,Shortest Distance from All Buildings,41.4%,Hard,0.3879036811782171, https://leetcode.com/problems/shortest-distance-from-all-buildings
+208,Implement Trie (Prefix Tree),49.4%,Medium,0.3703247851035097, https://leetcode.com/problems/implement-trie-prefix-tree
+322,Coin Change,35.5%,Medium,0.3682371587377334, https://leetcode.com/problems/coin-change
+572,Subtree of Another Tree,44.1%,Easy,0.36744178604609046, https://leetcode.com/problems/subtree-of-another-tree
+211,Add and Search Word - Data structure design,38.1%,Medium,0.3669576767104271, https://leetcode.com/problems/add-and-search-word-data-structure-design
+437,Path Sum III,47.2%,Medium,0.36415150066384533, https://leetcode.com/problems/path-sum-iii
+238,Product of Array Except Self,60.1%,Medium,0.3605955735094466, https://leetcode.com/problems/product-of-array-except-self
+236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.3551971839535377, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+140,Word Break II,32.6%,Hard,0.35315833146615444, https://leetcode.com/problems/word-break-ii
+97,Interleaving String,31.5%,Hard,0.3498263128325362, https://leetcode.com/problems/interleaving-string
+173,Binary Search Tree Iterator,56.6%,Medium,0.3490586305394522, https://leetcode.com/problems/binary-search-tree-iterator
+188,Best Time to Buy and Sell Stock IV,28.0%,Hard,0.3480617703158782, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+489,Robot Room Cleaner,69.7%,Hard,0.34393738002030483, https://leetcode.com/problems/robot-room-cleaner
+93,Restore IP Addresses,35.6%,Medium,0.33946177546957895, https://leetcode.com/problems/restore-ip-addresses
+76,Minimum Window Substring,34.6%,Hard,0.33651688545811814, https://leetcode.com/problems/minimum-window-substring
+895,Maximum Frequency Stack,60.6%,Hard,0.33520721431462625, https://leetcode.com/problems/maximum-frequency-stack
+165,Compare Version Numbers,27.4%,Medium,0.33499311472223486, https://leetcode.com/problems/compare-version-numbers
+53,Maximum Subarray,46.5%,Easy,0.33316614062015326, https://leetcode.com/problems/maximum-subarray
+490,The Maze,51.4%,Medium,0.33239571796243805, https://leetcode.com/problems/the-maze
+20,Valid Parentheses,39.0%,Easy,0.32875969157833257, https://leetcode.com/problems/valid-parentheses
+721,Accounts Merge,48.8%,Medium,0.3264810496971675, https://leetcode.com/problems/accounts-merge
+155,Min Stack,44.5%,Easy,0.32611635610879774, https://leetcode.com/problems/min-stack
+901,Online Stock Span,60.2%,Medium,0.3225465062722876, https://leetcode.com/problems/online-stock-span
+1219,Path with Maximum Gold,65.1%,Medium,0.3204549706485941, https://leetcode.com/problems/path-with-maximum-gold
+277,Find the Celebrity,41.8%,Medium,0.3142660340639637, https://leetcode.com/problems/find-the-celebrity
+55,Jump Game,34.6%,Medium,0.31027241049283566, https://leetcode.com/problems/jump-game
+12,Integer to Roman,55.1%,Medium,0.30898314806430144, https://leetcode.com/problems/integer-to-roman
+185,Department Top Three Salaries,34.5%,Hard,0.3067091029533853, https://leetcode.com/problems/department-top-three-salaries
+987,Vertical Order Traversal of a Binary Tree,36.6%,Medium,0.30230623809780655, https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+4,Median of Two Sorted Arrays,29.6%,Hard,0.30208546395829133, https://leetcode.com/problems/median-of-two-sorted-arrays
+224,Basic Calculator,36.8%,Hard,0.291910408561302, https://leetcode.com/problems/basic-calculator
+74,Search a 2D Matrix,36.5%,Medium,0.29107845681405486, https://leetcode.com/problems/search-a-2d-matrix
+640,Solve the Equation,42.0%,Medium,0.2840257612486704, https://leetcode.com/problems/solve-the-equation
+54,Spiral Matrix,34.1%,Medium,0.28079436421311554, https://leetcode.com/problems/spiral-matrix
+362,Design Hit Counter,63.7%,Medium,0.2737682417732349, https://leetcode.com/problems/design-hit-counter
+399,Evaluate Division,51.6%,Medium,0.27239954676797734, https://leetcode.com/problems/evaluate-division
+480,Sliding Window Median,37.2%,Hard,0.2690708449339646, https://leetcode.com/problems/sliding-window-median
+1057,Campus Bikes,57.7%,Medium,0.2582475718767295, https://leetcode.com/problems/campus-bikes
+91,Decode Ways,24.7%,Medium,0.2572166935751766, https://leetcode.com/problems/decode-ways
+466,Count The Repetitions,28.2%,Hard,0.2561688067457042, https://leetcode.com/problems/count-the-repetitions
+45,Jump Game II,30.6%,Hard,0.25477233836298296, https://leetcode.com/problems/jump-game-ii
+323,Number of Connected Components in an Undirected Graph,56.0%,Medium,0.25237712763702813, https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+99,Recover Binary Search Tree,39.7%,Hard,0.25183380763426816, https://leetcode.com/problems/recover-binary-search-tree
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.24977369595529056, https://leetcode.com/problems/longest-substring-without-repeating-characters
+332,Reconstruct Itinerary,36.7%,Medium,0.24722791193435328, https://leetcode.com/problems/reconstruct-itinerary
+1197,Minimum Knight Moves,36.1%,Medium,0.24003104821376078, https://leetcode.com/problems/minimum-knight-moves
+775,Global and Local Inversions,42.1%,Medium,0.23922968906583414, https://leetcode.com/problems/global-and-local-inversions
+496,Next Greater Element I,63.8%,Easy,0.23831034385769945, https://leetcode.com/problems/next-greater-element-i
+33,Search in Rotated Sorted Array,34.5%,Medium,0.2327382673745402, https://leetcode.com/problems/search-in-rotated-sorted-array
+772,Basic Calculator III,41.3%,Hard,0.2322522675124501, https://leetcode.com/problems/basic-calculator-iii
+543,Diameter of Binary Tree,48.4%,Easy,0.2316456750750147, https://leetcode.com/problems/diameter-of-binary-tree
+445,Add Two Numbers II,54.5%,Medium,0.22413561488763817, https://leetcode.com/problems/add-two-numbers-ii
+333,Largest BST Subtree,35.8%,Medium,0.2228314901476892, https://leetcode.com/problems/largest-bst-subtree
+11,Container With Most Water,50.8%,Medium,0.22223677269815797, https://leetcode.com/problems/container-with-most-water
+75,Sort Colors,47.3%,Medium,0.21933249465057122, https://leetcode.com/problems/sort-colors
+688,Knight Probability in Chessboard,48.9%,Medium,0.2176811889223697, https://leetcode.com/problems/knight-probability-in-chessboard
+105,Construct Binary Tree from Preorder and Inorder Traversal,48.8%,Medium,0.2138725437818616, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+356,Line Reflection,31.8%,Medium,0.2124355370417375, https://leetcode.com/problems/line-reflection
+143,Reorder List,37.1%,Medium,0.21178045827645292, https://leetcode.com/problems/reorder-list
+1155,Number of Dice Rolls With Target Sum,49.0%,Medium,0.21008151389087, https://leetcode.com/problems/number-of-dice-rolls-with-target-sum
+503,Next Greater Element II,56.5%,Medium,0.20963047971710957, https://leetcode.com/problems/next-greater-element-ii
+312,Burst Balloons,51.8%,Hard,0.20921375502735295, https://leetcode.com/problems/burst-balloons
+103,Binary Tree Zigzag Level Order Traversal,48.3%,Medium,0.2038677804597886, https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+735,Asteroid Collision,41.0%,Medium,0.20317069676423571, https://leetcode.com/problems/asteroid-collision
+314,Binary Tree Vertical Order Traversal,45.3%,Medium,0.20100106920044414, https://leetcode.com/problems/binary-tree-vertical-order-traversal
+64,Minimum Path Sum,54.5%,Medium,0.19988813533277905, https://leetcode.com/problems/minimum-path-sum
+352,Data Stream as Disjoint Intervals,47.3%,Hard,0.1980128865886302, https://leetcode.com/problems/data-stream-as-disjoint-intervals
+1315,Sum of Nodes with Even-Valued Grandparent,83.5%,Medium,0.19757677034220278, https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent
+706,Design HashMap,61.3%,Easy,0.1960785423771685, https://leetcode.com/problems/design-hashmap
+1360,Number of Days Between Two Dates,48.8%,Easy,0.19578302313828744, https://leetcode.com/problems/number-of-days-between-two-dates
+85,Maximal Rectangle,37.7%,Hard,0.1945507253203666, https://leetcode.com/problems/maximal-rectangle
+756,Pyramid Transition Matrix,54.6%,Medium,0.19105523676270922, https://leetcode.com/problems/pyramid-transition-matrix
+25,Reverse Nodes in k-Group,42.1%,Hard,0.18884373606243307, https://leetcode.com/problems/reverse-nodes-in-k-group
+199,Binary Tree Right Side View,54.1%,Medium,0.18661020557359304, https://leetcode.com/problems/binary-tree-right-side-view
+449,Serialize and Deserialize BST,52.0%,Medium,0.1860058460684763, https://leetcode.com/problems/serialize-and-deserialize-bst
+79,Word Search,35.6%,Medium,0.18365355832289545, https://leetcode.com/problems/word-search
+759,Employee Free Time,66.2%,Hard,0.1816986978513639, https://leetcode.com/problems/employee-free-time
+1244,Design A Leaderboard,60.7%,Medium,0.17763094743610072, https://leetcode.com/problems/design-a-leaderboard
+13,Roman to Integer,55.7%,Easy,0.17663825552387563, https://leetcode.com/problems/roman-to-integer
+737,Sentence Similarity II,45.8%,Medium,0.17520408902509066, https://leetcode.com/problems/sentence-similarity-ii
+1011,Capacity To Ship Packages Within D Days,58.1%,Medium,0.1747811031478766, https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+205,Isomorphic Strings,39.8%,Easy,0.1703978238463443, https://leetcode.com/problems/isomorphic-strings
+1099,Two Sum Less Than K,60.6%,Easy,0.16935823314801637, https://leetcode.com/problems/two-sum-less-than-k
+1430,Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree,44.8%,Medium,0.16917873135476025, https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree
+36,Valid Sudoku,48.7%,Medium,0.16730621375459595, https://leetcode.com/problems/valid-sudoku
+715,Range Module,38.5%,Hard,0.1636294237818021, https://leetcode.com/problems/range-module
+1373,Maximum Sum BST in Binary Tree,40.2%,Hard,0.1599143845440084, https://leetcode.com/problems/maximum-sum-bst-in-binary-tree
+535,Encode and Decode TinyURL,79.9%,Medium,0.15827628732919474, https://leetcode.com/problems/encode-and-decode-tinyurl
+545,Boundary of Binary Tree,38.9%,Medium,0.15687671513649673, https://leetcode.com/problems/boundary-of-binary-tree
+335,Self Crossing,28.0%,Hard,0.15535044001916237, https://leetcode.com/problems/self-crossing
+101,Symmetric Tree,46.8%,Easy,0.15457702816029933, https://leetcode.com/problems/symmetric-tree
+767,Reorganize String,48.7%,Medium,0.15185314866152042, https://leetcode.com/problems/reorganize-string
+410,Split Array Largest Sum,44.5%,Hard,0.1513456288996497, https://leetcode.com/problems/split-array-largest-sum
+57,Insert Interval,33.5%,Hard,0.14994432629434787, https://leetcode.com/problems/insert-interval
+739,Daily Temperatures,63.3%,Medium,0.14956674442158685, https://leetcode.com/problems/daily-temperatures
+1038,Binary Search Tree to Greater Sum Tree,80.8%,Medium,0.14935273742511918, https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree
+221,Maximal Square,37.7%,Medium,0.1475288463816385, https://leetcode.com/problems/maximal-square
+682,Baseball Game,63.7%,Easy,0.14664834440479207, https://leetcode.com/problems/baseball-game
+22,Generate Parentheses,62.7%,Medium,0.14612656455721032, https://leetcode.com/problems/generate-parentheses
+1102,Path With Maximum Minimum Value,49.2%,Medium,0.1444815825552332, https://leetcode.com/problems/path-with-maximum-minimum-value
+426,Convert Binary Search Tree to Sorted Doubly Linked List,59.1%,Medium,0.14252878462127264, https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+1083,Sales Analysis II,50.5%,Easy,0.1417462887434142, https://leetcode.com/problems/sales-analysis-ii
+690,Employee Importance,57.3%,Easy,0.14131823975737387, https://leetcode.com/problems/employee-importance
+207,Course Schedule,43.1%,Medium,0.1402270159030123, https://leetcode.com/problems/course-schedule
+261,Graph Valid Tree,42.2%,Medium,0.13984351177036686, https://leetcode.com/problems/graph-valid-tree
+354,Russian Doll Envelopes,35.6%,Hard,0.13850969523609932, https://leetcode.com/problems/russian-doll-envelopes
+286,Walls and Gates,54.5%,Medium,0.13712574822724946, https://leetcode.com/problems/walls-and-gates
+10,Regular Expression Matching,26.8%,Hard,0.13632230148088326, https://leetcode.com/problems/regular-expression-matching
+1405,Longest Happy String,49.0%,Medium,0.1343297958605471, https://leetcode.com/problems/longest-happy-string
+378,Kth Smallest Element in a Sorted Matrix,54.3%,Medium,0.13397014948713715, https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+215,Kth Largest Element in an Array,55.4%,Medium,0.13169686633492952, https://leetcode.com/problems/kth-largest-element-in-an-array
+981,Time Based Key-Value Store,53.1%,Medium,0.1316303182973487, https://leetcode.com/problems/time-based-key-value-store
+148,Sort List,42.3%,Medium,0.1292970884857343, https://leetcode.com/problems/sort-list
+1117,Building H2O,52.6%,Medium,0.12796988096337653, https://leetcode.com/problems/building-h2o
+347,Top K Frequent Elements,61.2%,Medium,0.12591062025304192, https://leetcode.com/problems/top-k-frequent-elements
+84,Largest Rectangle in Histogram,35.2%,Hard,0.12570469475928556, https://leetcode.com/problems/largest-rectangle-in-histogram
+1139,Largest 1-Bordered Square,47.5%,Medium,0.12477221253464107, https://leetcode.com/problems/largest-1-bordered-square
+1130,Minimum Cost Tree From Leaf Values,66.1%,Medium,0.12332774831203028, https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+262,Trips and Users,32.7%,Hard,0.12266506325369182, https://leetcode.com/problems/trips-and-users
+177,Nth Highest Salary,31.4%,Medium,0.12247703235966204, https://leetcode.com/problems/nth-highest-salary
+1214,Two Sum BSTs,67.6%,Medium,0.12247703235966204, https://leetcode.com/problems/two-sum-bsts
+19,Remove Nth Node From End of List,35.2%,Medium,0.12237713290283221, https://leetcode.com/problems/remove-nth-node-from-end-of-list
+844,Backspace String Compare,46.4%,Easy,0.12201137176590456, https://leetcode.com/problems/backspace-string-compare
+46,Permutations,63.5%,Medium,0.12027982804941116, https://leetcode.com/problems/permutations
+1229,Meeting Scheduler,52.7%,Medium,0.11671261732648351, https://leetcode.com/problems/meeting-scheduler
+1275,Find Winner on a Tic Tac Toe Game,52.8%,Easy,0.11536465479210183, https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
+1375,Bulb Switcher III,62.6%,Medium,0.11506932978478719, https://leetcode.com/problems/bulb-switcher-iii
+540,Single Element in a Sorted Array,57.9%,Medium,0.11443656521536286, https://leetcode.com/problems/single-element-in-a-sorted-array
+229,Majority Element II,35.6%,Medium,0.11355198202632807, https://leetcode.com/problems/majority-element-ii
+120,Triangle,44.2%,Medium,0.11325730177515365, https://leetcode.com/problems/triangle
+296,Best Meeting Point,57.5%,Hard,0.11216225709564905, https://leetcode.com/problems/best-meeting-point
+1004,Max Consecutive Ones III,59.1%,Medium,0.11063437101968247, https://leetcode.com/problems/max-consecutive-ones-iii
+39,Combination Sum,56.1%,Medium,0.10982174474537089, https://leetcode.com/problems/combination-sum
+695,Max Area of Island,62.7%,Medium,0.10876995385464024, https://leetcode.com/problems/max-area-of-island
+96,Unique Binary Search Trees,52.9%,Medium,0.10772540512336069, https://leetcode.com/problems/unique-binary-search-trees
+152,Maximum Product Subarray,31.7%,Medium,0.10753054905987956, https://leetcode.com/problems/maximum-product-subarray
+29,Divide Two Integers,16.4%,Medium,0.10321754835984784, https://leetcode.com/problems/divide-two-integers
+1143,Longest Common Subsequence,58.4%,Medium,0.10320598865355674, https://leetcode.com/problems/longest-common-subsequence
+1013,Partition Array Into Three Parts With Equal Sum,51.8%,Easy,0.10294796925244239, https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum
+453,Minimum Moves to Equal Array Elements,50.2%,Easy,0.10178269430994231, https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+442,Find All Duplicates in an Array,67.8%,Medium,0.10047484799446413, https://leetcode.com/problems/find-all-duplicates-in-an-array
+417,Pacific Atlantic Water Flow,41.1%,Medium,0.10008345855698253, https://leetcode.com/problems/pacific-atlantic-water-flow
+628,Maximum Product of Three Numbers,47.1%,Easy,0.09909090264423091, https://leetcode.com/problems/maximum-product-of-three-numbers
+1135,Connecting Cities With Minimum Cost,57.5%,Medium,0.09909090264423091, https://leetcode.com/problems/connecting-cities-with-minimum-cost
+51,N-Queens,46.6%,Hard,0.09831093224356313, https://leetcode.com/problems/n-queens
+218,The Skyline Problem,34.6%,Hard,0.09823843958341322, https://leetcode.com/problems/the-skyline-problem
+41,First Missing Positive,32.0%,Hard,0.0979525363954321, https://leetcode.com/problems/first-missing-positive
+529,Minesweeper,59.1%,Medium,0.09695424100489167, https://leetcode.com/problems/minesweeper
+1046,Last Stone Weight,62.2%,Easy,0.09686234390618549, https://leetcode.com/problems/last-stone-weight
+230,Kth Smallest Element in a BST,60.2%,Medium,0.09685471541555685, https://leetcode.com/problems/kth-smallest-element-in-a-bst
+980,Unique Paths III,73.3%,Hard,0.09531017980432487, https://leetcode.com/problems/unique-paths-iii
+86,Partition List,41.5%,Medium,0.09480379573736777, https://leetcode.com/problems/partition-list
+716,Max Stack,42.6%,Easy,0.09362342046209744, https://leetcode.com/problems/max-stack
+611,Valid Triangle Number,48.4%,Medium,0.09333193979221914, https://leetcode.com/problems/valid-triangle-number
+827,Making A Large Island,45.7%,Hard,0.09287412500644375, https://leetcode.com/problems/making-a-large-island
+384,Shuffle an Array,52.8%,Medium,0.09170644621893462, https://leetcode.com/problems/shuffle-an-array
+8,String to Integer (atoi),15.4%,Medium,0.09074872434968777, https://leetcode.com/problems/string-to-integer-atoi
+153,Find Minimum in Rotated Sorted Array,45.1%,Medium,0.0899077741767165, https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+243,Shortest Word Distance,61.0%,Easy,0.08952296190665864, https://leetcode.com/problems/shortest-word-distance
+995,Minimum Number of K Consecutive Bit Flips,46.8%,Hard,0.08894748601649616, https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
+301,Remove Invalid Parentheses,43.3%,Hard,0.08716315660591871, https://leetcode.com/problems/remove-invalid-parentheses
+109,Convert Sorted List to Binary Search Tree,47.7%,Medium,0.08701137698962977, https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+176,Second Highest Salary,31.6%,Easy,0.08701137698962977, https://leetcode.com/problems/second-highest-salary
+622,Design Circular Queue,43.7%,Medium,0.08696405427235052, https://leetcode.com/problems/design-circular-queue
+72,Edit Distance,44.8%,Hard,0.08673866592531046, https://leetcode.com/problems/edit-distance
+315,Count of Smaller Numbers After Self,41.5%,Hard,0.08649925937213519, https://leetcode.com/problems/count-of-smaller-numbers-after-self
+18,4Sum,33.7%,Medium,0.08527891770220855, https://leetcode.com/problems/4sum
+113,Path Sum II,46.7%,Medium,0.08479653666007693, https://leetcode.com/problems/path-sum-ii
+916,Word Subsets,47.8%,Medium,0.08479653666007693, https://leetcode.com/problems/word-subsets
+1245,Tree Diameter,60.1%,Medium,0.08338160893905106, https://leetcode.com/problems/tree-diameter
+473,Matchsticks to Square,37.7%,Medium,0.08201315166083516, https://leetcode.com/problems/matchsticks-to-square
+134,Gas Station,38.5%,Medium,0.08169138321871633, https://leetcode.com/problems/gas-station
+636,Exclusive Time of Functions,52.0%,Medium,0.08155306616046964, https://leetcode.com/problems/exclusive-time-of-functions
+122,Best Time to Buy and Sell Stock II,57.0%,Easy,0.08066286273217169, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+161,One Edit Distance,32.3%,Medium,0.07982960165248484, https://leetcode.com/problems/one-edit-distance
+451,Sort Characters By Frequency,63.0%,Medium,0.07950784615171191, https://leetcode.com/problems/sort-characters-by-frequency
+128,Longest Consecutive Sequence,45.1%,Hard,0.0786603197723907, https://leetcode.com/problems/longest-consecutive-sequence
+341,Flatten Nested List Iterator,52.9%,Medium,0.07763353611776078, https://leetcode.com/problems/flatten-nested-list-iterator
+518,Coin Change 2,50.2%,Medium,0.07583984694698977, https://leetcode.com/problems/coin-change-2
+547,Friend Circles,58.6%,Medium,0.07408600065076033, https://leetcode.com/problems/friend-circles
+860,Lemonade Change,51.6%,Easy,0.07208884919207953, https://leetcode.com/problems/lemonade-change
+1008,Construct Binary Search Tree from Preorder Traversal,78.4%,Medium,0.07181191271198491, https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal
+523,Continuous Subarray Sum,24.6%,Medium,0.07166389251403688, https://leetcode.com/problems/continuous-subarray-sum
+102,Binary Tree Level Order Traversal,54.6%,Medium,0.0712263700241388, https://leetcode.com/problems/binary-tree-level-order-traversal
+1074,Number of Submatrices That Sum to Target,60.4%,Hard,0.07120444629179161, https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
+37,Sudoku Solver,43.6%,Hard,0.07095173597228444, https://leetcode.com/problems/sudoku-solver
+438,Find All Anagrams in a String,43.3%,Medium,0.07086789751218016, https://leetcode.com/problems/find-all-anagrams-in-a-string
+632,Smallest Range Covering Elements from K Lists,52.4%,Hard,0.07082605256861242, https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+187,Repeated DNA Sequences,38.9%,Medium,0.06947237281476738, https://leetcode.com/problems/repeated-dna-sequences
+117,Populating Next Right Pointers in Each Node II,39.1%,Medium,0.0691455898745421, https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
+432,All O`one Data Structure,32.4%,Hard,0.06887402901251127, https://leetcode.com/problems/all-oone-data-structure
+123,Best Time to Buy and Sell Stock III,37.5%,Hard,0.06838868749455218, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+316,Remove Duplicate Letters,35.8%,Hard,0.067239661116769, https://leetcode.com/problems/remove-duplicate-letters
+368,Largest Divisible Subset,38.0%,Medium,0.0670392438027145, https://leetcode.com/problems/largest-divisible-subset
+1032,Stream of Characters,48.3%,Hard,0.06646964500774162, https://leetcode.com/problems/stream-of-characters
+584,Find Customer Referee,72.3%,Easy,0.06592172080482424, https://leetcode.com/problems/find-customer-referee
+16,3Sum Closest,46.0%,Medium,0.065777130514714, https://leetcode.com/problems/3sum-closest
+124,Binary Tree Maximum Path Sum,34.3%,Hard,0.06574255262249057, https://leetcode.com/problems/binary-tree-maximum-path-sum
+997,Find the Town Judge,50.1%,Easy,0.06548984513511495, https://leetcode.com/problems/find-the-town-judge
+287,Find the Duplicate Number,55.5%,Medium,0.06539148783312071, https://leetcode.com/problems/find-the-duplicate-number
+387,First Unique Character in a String,53.4%,Easy,0.06495130161301915, https://leetcode.com/problems/first-unique-character-in-a-string
+116,Populating Next Right Pointers in Each Node,45.2%,Medium,0.06417026482702023, https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+1270,All People Report to the Given Manager,87.1%,Medium,0.06412452816953867, https://leetcode.com/problems/all-people-report-to-the-given-manager
+1005,Maximize Sum Of Array After K Negations,51.3%,Easy,0.06371581438610768, https://leetcode.com/problems/maximize-sum-of-array-after-k-negations
+71,Simplify Path,32.6%,Medium,0.06351340572232586, https://leetcode.com/problems/simplify-path
+300,Longest Increasing Subsequence,42.6%,Medium,0.06265630749555627, https://leetcode.com/problems/longest-increasing-subsequence
+1044,Longest Duplicate Substring,31.9%,Hard,0.062325463197828765, https://leetcode.com/problems/longest-duplicate-substring
+73,Set Matrix Zeroes,43.1%,Medium,0.061431799532484045, https://leetcode.com/problems/set-matrix-zeroes
+48,Rotate Image,56.7%,Medium,0.06069974483040549, https://leetcode.com/problems/rotate-image
+701,Insert into a Binary Search Tree,77.7%,Medium,0.06069363413516112, https://leetcode.com/problems/insert-into-a-binary-search-tree
+88,Merge Sorted Array,39.4%,Easy,0.059258174101133876, https://leetcode.com/problems/merge-sorted-array
+373,Find K Pairs with Smallest Sums,36.7%,Medium,0.058155920157074034, https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+98,Validate Binary Search Tree,27.8%,Medium,0.057985181512132535, https://leetcode.com/problems/validate-binary-search-tree
+206,Reverse Linked List,62.5%,Easy,0.05691436258797462, https://leetcode.com/problems/reverse-linked-list
+873,Length of Longest Fibonacci Subsequence,48.0%,Medium,0.05691436258797462, https://leetcode.com/problems/length-of-longest-fibonacci-subsequence
+283,Move Zeroes,57.8%,Easy,0.05686540295029014, https://leetcode.com/problems/move-zeroes
+586,Customer Placing the Largest Number of Orders,73.0%,Easy,0.0568334747631659, https://leetcode.com/problems/customer-placing-the-largest-number-of-orders
+279,Perfect Squares,47.4%,Medium,0.05625780265009439, https://leetcode.com/problems/perfect-squares
+32,Longest Valid Parentheses,28.4%,Hard,0.0556316959861487, https://leetcode.com/problems/longest-valid-parentheses
+849,Maximize Distance to Closest Person,42.6%,Easy,0.055535552308963565, https://leetcode.com/problems/maximize-distance-to-closest-person
+366,Find Leaves of Binary Tree,70.6%,Medium,0.05526267867504946, https://leetcode.com/problems/find-leaves-of-binary-tree
+839,Similar String Groups,38.6%,Hard,0.05480823649499502, https://leetcode.com/problems/similar-string-groups
+538,Convert BST to Greater Tree,55.4%,Easy,0.05475820397384584, https://leetcode.com/problems/convert-bst-to-greater-tree
+983,Minimum Cost For Tickets,60.5%,Medium,0.05469163590186561, https://leetcode.com/problems/minimum-cost-for-tickets
+443,String Compression,41.3%,Easy,0.05450940566837169, https://leetcode.com/problems/string-compression
+131,Palindrome Partitioning,47.5%,Medium,0.05449083692828802, https://leetcode.com/problems/palindrome-partitioning
+703,Kth Largest Element in a Stream,49.7%,Easy,0.054472280837981495, https://leetcode.com/problems/kth-largest-element-in-a-stream
+179,Largest Number,28.8%,Medium,0.0543427413161019, https://leetcode.com/problems/largest-number
+310,Minimum Height Trees,32.3%,Medium,0.05423015406086025, https://leetcode.com/problems/minimum-height-trees
+234,Palindrome Linked List,39.3%,Easy,0.05416885609643319, https://leetcode.com/problems/palindrome-linked-list
+329,Longest Increasing Path in a Matrix,43.4%,Hard,0.052557250738676044, https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+581,Shortest Unsorted Continuous Subarray,31.1%,Easy,0.052333720049023605, https://leetcode.com/problems/shortest-unsorted-continuous-subarray
+209,Minimum Size Subarray Sum,38.2%,Medium,0.05146227039335983, https://leetcode.com/problems/minimum-size-subarray-sum
+560,Subarray Sum Equals K,43.9%,Medium,0.0512021569656579, https://leetcode.com/problems/subarray-sum-equals-k
+65,Valid Number,15.3%,Hard,0.05071509257901641, https://leetcode.com/problems/valid-number
+1339,Maximum Product of Splitted Binary Tree,37.2%,Medium,0.05064373281875492, https://leetcode.com/problems/maximum-product-of-splitted-binary-tree
+681,Next Closest Time,45.0%,Medium,0.05045206096038863, https://leetcode.com/problems/next-closest-time
+382,Linked List Random Node,52.1%,Medium,0.05045206096038863, https://leetcode.com/problems/linked-list-random-node
+743,Network Delay Time,45.0%,Medium,0.05002606023684499, https://leetcode.com/problems/network-delay-time
+129,Sum Root to Leaf Numbers,49.1%,Medium,0.050010420574661374, https://leetcode.com/problems/sum-root-to-leaf-numbers
+242,Valid Anagram,56.9%,Easy,0.04973624974928908, https://leetcode.com/problems/valid-anagram
+285,Inorder Successor in BST,40.4%,Medium,0.049569618859417214, https://leetcode.com/problems/inorder-successor-in-bst
+181,Employees Earning More Than Their Managers,56.9%,Easy,0.04954573655142984, https://leetcode.com/problems/employees-earning-more-than-their-managers
+137,Single Number II,52.4%,Medium,0.04919528672454412, https://leetcode.com/problems/single-number-ii
+969,Pancake Sorting,67.5%,Medium,0.04908961019652358, https://leetcode.com/problems/pancake-sorting
+1267,Count Servers that Communicate,57.9%,Medium,0.04902942724031861, https://leetcode.com/problems/count-servers-that-communicate
+1153,String Transforms Into Another String,35.8%,Hard,0.04861224405509378, https://leetcode.com/problems/string-transforms-into-another-string
+407,Trapping Rain Water II,42.4%,Hard,0.04797082778602956, https://leetcode.com/problems/trapping-rain-water-ii
+986,Interval List Intersections,67.3%,Medium,0.04703983015489417, https://leetcode.com/problems/interval-list-intersections
+336,Palindrome Pairs,33.7%,Hard,0.04690191367275952, https://leetcode.com/problems/palindrome-pairs
+698,Partition to K Equal Sum Subsets,45.0%,Medium,0.04685917114094188, https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+556,Next Greater Element III,31.7%,Medium,0.04679216150675895, https://leetcode.com/problems/next-greater-element-iii
+359,Logger Rate Limiter,70.8%,Easy,0.0467617659080393, https://leetcode.com/problems/logger-rate-limiter
+978,Longest Turbulent Subarray,46.6%,Medium,0.046737477851689815, https://leetcode.com/problems/longest-turbulent-subarray
+415,Add Strings,47.5%,Easy,0.04650270606183304, https://leetcode.com/problems/add-strings
+264,Ugly Number II,42.0%,Medium,0.04563095565767374, https://leetcode.com/problems/ugly-number-ii
+843,Guess the Word,46.1%,Hard,0.045462374076757336, https://leetcode.com/problems/guess-the-word
+1162,As Far from Land as Possible,43.5%,Medium,0.04510347333459475, https://leetcode.com/problems/as-far-from-land-as-possible
+1382,Balance a Binary Search Tree,74.8%,Medium,0.04480032475536626, https://leetcode.com/problems/balance-a-binary-search-tree
+349,Intersection of Two Arrays,62.5%,Easy,0.04447549064708117, https://leetcode.com/problems/intersection-of-two-arrays
+268,Missing Number,51.7%,Easy,0.043089480538103624, https://leetcode.com/problems/missing-number
+515,Find Largest Value in Each Tree Row,61.1%,Medium,0.042459207771791546, https://leetcode.com/problems/find-largest-value-in-each-tree-row
+184,Department Highest Salary,36.7%,Medium,0.041672696400568025, https://leetcode.com/problems/department-highest-salary
+169,Majority Element,58.7%,Easy,0.041581229756944955, https://leetcode.com/problems/majority-element
+430,Flatten a Multilevel Doubly Linked List,55.1%,Medium,0.04154283751370906, https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list
+92,Reverse Linked List II,38.8%,Medium,0.041073535208287514, https://leetcode.com/problems/reverse-linked-list-ii
+647,Palindromic Substrings,60.6%,Medium,0.040968350772541844, https://leetcode.com/problems/palindromic-substrings
+62,Unique Paths,54.1%,Medium,0.04084052144450833, https://leetcode.com/problems/unique-paths
+1094,Car Pooling,56.7%,Medium,0.04016604172533471, https://leetcode.com/problems/car-pooling
+686,Repeated String Match,32.3%,Easy,0.03984590854719967, https://leetcode.com/problems/repeated-string-match
+406,Queue Reconstruction by Height,66.9%,Medium,0.03949613834265583, https://leetcode.com/problems/queue-reconstruction-by-height
+289,Game of Life,54.5%,Medium,0.03856519035039098, https://leetcode.com/problems/game-of-life
+202,Happy Number,50.4%,Easy,0.03853744444187023, https://leetcode.com/problems/happy-number
+178,Rank Scores,45.8%,Medium,0.037379767071581464, https://leetcode.com/problems/rank-scores
+1031,Maximum Sum of Two Non-Overlapping Subarrays,57.9%,Medium,0.03711000965123125, https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays
+646,Maximum Length of Pair Chain,51.9%,Medium,0.036870535808327706, https://leetcode.com/problems/maximum-length-of-pair-chain
+729,My Calendar I,51.8%,Medium,0.036433902246102004, https://leetcode.com/problems/my-calendar-i
+884,Uncommon Words from Two Sentences,63.3%,Easy,0.036301626676214796, https://leetcode.com/problems/uncommon-words-from-two-sentences
+1249,Minimum Remove to Make Valid Parentheses,62.5%,Medium,0.03628515973976445, https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses
+875,Koko Eating Bananas,52.1%,Medium,0.0359751024582779, https://leetcode.com/problems/koko-eating-bananas
+1254,Number of Closed Islands,60.5%,Medium,0.03540192705091593, https://leetcode.com/problems/number-of-closed-islands
+63,Unique Paths II,34.6%,Medium,0.03440459729940371, https://leetcode.com/problems/unique-paths-ii
+1002,Find Common Characters,67.6%,Easy,0.03404262162737441, https://leetcode.com/problems/find-common-characters
+226,Invert Binary Tree,65.0%,Easy,0.03393837323839263, https://leetcode.com/problems/invert-binary-tree
+528,Random Pick with Weight,43.9%,Medium,0.03306693626657339, https://leetcode.com/problems/random-pick-with-weight
+235,Lowest Common Ancestor of a Binary Search Tree,49.9%,Easy,0.032470385030784074, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+133,Clone Graph,34.8%,Medium,0.03215711163453134, https://leetcode.com/problems/clone-graph
+1146,Snapshot Array,37.0%,Medium,0.0317991816929387, https://leetcode.com/problems/snapshot-array
+653,Two Sum IV - Input is a BST,55.5%,Easy,0.031726312677204306, https://leetcode.com/problems/two-sum-iv-input-is-a-bst
+150,Evaluate Reverse Polish Notation,36.3%,Medium,0.031526253646773944, https://leetcode.com/problems/evaluate-reverse-polish-notation
+38,Count and Say,44.6%,Easy,0.030956234663467107, https://leetcode.com/problems/count-and-say
+1179,Reformat Department Table,80.6%,Easy,0.030653741091002412, https://leetcode.com/problems/reformat-department-table
+135,Candy,31.6%,Hard,0.029764101906453892, https://leetcode.com/problems/candy
+419,Battleships in a Board,70.0%,Medium,0.02967576814611661, https://leetcode.com/problems/battleships-in-a-board
+413,Arithmetic Slices,57.9%,Medium,0.028431197162004825, https://leetcode.com/problems/arithmetic-slices
+77,Combinations,54.7%,Medium,0.028021758737593695, https://leetcode.com/problems/combinations
+204,Count Primes,31.5%,Easy,0.02799343042200216, https://leetcode.com/problems/count-primes
+183,Customers Who Never Order,53.4%,Easy,0.027702602549335792, https://leetcode.com/problems/customers-who-never-order
+68,Text Justification,27.7%,Hard,0.0276451606661453, https://leetcode.com/problems/text-justification
+249,Group Shifted Strings,55.1%,Medium,0.0276069982440099, https://leetcode.com/problems/group-shifted-strings
+114,Flatten Binary Tree to Linked List,49.3%,Medium,0.02730545069026746, https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+130,Surrounded Regions,28.1%,Medium,0.02672368055211276, https://leetcode.com/problems/surrounded-regions
+931,Minimum Falling Path Sum,62.5%,Medium,0.02672169681715245, https://leetcode.com/problems/minimum-falling-path-sum
+34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,0.026256496787488606, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+158,Read N Characters Given Read4 II - Call multiple times,33.8%,Hard,0.026196651946570663, https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+1395,Count Number of Teams,82.0%,Medium,0.025462865161248044, https://leetcode.com/problems/count-number-of-teams
+862,Shortest Subarray with Sum at Least K,24.6%,Hard,0.025398190605610438, https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k
+951,Flip Equivalent Binary Trees,65.8%,Medium,0.025269822188076344, https://leetcode.com/problems/flip-equivalent-binary-trees
+232,Implement Queue using Stacks,49.6%,Easy,0.025119936515296634, https://leetcode.com/problems/implement-queue-using-stacks
+785,Is Graph Bipartite?,47.5%,Medium,0.02510592113107633, https://leetcode.com/problems/is-graph-bipartite
+132,Palindrome Partitioning II,30.2%,Hard,0.024436157849456068, https://leetcode.com/problems/palindrome-partitioning-ii
+714,Best Time to Buy and Sell Stock with Transaction Fee,54.7%,Medium,0.024258315059789946, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
+836,Rectangle Overlap,48.6%,Easy,0.024228925974379843, https://leetcode.com/problems/rectangle-overlap
+395,Longest Substring with At Least K Repeating Characters,41.4%,Medium,0.024228925974379843, https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+70,Climbing Stairs,47.8%,Easy,0.023866591309041507, https://leetcode.com/problems/climbing-stairs
+31,Next Permutation,32.6%,Medium,0.023747034562878154, https://leetcode.com/problems/next-permutation
+704,Binary Search,52.1%,Easy,0.02368531774150923, https://leetcode.com/problems/binary-search
+1161,Maximum Level Sum of a Binary Tree,72.2%,Medium,0.023270392682351006, https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree
+1299,Replace Elements with Greatest Element on Right Side,75.4%,Easy,0.022756987122616215, https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side
+678,Valid Parenthesis String,31.0%,Medium,0.02271534352147261, https://leetcode.com/problems/valid-parenthesis-string
+61,Rotate List,30.0%,Medium,0.022195732391784302, https://leetcode.com/problems/rotate-list
+112,Path Sum,41.2%,Easy,0.021701651897460775, https://leetcode.com/problems/path-sum
+1019,Next Greater Node In Linked List,57.4%,Medium,0.02159911180346178, https://leetcode.com/problems/next-greater-node-in-linked-list
+1520,Maximum Number of Non-Overlapping Substrings,32.8%,Hard,0.021485667755491482, https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings
+841,Keys and Rooms,64.3%,Medium,0.021425565169310254, https://leetcode.com/problems/keys-and-rooms
+921,Minimum Add to Make Parentheses Valid,73.7%,Medium,0.021425565169310254, https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+14,Longest Common Prefix,35.4%,Easy,0.02057347087022327, https://leetcode.com/problems/longest-common-prefix
+784,Letter Case Permutation,64.6%,Medium,0.02026411791905559, https://leetcode.com/problems/letter-case-permutation
+69,Sqrt(x),33.9%,Easy,0.020253856904497686, https://leetcode.com/problems/sqrtx
+180,Consecutive Numbers,39.7%,Medium,0.02021291655585931, https://leetcode.com/problems/consecutive-numbers
+525,Contiguous Array,42.8%,Medium,0.01975372873623256, https://leetcode.com/problems/contiguous-array
+435,Non-overlapping Intervals,42.9%,Medium,0.019455866615365896, https://leetcode.com/problems/non-overlapping-intervals
+416,Partition Equal Subset Sum,43.7%,Medium,0.01943905703222215, https://leetcode.com/problems/partition-equal-subset-sum
+1048,Longest String Chain,54.7%,Medium,0.019361689049145963, https://leetcode.com/problems/longest-string-chain
+787,Cheapest Flights Within K Stops,39.3%,Medium,0.018824085245635554, https://leetcode.com/problems/cheapest-flights-within-k-stops
+450,Delete Node in a BST,43.1%,Medium,0.018536211907915243, https://leetcode.com/problems/delete-node-in-a-bst
+290,Word Pattern,37.0%,Easy,0.01839978311884168, https://leetcode.com/problems/word-pattern
+590,N-ary Tree Postorder Traversal,72.1%,Easy,0.018182319083190436, https://leetcode.com/problems/n-ary-tree-postorder-traversal
+542,01 Matrix,39.8%,Medium,0.01796993548494071, https://leetcode.com/problems/01-matrix
+383,Ransom Note,53.1%,Easy,0.017621601349819518, https://leetcode.com/problems/ransom-note
+993,Cousins in Binary Tree,52.0%,Easy,0.017414458368636587, https://leetcode.com/problems/cousins-in-binary-tree
+104,Maximum Depth of Binary Tree,66.0%,Easy,0.017297878201610554, https://leetcode.com/problems/maximum-depth-of-binary-tree
+6,ZigZag Conversion,36.3%,Medium,0.01726827253226344, https://leetcode.com/problems/zigzag-conversion
+337,House Robber III,50.6%,Medium,0.017182553319996886, https://leetcode.com/problems/house-robber-iii
+50,Pow(x, n),30.3%,Medium,0.017036779497025166, https://leetcode.com/problems/powx-n
+389,Find the Difference,55.3%,Easy,0.016978336534417868, https://leetcode.com/problems/find-the-difference
+402,Remove K Digits,28.4%,Medium,0.016863806052004816, https://leetcode.com/problems/remove-k-digits
+1110,Delete Nodes And Return Forest,67.0%,Medium,0.01660478167636296, https://leetcode.com/problems/delete-nodes-and-return-forest
+1108,Defanging an IP Address,87.5%,Easy,0.016423726830643748, https://leetcode.com/problems/defanging-an-ip-address
+299,Bulls and Cows,42.4%,Easy,0.016227536621756702, https://leetcode.com/problems/bulls-and-cows
+340,Longest Substring with At Most K Distinct Characters,44.1%,Hard,0.016122880486563188, https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+412,Fizz Buzz,62.3%,Easy,0.016051709010507904, https://leetcode.com/problems/fizz-buzz
+509,Fibonacci Number,67.2%,Easy,0.01593518138579736, https://leetcode.com/problems/fibonacci-number
+1304,Find N Unique Integers Sum up to Zero,76.3%,Easy,0.015892269319508656, https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero
+938,Range Sum of BST,81.3%,Easy,0.015707129205357877, https://leetcode.com/problems/range-sum-of-bst
+28,Implement strStr(),34.5%,Easy,0.01568044672076543, https://leetcode.com/problems/implement-strstr
+118,Pascal's Triangle,52.5%,Easy,0.015123796918620345, https://leetcode.com/problems/pascals-triangle
+567,Permutation in String,44.4%,Medium,0.014947961435873182, https://leetcode.com/problems/permutation-in-string
+912,Sort an Array,63.9%,Medium,0.01443026482902881, https://leetcode.com/problems/sort-an-array
+107,Binary Tree Level Order Traversal II,53.5%,Easy,0.014395642075089957, https://leetcode.com/problems/binary-tree-level-order-traversal-ii
+404,Sum of Left Leaves,50.9%,Easy,0.013981353230340547, https://leetcode.com/problems/sum-of-left-leaves
+304,Range Sum Query 2D - Immutable,38.6%,Medium,0.013913267916985026, https://leetcode.com/problems/range-sum-query-2d-immutable
+724,Find Pivot Index,44.0%,Easy,0.013850636933899008, https://leetcode.com/problems/find-pivot-index
+44,Wildcard Matching,24.7%,Hard,0.013703537497261858, https://leetcode.com/problems/wildcard-matching
+1047,Remove All Adjacent Duplicates In String,68.6%,Easy,0.013059277989179281, https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+344,Reverse String,68.5%,Easy,0.013014662307854044, https://leetcode.com/problems/reverse-string
+82,Remove Duplicates from Sorted List II,36.8%,Medium,0.01297035044262745, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
+213,House Robber II,36.5%,Medium,0.012654392210497564, https://leetcode.com/problems/house-robber-ii
+852,Peak Index in a Mountain Array,71.6%,Easy,0.012618463959211509, https://leetcode.com/problems/peak-index-in-a-mountain-array
+108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.012453461071286613, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+167,Two Sum II - Input array is sorted,54.1%,Easy,0.012349223898473458, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+9,Palindrome Number,48.4%,Easy,0.01209661684713821, https://leetcode.com/problems/palindrome-number
+81,Search in Rotated Sorted Array II,33.0%,Medium,0.011689203815677656, https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+350,Intersection of Two Arrays II,51.4%,Easy,0.01168540951877908, https://leetcode.com/problems/intersection-of-two-arrays-ii
+136,Single Number,65.5%,Easy,0.011429512235126808, https://leetcode.com/problems/single-number
+90,Subsets II,47.1%,Medium,0.011412392051744769, https://leetcode.com/problems/subsets-ii
+171,Excel Sheet Column Number,55.9%,Easy,0.011195191092491645, https://leetcode.com/problems/excel-sheet-column-number
+559,Maximum Depth of N-ary Tree,68.7%,Easy,0.010974047031976715, https://leetcode.com/problems/maximum-depth-of-n-ary-tree
+463,Island Perimeter,65.7%,Easy,0.010935046086198837, https://leetcode.com/problems/island-perimeter
+662,Maximum Width of Binary Tree,41.0%,Medium,0.010790501245113902, https://leetcode.com/problems/maximum-width-of-binary-tree
+414,Third Maximum Number,30.5%,Easy,0.010357420400453607, https://leetcode.com/problems/third-maximum-number
+40,Combination Sum II,48.2%,Medium,0.009578617297069781, https://leetcode.com/problems/combination-sum-ii
+106,Construct Binary Tree from Inorder and Postorder Traversal,47.2%,Medium,0.009328969762346678, https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+189,Rotate Array,34.7%,Easy,0.00904437880665999, https://leetcode.com/problems/rotate-array
+125,Valid Palindrome,36.7%,Easy,0.008933948641551634, https://leetcode.com/problems/valid-palindrome
+953,Verifying an Alien Dictionary,54.1%,Easy,0.007884921592696038, https://leetcode.com/problems/verifying-an-alien-dictionary
+141,Linked List Cycle,41.1%,Easy,0.007843861028908454, https://leetcode.com/problems/linked-list-cycle
+1344,Angle Between Hands of a Clock,61.4%,Medium,0.007795031188053973, https://leetcode.com/problems/angle-between-hands-of-a-clock
+26,Remove Duplicates from Sorted Array,45.1%,Easy,0.007782518973063169, https://leetcode.com/problems/remove-duplicates-from-sorted-array
+94,Binary Tree Inorder Traversal,63.3%,Medium,0.007533307577636257, https://leetcode.com/problems/binary-tree-inorder-traversal
+66,Plus One,43.0%,Easy,0.007324847595025828, https://leetcode.com/problems/plus-one
+771,Jewels and Stones,86.4%,Easy,0.007284679819409419, https://leetcode.com/problems/jewels-and-stones
+1365,How Many Numbers Are Smaller Than the Current Number,85.6%,Easy,0.007109877088701047, https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number
+110,Balanced Binary Tree,43.5%,Easy,0.007027435807456887, https://leetcode.com/problems/balanced-binary-tree
+67,Add Binary,45.2%,Easy,0.006631598888145552, https://leetcode.com/problems/add-binary
+203,Remove Linked List Elements,38.6%,Easy,0.006479067005887776, https://leetcode.com/problems/remove-linked-list-elements
+151,Reverse Words in a String,21.9%,Medium,0.0061359296669270605, https://leetcode.com/problems/reverse-words-in-a-string
+1431,Kids With the Greatest Number of Candies,88.9%,Easy,0.005927699633275225, https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
+621,Task Scheduler,50.1%,Medium,0.005261323957171611, https://leetcode.com/problems/task-scheduler
+160,Intersection of Two Linked Lists,40.6%,Easy,0.004901369939720486, https://leetcode.com/problems/intersection-of-two-linked-lists
+35,Search Insert Position,42.6%,Easy,0.004646848510375352, https://leetcode.com/problems/search-insert-position
+7,Reverse Integer,25.8%,Easy,0.00418293972984512, https://leetcode.com/problems/reverse-integer
+977,Squares of a Sorted Array,72.1%,Easy,0.003891055492966611, https://leetcode.com/problems/squares-of-a-sorted-array
+78,Subsets,62.0%,Medium,0.00368765975195334, https://leetcode.com/problems/subsets
+100,Same Tree,53.4%,Easy,0.003165227373565798, https://leetcode.com/problems/same-tree
+309,Best Time to Buy and Sell Stock with Cooldown,47.4%,Medium,0.0028498166907604426, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+797,All Paths From Source to Target,77.9%,Medium,0.0024703569875376783, https://leetcode.com/problems/all-paths-from-source-to-target
+260,Single Number III,64.3%,Medium,0.0020288097849578786, https://leetcode.com/problems/single-number-iii

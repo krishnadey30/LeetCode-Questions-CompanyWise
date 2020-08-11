@@ -1,0 +1,24 @@
+206,Reverse Linked List,62.5%,Easy,0.13873591368953625, https://leetcode.com/problems/reverse-linked-list
+33,Search in Rotated Sorted Array,34.5%,Medium,0.1101693809658871, https://leetcode.com/problems/search-in-rotated-sorted-array
+223,Rectangle Area,37.8%,Medium,0.10064352577968744, https://leetcode.com/problems/rectangle-area
+146,LRU Cache,33.2%,Medium,0.08926627755405464, https://leetcode.com/problems/lru-cache
+48,Rotate Image,56.7%,Medium,0.06069974483040549, https://leetcode.com/problems/rotate-image
+231,Power of Two,43.7%,Easy,0.059357559503279325, https://leetcode.com/problems/power-of-two
+200,Number of Islands,46.8%,Medium,0.05694938541936198, https://leetcode.com/problems/number-of-islands
+706,Design HashMap,61.3%,Easy,0.039016652342451774, https://leetcode.com/problems/design-hashmap
+939,Minimum Area Rectangle,51.8%,Medium,0.03802739558923925, https://leetcode.com/problems/minimum-area-rectangle
+199,Binary Tree Right Side View,54.1%,Medium,0.034997972754213943, https://leetcode.com/problems/binary-tree-right-side-view
+1,Two Sum,45.6%,Easy,0.03409719244428431, https://leetcode.com/problems/two-sum
+70,Climbing Stairs,47.8%,Easy,0.03011156054328408, https://leetcode.com/problems/climbing-stairs
+64,Minimum Path Sum,54.5%,Medium,0.024287775531756203, https://leetcode.com/problems/minimum-path-sum
+2,Add Two Numbers,33.9%,Medium,0.020491663368639005, https://leetcode.com/problems/add-two-numbers
+97,Interleaving String,31.5%,Hard,0.020471543980187256, https://leetcode.com/problems/interleaving-string
+53,Maximum Subarray,46.5%,Easy,0.019336728821707075, https://leetcode.com/problems/maximum-subarray
+22,Generate Parentheses,62.7%,Medium,0.017331456351639924, https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,40.2%,Hard,0.016108271385328228, https://leetcode.com/problems/merge-k-sorted-lists
+114,Flatten Binary Tree to Linked List,49.3%,Medium,0.015450951155718977, https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+8,String to Integer (atoi),15.4%,Medium,0.015084664273571906, https://leetcode.com/problems/string-to-integer-atoi
+151,Reverse Words in a String,21.9%,Medium,0.013753273019471011, https://leetcode.com/problems/reverse-words-in-a-string
+739,Daily Temperatures,63.3%,Medium,0.010032690121814417, https://leetcode.com/problems/daily-temperatures
+415,Add Strings,47.5%,Easy,0.007587289812159497, https://leetcode.com/problems/add-strings
+42,Trapping Rain Water,48.9%,Hard,0.004350670338744988, https://leetcode.com/problems/trapping-rain-water

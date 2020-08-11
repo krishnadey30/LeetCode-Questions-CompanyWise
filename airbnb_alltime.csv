@@ -1,0 +1,59 @@
+336,Palindrome Pairs,33.7%,Hard,5.9749009408191585, https://leetcode.com/problems/palindrome-pairs
+755,Pour Water,43.3%,Medium,5.821525282662105, https://leetcode.com/problems/pour-water
+751,IP to CIDR,61.7%,Medium,4.677479721248074, https://leetcode.com/problems/ip-to-cidr
+251,Flatten 2D Vector,45.7%,Medium,4.501060978905473, https://leetcode.com/problems/flatten-2d-vector
+269,Alien Dictionary,33.3%,Hard,3.3570154174914424, https://leetcode.com/problems/alien-dictionary
+68,Text Justification,27.7%,Hard,3.0293920300570387, https://leetcode.com/problems/text-justification
+1166,Design File System,56.8%,Medium,2.7214059922837657, https://leetcode.com/problems/design-file-system
+787,Cheapest Flights Within K Stops,39.3%,Medium,2.66336088062552, https://leetcode.com/problems/cheapest-flights-within-k-stops
+773,Sliding Puzzle,59.3%,Hard,2.4717685123505686, https://leetcode.com/problems/sliding-puzzle
+341,Flatten Nested List Iterator,52.9%,Medium,1.766208769110585, https://leetcode.com/problems/flatten-nested-list-iterator
+166,Fraction to Recurring Decimal,21.6%,Medium,1.6639068207955374, https://leetcode.com/problems/fraction-to-recurring-decimal
+39,Combination Sum,56.1%,Medium,1.6445826005250566, https://leetcode.com/problems/combination-sum
+324,Wiggle Sort II,29.9%,Medium,1.2959351403605768, https://leetcode.com/problems/wiggle-sort-ii
+875,Koko Eating Bananas,52.1%,Medium,1.2072640854100087, https://leetcode.com/problems/koko-eating-bananas
+42,Trapping Rain Water,48.9%,Hard,1.1037585327659545, https://leetcode.com/problems/trapping-rain-water
+1,Two Sum,45.6%,Easy,1.0889331084185998, https://leetcode.com/problems/two-sum
+1058,Minimize Rounding Error to Meet Target,41.7%,Medium,1.042653635020065, https://leetcode.com/problems/minimize-rounding-error-to-meet-target
+759,Employee Free Time,66.2%,Hard,0.9190267116930299, https://leetcode.com/problems/employee-free-time
+756,Pyramid Transition Matrix,54.6%,Medium,0.8397506547518208, https://leetcode.com/problems/pyramid-transition-matrix
+864,Shortest Path to Get All Keys,40.1%,Hard,0.6061358035703156, https://leetcode.com/problems/shortest-path-to-get-all-keys
+1257,Smallest Common Region,58.8%,Medium,0.5049690916532777, https://leetcode.com/problems/smallest-common-region
+843,Guess the Word,46.1%,Hard,0.45092748218492174, https://leetcode.com/problems/guess-the-word
+212,Word Search II,34.9%,Hard,0.3492519632676119, https://leetcode.com/problems/word-search-ii
+588,Design In-Memory File System,45.9%,Hard,0.31913702461966714, https://leetcode.com/problems/design-in-memory-file-system
+322,Coin Change,35.5%,Medium,0.2559919879212256, https://leetcode.com/problems/coin-change
+2,Add Two Numbers,33.9%,Medium,0.2512393123206071, https://leetcode.com/problems/add-two-numbers
+10,Regular Expression Matching,26.8%,Hard,0.23083119919105394, https://leetcode.com/problems/regular-expression-matching
+1235,Maximum Profit in Job Scheduling,44.0%,Hard,0.23015822831359434, https://leetcode.com/problems/maximum-profit-in-job-scheduling
+299,Bulls and Cows,42.4%,Easy,0.1826623303532244, https://leetcode.com/problems/bulls-and-cows
+76,Minimum Window Substring,34.6%,Hard,0.1731900290370625, https://leetcode.com/problems/minimum-window-substring
+219,Contains Duplicate II,37.7%,Easy,0.14617994030648507, https://leetcode.com/problems/contains-duplicate-ii
+385,Mini Parser,33.8%,Medium,0.13176927763112334, https://leetcode.com/problems/mini-parser
+198,House Robber,42.0%,Easy,0.12709898426651453, https://leetcode.com/problems/house-robber
+5,Longest Palindromic Substring,29.5%,Medium,0.12076411655886263, https://leetcode.com/problems/longest-palindromic-substring
+220,Contains Duplicate III,20.9%,Medium,0.09599691440839975, https://leetcode.com/problems/contains-duplicate-iii
+280,Wiggle Sort,63.8%,Medium,0.09561417737468547, https://leetcode.com/problems/wiggle-sort
+236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.07288369759447264, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+20,Valid Parentheses,39.0%,Easy,0.06735240264428982, https://leetcode.com/problems/valid-parentheses
+4,Median of Two Sorted Arrays,29.6%,Hard,0.0606476084726819, https://leetcode.com/problems/median-of-two-sorted-arrays
+160,Intersection of Two Linked Lists,40.6%,Easy,0.043270781043381126, https://leetcode.com/problems/intersection-of-two-linked-lists
+202,Happy Number,50.4%,Easy,0.03853744444187023, https://leetcode.com/problems/happy-number
+21,Merge Two Sorted Lists,53.5%,Easy,0.03548634253021285, https://leetcode.com/problems/merge-two-sorted-lists
+136,Single Number,65.5%,Easy,0.03459819810553353, https://leetcode.com/problems/single-number
+108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.03421710570764629, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+23,Merge k Sorted Lists,40.2%,Hard,0.0250564321052577, https://leetcode.com/problems/merge-k-sorted-lists
+215,Kth Largest Element in an Array,55.4%,Medium,0.02414409892936099, https://leetcode.com/problems/kth-largest-element-in-an-array
+622,Design Circular Queue,43.7%,Medium,0.02246023667974994, https://leetcode.com/problems/design-circular-queue
+221,Maximal Square,37.7%,Medium,0.022108490754203434, https://leetcode.com/problems/maximal-square
+217,Contains Duplicate,56.0%,Easy,0.015106027431013205, https://leetcode.com/problems/contains-duplicate
+211,Add and Search Word - Data structure design,38.1%,Medium,0.010438508143923443, https://leetcode.com/problems/add-and-search-word-data-structure-design
+953,Verifying an Alien Dictionary,54.1%,Easy,0.007884921592696038, https://leetcode.com/problems/verifying-an-alien-dictionary
+190,Reverse Bits,39.8%,Easy,0.007306635849167308, https://leetcode.com/problems/reverse-bits
+34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,0.004247643638268045, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+227,Basic Calculator II,36.9%,Medium,0, https://leetcode.com/problems/basic-calculator-ii
+415,Add Strings,47.5%,Easy,0, https://leetcode.com/problems/add-strings
+1017,Convert to Base -2,59.0%,Medium,0, https://leetcode.com/problems/convert-to-base-2
+1041,Robot Bounded In Circle,49.6%,Medium,0, https://leetcode.com/problems/robot-bounded-in-circle
+1284,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,69.5%,Hard,0, https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix
+1298,Maximum Candies You Can Get from Boxes,58.8%,Hard,0, https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes

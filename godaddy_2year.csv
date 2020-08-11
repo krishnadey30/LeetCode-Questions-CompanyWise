@@ -1,0 +1,16 @@
+724,Find Pivot Index,44.0%,Easy,0.02210881658703743, https://leetcode.com/problems/find-pivot-index
+146,LRU Cache,33.2%,Medium,0.01827577993873683, https://leetcode.com/problems/lru-cache
+253,Meeting Rooms II,45.7%,Medium,0.018087309810579388, https://leetcode.com/problems/meeting-rooms-ii
+20,Valid Parentheses,39.0%,Easy,0.014292491180025941, https://leetcode.com/problems/valid-parentheses
+1,Two Sum,45.6%,Easy,0.013049691753224608, https://leetcode.com/problems/two-sum
+279,Perfect Squares,47.4%,Medium,0.009216655104924008, https://leetcode.com/problems/perfect-squares
+63,Unique Paths II,34.6%,Medium,0.008712753874961187, https://leetcode.com/problems/unique-paths-ii
+344,Reverse String,68.5%,Easy,0.00734157796234515, https://leetcode.com/problems/reverse-string
+76,Minimum Window Substring,34.6%,Hard,0.006231520398723243, https://leetcode.com/problems/minimum-window-substring
+5,Longest Palindromic Substring,29.5%,Medium,0.005121212968082452, https://leetcode.com/problems/longest-palindromic-substring
+441,Arranging Coins,41.9%,Easy,0.004995639214187909, https://leetcode.com/problems/arranging-coins
+46,Permutations,63.5%,Medium,0.004216302230139218, https://leetcode.com/problems/permutations
+4,Median of Two Sorted Arrays,29.6%,Hard,0.003900160950094767, https://leetcode.com/problems/median-of-two-sorted-arrays
+139,Word Break,40.1%,Medium,0.003894465052690167, https://leetcode.com/problems/word-break
+56,Merge Intervals,39.3%,Medium,0.0034728286335985107, https://leetcode.com/problems/merge-intervals
+200,Number of Islands,46.8%,Medium,0.0028897578265903614, https://leetcode.com/problems/number-of-islands

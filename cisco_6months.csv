@@ -1,0 +1,25 @@
+1290,Convert Binary Number in a Linked List to Integer,80.4%,Easy,0.06956650156993308, https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1235,Maximum Profit in Job Scheduling,44.0%,Hard,0.06732797308883445, https://leetcode.com/problems/maximum-profit-in-job-scheduling
+909,Snakes and Ladders,38.4%,Medium,0.06217455073507972, https://leetcode.com/problems/snakes-and-ladders
+394,Decode String,50.0%,Medium,0.04945278932693729, https://leetcode.com/problems/decode-string
+91,Decode Ways,24.7%,Medium,0.03673102791879485, https://leetcode.com/problems/decode-ways
+198,House Robber,42.0%,Easy,0.033320991026093004, https://leetcode.com/problems/house-robber
+246,Strobogrammatic Number,45.0%,Easy,0.032549659510785, https://leetcode.com/problems/strobogrammatic-number
+56,Merge Intervals,39.3%,Medium,0.02150990613527447, https://leetcode.com/problems/merge-intervals
+53,Maximum Subarray,46.5%,Easy,0.019336728821707075, https://leetcode.com/problems/maximum-subarray
+450,Delete Node in a BST,43.1%,Medium,0.018536211907915243, https://leetcode.com/problems/delete-node-in-a-bst
+191,Number of 1 Bits,49.8%,Easy,0.01673523624045844, https://leetcode.com/problems/number-of-1-bits
+5,Longest Palindromic Substring,29.5%,Medium,0.01416133329402493, https://leetcode.com/problems/longest-palindromic-substring
+48,Rotate Image,56.7%,Medium,0.011428695823622754, https://leetcode.com/problems/rotate-image
+739,Daily Temperatures,63.3%,Medium,0.010032690121814417, https://leetcode.com/problems/daily-temperatures
+212,Word Search II,34.9%,Hard,0.009845021678804893, https://leetcode.com/problems/word-search-ii
+905,Sort Array By Parity,74.1%,Easy,0.009603915354180344, https://leetcode.com/problems/sort-array-by-parity
+49,Group Anagrams,56.9%,Medium,0.008538951314232168, https://leetcode.com/problems/group-anagrams
+1,Two Sum,45.6%,Easy,0.0051178232035212715, https://leetcode.com/problems/two-sum
+207,Course Schedule,43.1%,Medium,0.004964021114211758, https://leetcode.com/problems/course-schedule
+234,Palindrome Linked List,39.3%,Easy,0.004533613114828982, https://leetcode.com/problems/palindrome-linked-list
+22,Generate Parentheses,62.7%,Medium,0.0043611059090124735, https://leetcode.com/problems/generate-parentheses
+8,String to Integer (atoi),15.4%,Medium,0.0037925521897059712, https://leetcode.com/problems/string-to-integer-atoi
+102,Binary Tree Level Order Traversal,54.6%,Medium,0.003639014205004082, https://leetcode.com/problems/binary-tree-level-order-traversal
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.003496778759264278, https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,39.0%,Easy,0.0023005704055949323, https://leetcode.com/problems/valid-parentheses

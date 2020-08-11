@@ -1,0 +1,37 @@
+146,LRU Cache,33.2%,Medium,0.17336380847901145, https://leetcode.com/problems/lru-cache
+387,First Unique Character in a String,53.4%,Easy,0.15790706492146894, https://leetcode.com/problems/first-unique-character-in-a-string
+236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.12961627631364242, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+273,Integer to English Words,27.1%,Hard,0.11180303680851608, https://leetcode.com/problems/integer-to-english-words
+449,Serialize and Deserialize BST,52.0%,Medium,0.08351224820068956, https://leetcode.com/problems/serialize-and-deserialize-bst
+981,Time Based Key-Value Store,53.1%,Medium,0.08269171584511335, https://leetcode.com/problems/time-based-key-value-store
+353,Design Snake Game,34.2%,Medium,0.05807146640389905, https://leetcode.com/problems/design-snake-game
+443,String Compression,41.3%,Easy,0.052333720049023605, https://leetcode.com/problems/string-compression
+437,Path Sum III,47.2%,Medium,0.04550116684579005, https://leetcode.com/problems/path-sum-iii
+43,Multiply Strings,33.9%,Medium,0.034530836872391495, https://leetcode.com/problems/multiply-strings
+362,Design Hit Counter,63.7%,Medium,0.024317307650706343, https://leetcode.com/problems/design-hit-counter
+127,Word Ladder,29.6%,Medium,0.022731480259023204, https://leetcode.com/problems/word-ladder
+739,Daily Temperatures,63.3%,Medium,0.02133793617365773, https://leetcode.com/problems/daily-temperatures
+285,Inorder Successor in BST,40.4%,Medium,0.021266085846178402, https://leetcode.com/problems/inorder-successor-in-bst
+113,Path Sum II,46.7%,Medium,0.020970013522095075, https://leetcode.com/problems/path-sum-ii
+112,Path Sum,41.2%,Easy,0.0207557068297192, https://leetcode.com/problems/path-sum
+289,Game of Life,54.5%,Medium,0.01662548684613402, https://leetcode.com/problems/game-of-life
+299,Bulls and Cows,42.4%,Easy,0.015504186535965254, https://leetcode.com/problems/bulls-and-cows
+4,Median of Two Sorted Arrays,29.6%,Hard,0.014786333530311531, https://leetcode.com/problems/median-of-two-sorted-arrays
+150,Evaluate Reverse Polish Notation,36.3%,Medium,0.01355493475171521, https://leetcode.com/problems/evaluate-reverse-polish-notation
+695,Max Area of Island,62.7%,Medium,0.012132390248237822, https://leetcode.com/problems/max-area-of-island
+212,Word Search II,34.9%,Hard,0.009405195123101255, https://leetcode.com/problems/word-search-ii
+20,Valid Parentheses,39.0%,Easy,0.008761898231759775, https://leetcode.com/problems/valid-parentheses
+53,Maximum Subarray,46.5%,Easy,0.008272628741228982, https://leetcode.com/problems/maximum-subarray
+33,Search in Rotated Sorted Array,34.5%,Medium,0.006961661779487692, https://leetcode.com/problems/search-in-rotated-sorted-array
+79,Word Search,35.6%,Medium,0.006548007844690591, https://leetcode.com/problems/word-search
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.005927699633275225, https://leetcode.com/problems/longest-substring-without-repeating-characters
+268,Missing Number,51.7%,Easy,0.0046685425596334085, https://leetcode.com/problems/missing-number
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.004580393778309264, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+23,Merge k Sorted Lists,40.2%,Hard,0.0038759738446929853, https://leetcode.com/problems/merge-k-sorted-lists
+139,Word Break,40.1%,Medium,0.003755167762323698, https://leetcode.com/problems/word-break
+8,String to Integer (atoi),15.4%,Medium,0.003623192369420312, https://leetcode.com/problems/string-to-integer-atoi
+13,Roman to Integer,55.7%,Easy,0.0032749333347487667, https://leetcode.com/problems/roman-to-integer
+1,Two Sum,45.6%,Easy,0.003139596786381058, https://leetcode.com/problems/two-sum
+283,Move Zeroes,57.8%,Easy,0.002758622439079723, https://leetcode.com/problems/move-zeroes
+140,Word Break II,32.6%,Hard,0.0026759448668004808, https://leetcode.com/problems/word-break-ii
+151,Reverse Words in a String,21.9%,Medium,0.0015260771341435947, https://leetcode.com/problems/reverse-words-in-a-string

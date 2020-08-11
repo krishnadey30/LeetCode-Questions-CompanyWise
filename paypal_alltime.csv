@@ -1,0 +1,59 @@
+6,ZigZag Conversion,36.3%,Medium,0.8494120771045042, https://leetcode.com/problems/zigzag-conversion
+1473,Paint House III,48.1%,Hard,0.6775218626568644, https://leetcode.com/problems/paint-house-iii
+1041,Robot Bounded In Circle,49.6%,Medium,0.583924058361535, https://leetcode.com/problems/robot-bounded-in-circle
+243,Shortest Word Distance,61.0%,Easy,0.41203384391389536, https://leetcode.com/problems/shortest-word-distance
+1,Two Sum,45.6%,Easy,0.3475579001540161, https://leetcode.com/problems/two-sum
+1497,Check If Array Pairs Are Divisible by k,41.1%,Medium,0.30887395064431883, https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k
+1297,Maximum Number of Occurrences of a Substring,47.3%,Medium,0.2800774730665616, https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+273,Integer to English Words,27.1%,Hard,0.26532833604818473, https://leetcode.com/problems/integer-to-english-words
+146,LRU Cache,33.2%,Medium,0.2585885798043696, https://leetcode.com/problems/lru-cache
+54,Spiral Matrix,34.1%,Medium,0.18243181645556916, https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,39.3%,Medium,0.13713421800838543, https://leetcode.com/problems/merge-intervals
+224,Basic Calculator,36.8%,Hard,0.12435274487954455, https://leetcode.com/problems/basic-calculator
+242,Valid Anagram,56.9%,Easy,0.11860368841030557, https://leetcode.com/problems/valid-anagram
+20,Valid Parentheses,39.0%,Easy,0.10693122823835342, https://leetcode.com/problems/valid-parentheses
+68,Text Justification,27.7%,Hard,0.10627110304957266, https://leetcode.com/problems/text-justification
+977,Squares of a Sorted Array,72.1%,Easy,0.07598590697792203, https://leetcode.com/problems/squares-of-a-sorted-array
+532,K-diff Pairs in an Array,31.6%,Easy,0.07292523990467245, https://leetcode.com/problems/k-diff-pairs-in-an-array
+283,Move Zeroes,57.8%,Easy,0.06974868393702997, https://leetcode.com/problems/move-zeroes
+206,Reverse Linked List,62.5%,Easy,0.06846564614449077, https://leetcode.com/problems/reverse-linked-list
+199,Binary Tree Right Side View,54.1%,Medium,0.06748154336946242, https://leetcode.com/problems/binary-tree-right-side-view
+53,Maximum Subarray,46.5%,Easy,0.06356179958832935, https://leetcode.com/problems/maximum-subarray
+25,Reverse Nodes in k-Group,42.1%,Hard,0.062178154907672076, https://leetcode.com/problems/reverse-nodes-in-k-group
+416,Partition Equal Subset Sum,43.7%,Medium,0.05309102319682948, https://leetcode.com/problems/partition-equal-subset-sum
+12,Integer to Roman,55.1%,Medium,0.05217122936969127, https://leetcode.com/problems/integer-to-roman
+82,Remove Duplicates from Sorted List II,36.8%,Medium,0.05090157276603699, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
+2,Add Two Numbers,33.9%,Medium,0.04985995397332526, https://leetcode.com/problems/add-two-numbers
+240,Search a 2D Matrix II,43.2%,Medium,0.04647676584572884, https://leetcode.com/problems/search-a-2d-matrix-ii
+236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.041648587234261826, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+46,Permutations,63.5%,Medium,0.03732163223353564, https://leetcode.com/problems/permutations
+128,Longest Consecutive Sequence,45.1%,Hard,0.035726058864721646, https://leetcode.com/problems/longest-consecutive-sequence
+238,Product of Array Except Self,60.1%,Medium,0.03482987258052727, https://leetcode.com/problems/product-of-array-except-self
+75,Sort Colors,47.3%,Medium,0.030801991570373215, https://leetcode.com/problems/sort-colors
+134,Gas Station,38.5%,Medium,0.030183377823098576, https://leetcode.com/problems/gas-station
+344,Reverse String,68.5%,Easy,0.029048355159926334, https://leetcode.com/problems/reverse-string
+324,Wiggle Sort II,29.9%,Medium,0.02898753687325229, https://leetcode.com/problems/wiggle-sort-ii
+33,Search in Rotated Sorted Array,34.5%,Medium,0.0287009496170278, https://leetcode.com/problems/search-in-rotated-sorted-array
+73,Set Matrix Zeroes,43.1%,Medium,0.027769920533553028, https://leetcode.com/problems/set-matrix-zeroes
+5,Longest Palindromic Substring,29.5%,Medium,0.02757010450426751, https://leetcode.com/problems/longest-palindromic-substring
+735,Asteroid Collision,41.0%,Medium,0.024723138086794758, https://leetcode.com/problems/asteroid-collision
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.024604324231039386, https://leetcode.com/problems/longest-substring-without-repeating-characters
+28,Implement strStr(),34.5%,Easy,0.02439383324633083, https://leetcode.com/problems/implement-strstr
+72,Edit Distance,44.8%,Hard,0.022400140173127806, https://leetcode.com/problems/edit-distance
+21,Merge Two Sorted Lists,53.5%,Easy,0.02011578137441701, https://leetcode.com/problems/merge-two-sorted-lists
+15,3Sum,26.8%,Medium,0.019619157889188592, https://leetcode.com/problems/3sum
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.018954919107260947, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+253,Meeting Rooms II,45.7%,Medium,0.018087309810579388, https://leetcode.com/problems/meeting-rooms-ii
+322,Coin Change,35.5%,Medium,0.016022774188122292, https://leetcode.com/problems/coin-change
+189,Rotate Array,34.7%,Easy,0.016022774188122292, https://leetcode.com/problems/rotate-array
+557,Reverse Words in a String III,69.8%,Easy,0.013731764001315941, https://leetcode.com/problems/reverse-words-in-a-string-iii
+1047,Remove All Adjacent Duplicates In String,68.6%,Easy,0.013059277989179281, https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+227,Basic Calculator II,36.9%,Medium,0.01239941490503826, https://leetcode.com/problems/basic-calculator-ii
+876,Middle of the Linked List,68.4%,Easy,0.007624893975696915, https://leetcode.com/problems/middle-of-the-linked-list
+200,Number of Islands,46.8%,Medium,0.006490251382779317, https://leetcode.com/problems/number-of-islands
+973,K Closest Points to Origin,63.8%,Medium,0.005773688094426333, https://leetcode.com/problems/k-closest-points-to-origin
+167,Two Sum II - Input array is sorted,54.1%,Easy,0.005507380022589096, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+207,Course Schedule,43.1%,Medium,0.004964021114211758, https://leetcode.com/problems/course-schedule
+104,Maximum Depth of Binary Tree,66.0%,Easy,0.002787846801433134, https://leetcode.com/problems/maximum-depth-of-binary-tree
+203,Remove Linked List Elements,38.6%,Easy,0.0016237064659255223, https://leetcode.com/problems/remove-linked-list-elements
+1229,Meeting Scheduler,52.7%,Medium,0, https://leetcode.com/problems/meeting-scheduler

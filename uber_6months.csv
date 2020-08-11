@@ -1,0 +1,59 @@
+757,Set Intersection Size At Least Two,40.1%,Hard,0.5396314899631808, https://leetcode.com/problems/set-intersection-size-at-least-two
+529,Minesweeper,59.1%,Medium,0.4349614506910173, https://leetcode.com/problems/minesweeper
+305,Number of Islands II,40.1%,Hard,0.32714090919232863, https://leetcode.com/problems/number-of-islands-ii
+1136,Parallel Courses,61.1%,Hard,0.2858421455297737, https://leetcode.com/problems/parallel-courses
+773,Sliding Puzzle,59.3%,Hard,0.26329061932762177, https://leetcode.com/problems/sliding-puzzle
+527,Word Abbreviation,54.3%,Hard,0.24362208265775043, https://leetcode.com/problems/word-abbreviation
+427,Construct Quad Tree,61.4%,Medium,0.13580154115906176, https://leetcode.com/problems/construct-quad-tree
+1188,Design Bounded Blocking Queue,70.5%,Medium,0.11030454201470608, https://leetcode.com/problems/design-bounded-blocking-queue
+267,Palindrome Permutation II,36.4%,Medium,0.10345133738802471, https://leetcode.com/problems/palindrome-permutation-ii
+1281,Subtract the Product and Sum of Digits of an Integer,85.2%,Easy,0.09413791982746433, https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer
+128,Longest Consecutive Sequence,45.1%,Hard,0.0786603197723907, https://leetcode.com/problems/longest-consecutive-sequence
+969,Pancake Sorting,67.5%,Medium,0.04908961019652358, https://leetcode.com/problems/pancake-sorting
+2,Add Two Numbers,33.9%,Medium,0.033650830145699084, https://leetcode.com/problems/add-two-numbers
+228,Summary Ranges,39.5%,Medium,0.03157326191609021, https://leetcode.com/problems/summary-ranges
+239,Sliding Window Maximum,43.0%,Hard,0.031228142547585713, https://leetcode.com/problems/sliding-window-maximum
+56,Merge Intervals,39.3%,Medium,0.030829638084076787, https://leetcode.com/problems/merge-intervals
+445,Add Two Numbers II,54.5%,Medium,0.02753309435998931, https://leetcode.com/problems/add-two-numbers-ii
+1038,Binary Search Tree to Greater Sum Tree,80.8%,Medium,0.025446665661164262, https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree
+149,Max Points on a Line,16.9%,Hard,0.02484599858653081, https://leetcode.com/problems/max-points-on-a-line
+238,Product of Array Except Self,60.1%,Medium,0.024315533698358247, https://leetcode.com/problems/product-of-array-except-self
+395,Longest Substring with At Least K Repeating Characters,41.4%,Medium,0.024228925974379843, https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+426,Convert Binary Search Tree to Sorted Doubly Linked List,59.1%,Medium,0.024214258120594613, https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+282,Expression Add Operators,35.5%,Hard,0.022523474667082946, https://leetcode.com/problems/expression-add-operators
+74,Search a 2D Matrix,36.5%,Medium,0.020896975877216107, https://leetcode.com/problems/search-a-2d-matrix
+341,Flatten Nested List Iterator,52.9%,Medium,0.019980684690483426, https://leetcode.com/problems/flatten-nested-list-iterator
+146,LRU Cache,33.2%,Medium,0.01827577993873683, https://leetcode.com/problems/lru-cache
+1,Two Sum,45.6%,Easy,0.016487580637467636, https://leetcode.com/problems/two-sum
+23,Merge k Sorted Lists,40.2%,Hard,0.016108271385328228, https://leetcode.com/problems/merge-k-sorted-lists
+297,Serialize and Deserialize Binary Tree,47.5%,Hard,0.01585377577217724, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+85,Maximal Rectangle,37.7%,Hard,0.013333530869465187, https://leetcode.com/problems/maximal-rectangle
+57,Insert Interval,33.5%,Hard,0.013119243592498872, https://leetcode.com/problems/insert-interval
+852,Peak Index in a Mountain Array,71.6%,Easy,0.012618463959211509, https://leetcode.com/problems/peak-index-in-a-mountain-array
+227,Basic Calculator II,36.9%,Medium,0.01239941490503826, https://leetcode.com/problems/basic-calculator-ii
+986,Interval List Intersections,67.3%,Medium,0.011969023795320735, https://leetcode.com/problems/interval-list-intersections
+130,Surrounded Regions,28.1%,Medium,0.011965443385675322, https://leetcode.com/problems/surrounded-regions
+211,Add and Search Word - Data structure design,38.1%,Medium,0.010438508143923443, https://leetcode.com/problems/add-and-search-word-data-structure-design
+72,Edit Distance,44.8%,Hard,0.010017614452317782, https://leetcode.com/problems/edit-distance
+380,Insert Delete GetRandom O(1),47.5%,Medium,0.009820849864094454, https://leetcode.com/problems/insert-delete-getrandom-o1
+42,Trapping Rain Water,48.9%,Hard,0.009762524655659178, https://leetcode.com/problems/trapping-rain-water
+34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,0.009531951009811851, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+46,Permutations,63.5%,Medium,0.009461803137288448, https://leetcode.com/problems/permutations
+32,Longest Valid Parentheses,28.4%,Hard,0.009111680351255843, https://leetcode.com/problems/longest-valid-parentheses
+438,Find All Anagrams in a String,43.3%,Medium,0.008126822460497498, https://leetcode.com/problems/find-all-anagrams-in-a-string
+54,Spiral Matrix,34.1%,Medium,0.0065941551175130245, https://leetcode.com/problems/spiral-matrix
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.006208067119374334, https://leetcode.com/problems/longest-substring-without-repeating-characters
+127,Word Ladder,29.6%,Medium,0.005979091056058075, https://leetcode.com/problems/word-ladder
+39,Combination Sum,56.1%,Medium,0.005715934396440999, https://leetcode.com/problems/combination-sum
+152,Maximum Product Subarray,31.7%,Medium,0.005590510716885066, https://leetcode.com/problems/maximum-product-subarray
+300,Longest Increasing Subsequence,42.6%,Medium,0.005264555460003242, https://leetcode.com/problems/longest-increasing-subsequence
+48,Rotate Image,56.7%,Medium,0.0050955524266001265, https://leetcode.com/problems/rotate-image
+53,Maximum Subarray,46.5%,Easy,0.004869349014182134, https://leetcode.com/problems/maximum-subarray
+17,Letter Combinations of a Phone Number,46.8%,Medium,0.0044018999217624675, https://leetcode.com/problems/letter-combinations-of-a-phone-number
+242,Valid Anagram,56.9%,Easy,0.004154123743115972, https://leetcode.com/problems/valid-anagram
+49,Group Anagrams,56.9%,Medium,0.0038040939835560453, https://leetcode.com/problems/group-anagrams
+200,Number of Islands,46.8%,Medium,0.0028897578265903614, https://leetcode.com/problems/number-of-islands
+20,Valid Parentheses,39.0%,Easy,0.0023005704055949323, https://leetcode.com/problems/valid-parentheses
+15,3Sum,26.8%,Medium,0.0021990113314367685, https://leetcode.com/problems/3sum
+210,Course Schedule II,40.7%,Medium,0.0019086707135282834, https://leetcode.com/problems/course-schedule-ii
+50,Pow(x, n),30.3%,Medium,0.0014016892647828818, https://leetcode.com/problems/powx-n

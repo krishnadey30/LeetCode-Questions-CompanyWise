@@ -1,0 +1,27 @@
+200,Number of Islands,46.8%,Medium,0.6743216943898789, https://leetcode.com/problems/number-of-islands
+695,Max Area of Island,62.7%,Medium,0.5272157745378819, https://leetcode.com/problems/max-area-of-island
+449,Serialize and Deserialize BST,52.0%,Medium,0.5089777138955178, https://leetcode.com/problems/serialize-and-deserialize-bst
+42,Trapping Rain Water,48.9%,Hard,0.36187179404352093, https://leetcode.com/problems/trapping-rain-water
+127,Word Ladder,29.6%,Medium,0.29067608666438566, https://leetcode.com/problems/word-ladder
+173,Binary Search Tree Iterator,56.6%,Medium,0.2676620302183387, https://leetcode.com/problems/binary-search-tree-iterator
+138,Copy List with Random Pointer,36.4%,Medium,0.2330001096609468, https://leetcode.com/problems/copy-list-with-random-pointer
+49,Group Anagrams,56.9%,Medium,0.19424008455548245, https://leetcode.com/problems/group-anagrams
+139,Word Break,40.1%,Medium,0.1314440532234174, https://leetcode.com/problems/word-break
+1041,Robot Bounded In Circle,49.6%,Medium,0.10573219378884732, https://leetcode.com/problems/robot-bounded-in-circle
+733,Flood Fill,55.3%,Easy,0.09669362480247104, https://leetcode.com/problems/flood-fill
+13,Roman to Integer,55.7%,Easy,0.08237818622149326, https://leetcode.com/problems/roman-to-integer
+103,Binary Tree Zigzag Level Order Traversal,48.3%,Medium,0.08046023391882479, https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+119,Pascal's Triangle II,49.0%,Easy,0.07211890069342013, https://leetcode.com/problems/pascals-triangle-ii
+332,Reconstruct Itinerary,36.7%,Medium,0.053921416793820044, https://leetcode.com/problems/reconstruct-itinerary
+15,3Sum,26.8%,Medium,0.04361391077370199, https://leetcode.com/problems/3sum
+722,Remove Comments,34.6%,Medium,0.04049136135473691, https://leetcode.com/problems/remove-comments
+729,My Calendar I,51.8%,Medium,0.036433902246102004, https://leetcode.com/problems/my-calendar-i
+208,Implement Trie (Prefix Tree),49.4%,Medium,0.03593469952792866, https://leetcode.com/problems/implement-trie-prefix-tree
+131,Palindrome Partitioning,47.5%,Medium,0.03101558050692165, https://leetcode.com/problems/palindrome-partitioning
+297,Serialize and Deserialize Binary Tree,47.5%,Hard,0.01585377577217724, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+767,Reorganize String,48.7%,Medium,0.01329806830463147, https://leetcode.com/problems/reorganize-string
+543,Diameter of Binary Tree,48.4%,Easy,0.011898606798495848, https://leetcode.com/problems/diameter-of-binary-tree
+69,Sqrt(x),33.9%,Easy,0.011443227222342794, https://leetcode.com/problems/sqrtx
+295,Find Median from Data Stream,44.3%,Hard,0.00899893586856953, https://leetcode.com/problems/find-median-from-data-stream
+238,Product of Array Except Self,60.1%,Medium,0.008821856860216758, https://leetcode.com/problems/product-of-array-except-self
+34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,0.004247643638268045, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array

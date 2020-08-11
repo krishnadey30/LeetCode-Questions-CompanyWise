@@ -1,0 +1,37 @@
+599,Minimum Index Sum of Two Lists,50.7%,Easy,2.30819311902822, https://leetcode.com/problems/minimum-index-sum-of-two-lists
+564,Find the Closest Palindrome,19.7%,Hard,1.686299975418363, https://leetcode.com/problems/find-the-closest-palindrome
+273,Integer to English Words,27.1%,Hard,1.064406831808506, https://leetcode.com/problems/integer-to-english-words
+332,Reconstruct Itinerary,36.7%,Medium,1.0408834009118708, https://leetcode.com/problems/reconstruct-itinerary
+355,Design Twitter,30.3%,Medium,1.0346399906708852, https://leetcode.com/problems/design-twitter
+56,Merge Intervals,39.3%,Medium,0.987222928819735, https://leetcode.com/problems/merge-intervals
+49,Group Anagrams,56.9%,Medium,0.43750160048327236, https://leetcode.com/problems/group-anagrams
+692,Top K Frequent Words,51.8%,Medium,0.43507396043031815, https://leetcode.com/problems/top-k-frequent-words
+139,Word Break,40.1%,Medium,0.35781564515486297, https://leetcode.com/problems/word-break
+218,The Skyline Problem,34.6%,Hard,0.3456466128972542, https://leetcode.com/problems/the-skyline-problem
+347,Top K Frequent Elements,61.2%,Medium,0.3398753854298785, https://leetcode.com/problems/top-k-frequent-elements
+1126,Active Businesses,68.5%,Medium,0.3208150073042144, https://leetcode.com/problems/active-businesses
+528,Random Pick with Weight,43.9%,Medium,0.31740043778091953, https://leetcode.com/problems/random-pick-with-weight
+253,Meeting Rooms II,45.7%,Medium,0.29470460870072, https://leetcode.com/problems/meeting-rooms-ii
+127,Word Ladder,29.6%,Medium,0.29067608666438566, https://leetcode.com/problems/word-ladder
+1333,Filter Restaurants by Vegan-Friendly, Price and Distance,54.6%,Medium,0.263911853117869, https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.20227578684440572, https://leetcode.com/problems/longest-substring-without-repeating-characters
+14,Longest Common Prefix,35.4%,Easy,0.1714957284786035, https://leetcode.com/problems/longest-common-prefix
+205,Isomorphic Strings,39.8%,Easy,0.1703978238463443, https://leetcode.com/problems/isomorphic-strings
+126,Word Ladder II,22.1%,Hard,0.15135837956172798, https://leetcode.com/problems/word-ladder-ii
+1,Two Sum,45.6%,Easy,0.1394299376526441, https://leetcode.com/problems/two-sum
+22,Generate Parentheses,62.7%,Medium,0.12417283375515446, https://leetcode.com/problems/generate-parentheses
+207,Course Schedule,43.1%,Medium,0.11725761496207857, https://leetcode.com/problems/course-schedule
+192,Word Frequency,25.8%,Medium,0.10186917331721722, https://leetcode.com/problems/word-frequency
+380,Insert Delete GetRandom O(1),47.5%,Medium,0.08509738264123867, https://leetcode.com/problems/insert-delete-getrandom-o1
+784,Letter Case Permutation,64.6%,Medium,0.0787033338274549, https://leetcode.com/problems/letter-case-permutation
+39,Combination Sum,56.1%,Medium,0.05030398316850793, https://leetcode.com/problems/combination-sum
+239,Sliding Window Maximum,43.0%,Hard,0.031228142547585713, https://leetcode.com/problems/sliding-window-maximum
+206,Reverse Linked List,62.5%,Easy,0.02086427467076072, https://leetcode.com/problems/reverse-linked-list
+349,Intersection of Two Arrays,62.5%,Easy,0.016239981598488416, https://leetcode.com/problems/intersection-of-two-arrays
+242,Valid Anagram,56.9%,Easy,0.009322628116274939, https://leetcode.com/problems/valid-anagram
+394,Decode String,50.0%,Medium,0.008166644000272283, https://leetcode.com/problems/decode-string
+151,Reverse Words in a String,21.9%,Medium,0.003456091915988908, https://leetcode.com/problems/reverse-words-in-a-string
+381,Insert Delete GetRandom O(1) - Duplicates allowed,34.1%,Hard,0, https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+443,String Compression,41.3%,Easy,0, https://leetcode.com/problems/string-compression
+1436,Destination City,77.3%,Easy,0, https://leetcode.com/problems/destination-city
+1455,Check If a Word Occurs As a Prefix of Any Word in a Sentence,64.6%,Easy,0, https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence

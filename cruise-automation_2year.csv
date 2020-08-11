@@ -1,0 +1,14 @@
+146,LRU Cache,33.2%,Medium,0.16703842296841676, https://leetcode.com/problems/lru-cache
+281,Zigzag Iterator,58.4%,Medium,0.10821358464023274, https://leetcode.com/problems/zigzag-iterator
+529,Minesweeper,59.1%,Medium,0.09218395607805856, https://leetcode.com/problems/minesweeper
+200,Number of Islands,46.8%,Medium,0.033359117749874545, https://leetcode.com/problems/number-of-islands
+304,Range Sum Query 2D - Immutable,38.6%,Medium,0.03016314460831995, https://leetcode.com/problems/range-sum-query-2d-immutable
+695,Max Area of Island,62.7%,Medium,0.02709377046225989, https://leetcode.com/problems/max-area-of-island
+44,Wildcard Matching,24.7%,Hard,0.013110643383019215, https://leetcode.com/problems/wildcard-matching
+986,Interval List Intersections,67.3%,Medium,0.011438500466121056, https://leetcode.com/problems/interval-list-intersections
+23,Merge k Sorted Lists,40.2%,Hard,0.008699909875545938, https://leetcode.com/problems/merge-k-sorted-lists
+63,Unique Paths II,34.6%,Medium,0.008375258336732413, https://leetcode.com/problems/unique-paths-ii
+394,Decode String,50.0%,Medium,0.0077851697215559675, https://leetcode.com/problems/decode-string
+56,Merge Intervals,39.3%,Medium,0.0074386655924217485, https://leetcode.com/problems/merge-intervals
+36,Valid Sudoku,48.7%,Medium,0.0069420618952821065, https://leetcode.com/problems/valid-sudoku
+79,Word Search,35.6%,Medium,0.006548007844690591, https://leetcode.com/problems/word-search

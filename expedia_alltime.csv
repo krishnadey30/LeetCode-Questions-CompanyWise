@@ -1,0 +1,47 @@
+20,Valid Parentheses,39.0%,Easy,0.5285821270620421, https://leetcode.com/problems/valid-parentheses
+974,Subarray Sums Divisible by K,48.9%,Medium,0.45026093827333574, https://leetcode.com/problems/subarray-sums-divisible-by-k
+73,Set Matrix Zeroes,43.1%,Medium,0.37193974948462943, https://leetcode.com/problems/set-matrix-zeroes
+1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.36508501240027386, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+443,String Compression,41.3%,Easy,0.3002083322709612, https://leetcode.com/problems/string-compression
+33,Search in Rotated Sorted Array,34.5%,Medium,0.2561733762253273, https://leetcode.com/problems/search-in-rotated-sorted-array
+295,Find Median from Data Stream,44.3%,Hard,0.24172686903184679, https://leetcode.com/problems/find-median-from-data-stream
+37,Sudoku Solver,43.6%,Hard,0.20309089276282075, https://leetcode.com/problems/sudoku-solver
+451,Sort Characters By Frequency,63.0%,Medium,0.19214843173356422, https://leetcode.com/problems/sort-characters-by-frequency
+200,Number of Islands,46.8%,Medium,0.18986549858506208, https://leetcode.com/problems/number-of-islands
+713,Subarray Product Less Than K,39.1%,Medium,0.14543583198422752, https://leetcode.com/problems/subarray-product-less-than-k
+973,K Closest Points to Origin,63.8%,Medium,0.1351947450239383, https://leetcode.com/problems/k-closest-points-to-origin
+146,LRU Cache,33.2%,Medium,0.13057313078965735, https://leetcode.com/problems/lru-cache
+1,Two Sum,45.6%,Easy,0.1299229690633312, https://leetcode.com/problems/two-sum
+88,Merge Sorted Array,39.4%,Easy,0.11989115268466984, https://leetcode.com/problems/merge-sorted-array
+53,Maximum Subarray,46.5%,Easy,0.11514006965309906, https://leetcode.com/problems/maximum-subarray
+240,Search a 2D Matrix II,43.2%,Medium,0.1149245296604198, https://leetcode.com/problems/search-a-2d-matrix-ii
+297,Serialize and Deserialize Binary Tree,47.5%,Hard,0.10763066419236544, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.0991059463235541, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+138,Copy List with Random Pointer,36.4%,Medium,0.09473133310488323, https://leetcode.com/problems/copy-list-with-random-pointer
+884,Uncommon Words from Two Sentences,63.3%,Easy,0.07990051073053109, https://leetcode.com/problems/uncommon-words-from-two-sentences
+198,House Robber,42.0%,Easy,0.05849085907372723, https://leetcode.com/problems/house-robber
+43,Multiply Strings,33.9%,Medium,0.05583052804728052, https://leetcode.com/problems/multiply-strings
+724,Find Pivot Index,44.0%,Easy,0.05428741283782842, https://leetcode.com/problems/find-pivot-index
+253,Meeting Rooms II,45.7%,Medium,0.04945628059066218, https://leetcode.com/problems/meeting-rooms-ii
+15,3Sum,26.8%,Medium,0.04361391077370199, https://leetcode.com/problems/3sum
+404,Sum of Left Leaves,50.9%,Easy,0.031187558856704493, https://leetcode.com/problems/sum-of-left-leaves
+134,Gas Station,38.5%,Medium,0.030183377823098576, https://leetcode.com/problems/gas-station
+692,Top K Frequent Words,51.8%,Medium,0.029730915184679466, https://leetcode.com/problems/top-k-frequent-words
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.024604324231039386, https://leetcode.com/problems/longest-substring-without-repeating-characters
+127,Word Ladder,29.6%,Medium,0.023704813655166343, https://leetcode.com/problems/word-ladder
+739,Daily Temperatures,63.3%,Medium,0.022433642692117093, https://leetcode.com/problems/daily-temperatures
+96,Unique Binary Search Trees,52.9%,Medium,0.02067613283842731, https://leetcode.com/problems/unique-binary-search-trees
+160,Intersection of Two Linked Lists,40.6%,Easy,0.019462966881057867, https://leetcode.com/problems/intersection-of-two-linked-lists
+314,Binary Tree Vertical Order Traversal,45.3%,Medium,0.018010392274465332, https://leetcode.com/problems/binary-tree-vertical-order-traversal
+91,Decode Ways,24.7%,Medium,0.013379120336324091, https://leetcode.com/problems/decode-ways
+242,Valid Anagram,56.9%,Easy,0.009322628116274939, https://leetcode.com/problems/valid-anagram
+215,Kth Largest Element in an Array,55.4%,Medium,0.008759180089881562, https://leetcode.com/problems/kth-largest-element-in-an-array
+167,Two Sum II - Input array is sorted,54.1%,Easy,0.005507380022589096, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+560,Subarray Sum Equals K,43.9%,Medium,0.004279454482267064, https://leetcode.com/problems/subarray-sum-equals-k
+102,Binary Tree Level Order Traversal,54.6%,Medium,0.003639014205004082, https://leetcode.com/problems/binary-tree-level-order-traversal
+611,Valid Triangle Number,48.4%,Medium,0, https://leetcode.com/problems/valid-triangle-number
+1101,The Earliest Moment When Everyone Become Friends,66.3%,Medium,0, https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+1151,Minimum Swaps to Group All 1's Together,59.3%,Medium,0, https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+1328,Break a Palindrome,43.3%,Medium,0, https://leetcode.com/problems/break-a-palindrome
+1451,Rearrange Words in a Sentence,54.8%,Medium,0, https://leetcode.com/problems/rearrange-words-in-a-sentence
+1492,The kth Factor of n,67.9%,Medium,0, https://leetcode.com/problems/the-kth-factor-of-n

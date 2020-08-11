@@ -1,0 +1,37 @@
+1290,Convert Binary Number in a Linked List to Integer,80.4%,Easy,0.15748072194904283, https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+394,Decode String,50.0%,Medium,0.1232801760013658, https://leetcode.com/problems/decode-string
+1235,Maximum Profit in Job Scheduling,44.0%,Hard,0.08907963005368878, https://leetcode.com/problems/maximum-profit-in-job-scheduling
+909,Snakes and Ladders,38.4%,Medium,0.08392620769993404, https://leetcode.com/problems/snakes-and-ladders
+198,House Robber,42.0%,Easy,0.07346911266426392, https://leetcode.com/problems/house-robber
+5,Longest Palindromic Substring,29.5%,Medium,0.05548042005986785, https://leetcode.com/problems/longest-palindromic-substring
+56,Merge Intervals,39.3%,Medium,0.054167920212564245, https://leetcode.com/problems/merge-intervals
+241,Different Ways to Add Parentheses,55.2%,Medium,0.03880215185647971, https://leetcode.com/problems/different-ways-to-add-parentheses
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.03818277748849004, https://leetcode.com/problems/longest-substring-without-repeating-characters
+905,Sort Array By Parity,74.1%,Easy,0.03787434929243582, https://leetcode.com/problems/sort-array-by-parity
+91,Decode Ways,24.7%,Medium,0.03673102791879485, https://leetcode.com/problems/decode-ways
+1,Two Sum,45.6%,Easy,0.03409719244428431, https://leetcode.com/problems/two-sum
+246,Strobogrammatic Number,45.0%,Easy,0.032549659510785, https://leetcode.com/problems/strobogrammatic-number
+53,Maximum Subarray,46.5%,Easy,0.02622855485962836, https://leetcode.com/problems/maximum-subarray
+25,Reverse Nodes in k-Group,42.1%,Hard,0.022832042042645793, https://leetcode.com/problems/reverse-nodes-in-k-group
+450,Delete Node in a BST,43.1%,Medium,0.018536211907915243, https://leetcode.com/problems/delete-node-in-a-bst
+146,LRU Cache,33.2%,Medium,0.01827577993873683, https://leetcode.com/problems/lru-cache
+191,Number of 1 Bits,49.8%,Easy,0.01673523624045844, https://leetcode.com/problems/number-of-1-bits
+48,Rotate Image,56.7%,Medium,0.011428695823622754, https://leetcode.com/problems/rotate-image
+234,Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
+739,Daily Temperatures,63.3%,Medium,0.010032690121814417, https://leetcode.com/problems/daily-temperatures
+212,Word Search II,34.9%,Hard,0.009845021678804893, https://leetcode.com/problems/word-search-ii
+22,Generate Parentheses,62.7%,Medium,0.009785877810632554, https://leetcode.com/problems/generate-parentheses
+279,Perfect Squares,47.4%,Medium,0.009216655104924008, https://leetcode.com/problems/perfect-squares
+49,Group Anagrams,56.9%,Medium,0.008538951314232168, https://leetcode.com/problems/group-anagrams
+102,Binary Tree Level Order Traversal,54.6%,Medium,0.008169238497129479, https://leetcode.com/problems/binary-tree-level-order-traversal
+14,Longest Common Prefix,35.4%,Easy,0.00745530292090591, https://leetcode.com/problems/longest-common-prefix
+88,Merge Sorted Array,39.4%,Easy,0.006760335218638243, https://leetcode.com/problems/merge-sorted-array
+54,Spiral Matrix,34.1%,Medium,0.0065941551175130245, https://leetcode.com/problems/spiral-matrix
+108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.005554027051374908, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+20,Valid Parentheses,39.0%,Easy,0.005168860577665306, https://leetcode.com/problems/valid-parentheses
+207,Course Schedule,43.1%,Medium,0.004964021114211758, https://leetcode.com/problems/course-schedule
+125,Valid Palindrome,36.7%,Easy,0.0039805008274065926, https://leetcode.com/problems/valid-palindrome
+8,String to Integer (atoi),15.4%,Medium,0.0037925521897059712, https://leetcode.com/problems/string-to-integer-atoi
+344,Reverse String,68.5%,Easy,0.003269579502519813, https://leetcode.com/problems/reverse-string
+21,Merge Two Sorted Lists,53.5%,Easy,0.0022551737583973706, https://leetcode.com/problems/merge-two-sorted-lists
+2,Add Two Numbers,33.9%,Medium,0.0016886191111440908, https://leetcode.com/problems/add-two-numbers

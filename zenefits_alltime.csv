@@ -1,0 +1,21 @@
+42,Trapping Rain Water,48.9%,Hard,0.2080272315165578, https://leetcode.com/problems/trapping-rain-water
+52,N-Queens II,57.9%,Hard,0.20340920294292344, https://leetcode.com/problems/n-queens-ii
+255,Verify Preorder Sequence in Binary Search Tree,45.7%,Medium,0.1348842676899421, https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+251,Flatten 2D Vector,45.7%,Medium,0.06635933243696077, https://leetcode.com/problems/flatten-2d-vector
+317,Shortest Distance from All Buildings,41.4%,Hard,0.03795522000043556, https://leetcode.com/problems/shortest-distance-from-all-buildings
+109,Convert Sorted List to Binary Search Tree,47.7%,Medium,0.03220314049463475, https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+206,Reverse Linked List,62.5%,Easy,0.02086427467076072, https://leetcode.com/problems/reverse-linked-list
+146,LRU Cache,33.2%,Medium,0.01827577993873683, https://leetcode.com/problems/lru-cache
+20,Valid Parentheses,39.0%,Easy,0.009170695326061695, https://leetcode.com/problems/valid-parentheses
+4,Median of Two Sorted Arrays,29.6%,Hard,0.008754068159914991, https://leetcode.com/problems/median-of-two-sorted-arrays
+210,Course Schedule II,40.7%,Medium,0.007612921575561963, https://leetcode.com/problems/course-schedule-ii
+200,Number of Islands,46.8%,Medium,0.006490251382779317, https://leetcode.com/problems/number-of-islands
+22,Generate Parentheses,62.7%,Medium,0, https://leetcode.com/problems/generate-parentheses
+125,Valid Palindrome,36.7%,Easy,0, https://leetcode.com/problems/valid-palindrome
+155,Min Stack,44.5%,Easy,0, https://leetcode.com/problems/min-stack
+168,Excel Sheet Column Title,31.1%,Easy,0, https://leetcode.com/problems/excel-sheet-column-title
+169,Majority Element,58.7%,Easy,0, https://leetcode.com/problems/majority-element
+207,Course Schedule,43.1%,Medium,0, https://leetcode.com/problems/course-schedule
+229,Majority Element II,35.6%,Medium,0, https://leetcode.com/problems/majority-element-ii
+239,Sliding Window Maximum,43.0%,Hard,0, https://leetcode.com/problems/sliding-window-maximum
+261,Graph Valid Tree,42.2%,Medium,0, https://leetcode.com/problems/graph-valid-tree

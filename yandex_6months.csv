@@ -1,0 +1,18 @@
+487,Max Consecutive Ones II,48.5%,Medium,0.03644483834479416, https://leetcode.com/problems/max-consecutive-ones-ii
+281,Zigzag Iterator,58.4%,Medium,0.034926034605810494, https://leetcode.com/problems/zigzag-iterator
+283,Move Zeroes,57.8%,Easy,0.024557850781664083, https://leetcode.com/problems/move-zeroes
+567,Permutation in String,44.4%,Medium,0.014189666957517671, https://leetcode.com/problems/permutation-in-string
+150,Evaluate Reverse Polish Notation,36.3%,Medium,0.01355493475171521, https://leetcode.com/problems/evaluate-reverse-polish-notation
+56,Merge Intervals,39.3%,Medium,0.013186279740090647, https://leetcode.com/problems/merge-intervals
+380,Insert Delete GetRandom O(1),47.5%,Medium,0.00934149716911291, https://leetcode.com/problems/insert-delete-getrandom-o1
+279,Perfect Squares,47.4%,Medium,0.008781615160384712, https://leetcode.com/problems/perfect-squares
+98,Validate Binary Search Tree,27.8%,Medium,0.0063060747091605324, https://leetcode.com/problems/validate-binary-search-tree
+21,Merge Two Sorted Lists,53.5%,Easy,0.004849147433009811, https://leetcode.com/problems/merge-two-sorted-lists
+146,LRU Cache,33.2%,Medium,0.004370636328108912, https://leetcode.com/problems/lru-cache
+22,Generate Parentheses,62.7%,Medium,0.004152398782798953, https://leetcode.com/problems/generate-parentheses
+125,Valid Palindrome,36.7%,Easy,0.0037979536727587773, https://leetcode.com/problems/valid-palindrome
+49,Group Anagrams,56.9%,Medium,0.0036347154963361594, https://leetcode.com/problems/group-anagrams
+33,Search in Rotated Sorted Array,34.5%,Medium,0.0031000567336666443, https://leetcode.com/problems/search-in-rotated-sorted-array
+88,Merge Sorted Array,39.4%,Easy,0.002885588497720344, https://leetcode.com/problems/merge-sorted-array
+206,Reverse Linked List,62.5%,Easy,0.002231770161393673, https://leetcode.com/problems/reverse-linked-list
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.0014852223137141987, https://leetcode.com/problems/longest-substring-without-repeating-characters

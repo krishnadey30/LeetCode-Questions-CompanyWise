@@ -1,0 +1,39 @@
+829,Consecutive Numbers Sum,37.5%,Hard,1.0192107113585394, https://leetcode.com/problems/consecutive-numbers-sum
+1048,Longest String Chain,54.7%,Medium,0.6021288528371614, https://leetcode.com/problems/longest-string-chain
+285,Inorder Successor in BST,40.4%,Medium,0.1850469943157836, https://leetcode.com/problems/inorder-successor-in-bst
+647,Palindromic Substrings,60.6%,Medium,0.154673282399905, https://leetcode.com/problems/palindromic-substrings
+241,Different Ways to Add Parentheses,55.2%,Medium,0.14691814457724592, https://leetcode.com/problems/different-ways-to-add-parentheses
+935,Knight Dialer,45.2%,Medium,0.09737416402517636, https://leetcode.com/problems/knight-dialer
+32,Longest Valid Parentheses,28.4%,Hard,0.07916219339634281, https://leetcode.com/problems/longest-valid-parentheses
+239,Sliding Window Maximum,43.0%,Hard,0.0483746857022364, https://leetcode.com/problems/sliding-window-maximum
+240,Search a 2D Matrix II,43.2%,Medium,0.04647676584572884, https://leetcode.com/problems/search-a-2d-matrix-ii
+20,Valid Parentheses,39.0%,Easy,0.045585204865984434, https://leetcode.com/problems/valid-parentheses
+221,Maximal Square,37.7%,Medium,0.03897229680620825, https://leetcode.com/problems/maximal-square
+42,Trapping Rain Water,48.9%,Hard,0.038490960607653675, https://leetcode.com/problems/trapping-rain-water
+332,Reconstruct Itinerary,36.7%,Medium,0.030687713231237448, https://leetcode.com/problems/reconstruct-itinerary
+622,Design Circular Queue,43.7%,Medium,0.02246023667974994, https://leetcode.com/problems/design-circular-queue
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.018954919107260947, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+628,Maximum Product of Three Numbers,47.1%,Easy,0.016529301951210565, https://leetcode.com/problems/maximum-product-of-three-numbers
+225,Implement Stack using Queues,45.1%,Easy,0.01644097863345757, https://leetcode.com/problems/implement-stack-using-queues
+340,Longest Substring with At Most K Distinct Characters,44.1%,Hard,0.016122880486563188, https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+297,Serialize and Deserialize Binary Tree,47.5%,Hard,0.01585377577217724, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+724,Find Pivot Index,44.0%,Easy,0.013850636933899008, https://leetcode.com/problems/find-pivot-index
+85,Maximal Rectangle,37.7%,Hard,0.013333530869465187, https://leetcode.com/problems/maximal-rectangle
+200,Number of Islands,46.8%,Medium,0.011509262420590827, https://leetcode.com/problems/number-of-islands
+123,Best Time to Buy and Sell Stock III,37.5%,Hard,0.011261380272539033, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+232,Implement Queue using Stacks,49.6%,Easy,0.011242389348933884, https://leetcode.com/problems/implement-queue-using-stacks
+146,LRU Cache,33.2%,Medium,0.010321192540274932, https://leetcode.com/problems/lru-cache
+212,Word Search II,34.9%,Hard,0.009845021678804893, https://leetcode.com/problems/word-search-ii
+295,Find Median from Data Stream,44.3%,Hard,0.00899893586856953, https://leetcode.com/problems/find-median-from-data-stream
+253,Meeting Rooms II,45.7%,Medium,0.008079219870546493, https://leetcode.com/problems/meeting-rooms-ii
+122,Best Time to Buy and Sell Stock II,57.0%,Easy,0.007532046655581962, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+199,Binary Tree Right Side View,54.1%,Medium,0.0056826406650506926, https://leetcode.com/problems/binary-tree-right-side-view
+105,Construct Binary Tree from Preorder and Inorder Traversal,48.8%,Medium,0.005628268691614718, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+15,3Sum,26.8%,Medium,0.004940992758742591, https://leetcode.com/problems/3sum
+53,Maximum Subarray,46.5%,Easy,0.004869349014182134, https://leetcode.com/problems/maximum-subarray
+28,Implement strStr(),34.5%,Easy,0.003943222775040032, https://leetcode.com/problems/implement-strstr
+8,String to Integer (atoi),15.4%,Medium,0.0037925521897059712, https://leetcode.com/problems/string-to-integer-atoi
+102,Binary Tree Level Order Traversal,54.6%,Medium,0.003639014205004082, https://leetcode.com/problems/binary-tree-level-order-traversal
+151,Reverse Words in a String,21.9%,Medium,0.0015375156780384337, https://leetcode.com/problems/reverse-words-in-a-string
+70,Climbing Stairs,47.8%,Easy,0.0015084665529624085, https://leetcode.com/problems/climbing-stairs
+1,Two Sum,45.6%,Easy,0.0008206138651873125, https://leetcode.com/problems/two-sum

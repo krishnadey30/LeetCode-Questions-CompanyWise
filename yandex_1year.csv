@@ -1,0 +1,29 @@
+281,Zigzag Iterator,58.4%,Medium,0.14442795545557569, https://leetcode.com/problems/zigzag-iterator
+487,Max Consecutive Ones II,48.5%,Medium,0.10973238837921641, https://leetcode.com/problems/max-consecutive-ones-ii
+283,Move Zeroes,57.8%,Easy,0.08025517978737091, https://leetcode.com/problems/move-zeroes
+125,Valid Palindrome,36.7%,Easy,0.04555961271101164, https://leetcode.com/problems/valid-palindrome
+933,Number of Recent Calls,71.9%,Easy,0.04470017891790688, https://leetcode.com/problems/number-of-recent-calls
+1004,Max Consecutive Ones III,59.1%,Medium,0.039340737501221655, https://leetcode.com/problems/max-consecutive-ones-iii
+380,Insert Delete GetRandom O(1),47.5%,Medium,0.03685354875882915, https://leetcode.com/problems/insert-delete-getrandom-o1
+228,Summary Ranges,39.5%,Medium,0.030145462786142038, https://leetcode.com/problems/summary-ranges
+56,Merge Intervals,39.3%,Medium,0.029428312930608616, https://leetcode.com/problems/merge-intervals
+146,LRU Cache,33.2%,Medium,0.027008231238717192, https://leetcode.com/problems/lru-cache
+20,Valid Parentheses,39.0%,Easy,0.02659442524606294, https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,62.7%,Medium,0.025674032888177357, https://leetcode.com/problems/generate-parentheses
+98,Validate Binary Search Tree,27.8%,Medium,0.02498915343504624, https://leetcode.com/problems/validate-binary-search-tree
+49,Group Anagrams,56.9%,Medium,0.02250319980071896, https://leetcode.com/problems/group-anagrams
+206,Reverse Linked List,62.5%,Easy,0.0199088586407687, https://leetcode.com/problems/reverse-linked-list
+567,Permutation in String,44.4%,Medium,0.014189666957517671, https://leetcode.com/problems/permutation-in-string
+150,Evaluate Reverse Polish Notation,36.3%,Medium,0.01355493475171521, https://leetcode.com/problems/evaluate-reverse-polish-notation
+443,String Compression,41.3%,Easy,0.013342426083839913, https://leetcode.com/problems/string-compression
+332,Reconstruct Itinerary,36.7%,Medium,0.01310634750530051, https://leetcode.com/problems/reconstruct-itinerary
+279,Perfect Squares,47.4%,Medium,0.008781615160384712, https://leetcode.com/problems/perfect-squares
+23,Merge k Sorted Lists,40.2%,Hard,0.008699909875545938, https://leetcode.com/problems/merge-k-sorted-lists
+21,Merge Two Sorted Lists,53.5%,Easy,0.008604516653304993, https://leetcode.com/problems/merge-two-sorted-lists
+88,Merge Sorted Array,39.4%,Easy,0.006480904084083141, https://leetcode.com/problems/merge-sorted-array
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.005927699633275225, https://leetcode.com/problems/longest-substring-without-repeating-characters
+350,Intersection of Two Arrays II,51.4%,Easy,0.004988163479138952, https://leetcode.com/problems/intersection-of-two-arrays-ii
+1,Two Sum,45.6%,Easy,0.004901297870354067, https://leetcode.com/problems/two-sum
+560,Subarray Sum Equals K,43.9%,Medium,0.00407664649376343, https://leetcode.com/problems/subarray-sum-equals-k
+101,Symmetric Tree,46.8%,Easy,0.0032666423495169026, https://leetcode.com/problems/symmetric-tree
+33,Search in Rotated Sorted Array,34.5%,Medium,0.0031000567336666443, https://leetcode.com/problems/search-in-rotated-sorted-array

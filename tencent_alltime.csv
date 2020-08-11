@@ -1,0 +1,27 @@
+1,Two Sum,45.6%,Easy,0.6244209657434179, https://leetcode.com/problems/two-sum
+169,Majority Element,58.7%,Easy,0.5183921604769917, https://leetcode.com/problems/majority-element
+5,Longest Palindromic Substring,29.5%,Medium,0.5065034436015775, https://leetcode.com/problems/longest-palindromic-substring
+206,Reverse Linked List,62.5%,Easy,0.4004746383351513, https://leetcode.com/problems/reverse-linked-list
+8,String to Integer (atoi),15.4%,Medium,0.34989797105896764, https://leetcode.com/problems/string-to-integer-atoi
+4,Median of Two Sorted Arrays,29.6%,Hard,0.2749994072467641, https://leetcode.com/problems/median-of-two-sorted-arrays
+21,Merge Two Sorted Lists,53.5%,Easy,0.24152080844569923, https://leetcode.com/problems/merge-two-sorted-lists
+215,Kth Largest Element in an Array,55.4%,Medium,0.22333903562721621, https://leetcode.com/problems/kth-largest-element-in-an-array
+160,Intersection of Two Linked Lists,40.6%,Easy,0.13857026686146906, https://leetcode.com/problems/intersection-of-two-linked-lists
+20,Valid Parentheses,39.0%,Easy,0.10693122823835342, https://leetcode.com/problems/valid-parentheses
+136,Single Number,65.5%,Easy,0.08335861851743445, https://leetcode.com/problems/single-number
+33,Search in Rotated Sorted Array,34.5%,Medium,0.07777550022464022, https://leetcode.com/problems/search-in-rotated-sorted-array
+240,Search a 2D Matrix II,43.2%,Medium,0.04647676584572884, https://leetcode.com/problems/search-a-2d-matrix-ii
+143,Reorder List,37.1%,Medium,0.04554002588608351, https://leetcode.com/problems/reorder-list
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.04215422741819192, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+256,Paint House,52.1%,Easy,0.03937516523483013, https://leetcode.com/problems/paint-house
+15,3Sum,26.8%,Medium,0.0346167609048592, https://leetcode.com/problems/3sum
+287,Find the Duplicate Number,55.5%,Medium,0.033896954598043594, https://leetcode.com/problems/find-the-duplicate-number
+543,Diameter of Binary Tree,48.4%,Easy,0.032708305572393875, https://leetcode.com/problems/diameter-of-binary-tree
+1143,Longest Common Subsequence,58.4%,Medium,0.019772173115579716, https://leetcode.com/problems/longest-common-subsequence
+394,Decode String,50.0%,Medium,0.0182820448374491, https://leetcode.com/problems/decode-string
+76,Minimum Window Substring,34.6%,Hard,0.013966707481708198, https://leetcode.com/problems/minimum-window-substring
+227,Basic Calculator II,36.9%,Medium,0.01239941490503826, https://leetcode.com/problems/basic-calculator-ii
+56,Merge Intervals,39.3%,Medium,0.0034728286335985107, https://leetcode.com/problems/merge-intervals
+190,Reverse Bits,39.8%,Easy,0.0018316700789167337, https://leetcode.com/problems/reverse-bits
+546,Remove Boxes,42.7%,Hard,0, https://leetcode.com/problems/remove-boxes
+625,Minimum Factorization,32.8%,Medium,0, https://leetcode.com/problems/minimum-factorization

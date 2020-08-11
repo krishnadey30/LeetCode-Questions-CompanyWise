@@ -1,0 +1,26 @@
+1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.0665963051641667, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+146,LRU Cache,33.2%,Medium,0.054946555458745445, https://leetcode.com/problems/lru-cache
+895,Maximum Frequency Stack,60.6%,Hard,0.04329680575332419, https://leetcode.com/problems/maximum-frequency-stack
+706,Design HashMap,61.3%,Easy,0.039016652342451774, https://leetcode.com/problems/design-hashmap
+17,Letter Combinations of a Phone Number,46.8%,Medium,0.03893646375009422, https://leetcode.com/problems/letter-combinations-of-a-phone-number
+460,LFU Cache,34.2%,Hard,0.030962225603966897, https://leetcode.com/problems/lfu-cache
+724,Find Pivot Index,44.0%,Easy,0.03089844155123413, https://leetcode.com/problems/find-pivot-index
+56,Merge Intervals,39.3%,Medium,0.030829638084076787, https://leetcode.com/problems/merge-intervals
+348,Design Tic-Tac-Toe,54.3%,Medium,0.024214258120594613, https://leetcode.com/problems/design-tic-tac-toe
+557,Reverse Words in a String III,69.8%,Easy,0.013731764001315941, https://leetcode.com/problems/reverse-words-in-a-string-iii
+547,Friend Circles,58.6%,Medium,0.012228828639434596, https://leetcode.com/problems/friend-circles
+211,Add and Search Word - Data structure design,38.1%,Medium,0.010438508143923443, https://leetcode.com/problems/add-and-search-word-data-structure-design
+212,Word Search II,34.9%,Hard,0.009845021678804893, https://leetcode.com/problems/word-search-ii
+295,Find Median from Data Stream,44.3%,Hard,0.00899893586856953, https://leetcode.com/problems/find-median-from-data-stream
+412,Fizz Buzz,62.3%,Easy,0.007165921026143679, https://leetcode.com/problems/fizz-buzz
+98,Validate Binary Search Tree,27.8%,Medium,0.006611351489350257, https://leetcode.com/problems/validate-binary-search-tree
+41,First Missing Positive,32.0%,Hard,0.0064113058208121855, https://leetcode.com/problems/first-missing-positive
+76,Minimum Window Substring,34.6%,Hard,0.006231520398723243, https://leetcode.com/problems/minimum-window-substring
+20,Valid Parentheses,39.0%,Easy,0.005168860577665306, https://leetcode.com/problems/valid-parentheses
+48,Rotate Image,56.7%,Medium,0.0050955524266001265, https://leetcode.com/problems/rotate-image
+42,Trapping Rain Water,48.9%,Hard,0.004350670338744988, https://leetcode.com/problems/trapping-rain-water
+200,Number of Islands,46.8%,Medium,0.0028897578265903614, https://leetcode.com/problems/number-of-islands
+53,Maximum Subarray,46.5%,Easy,0.002167082872150794, https://leetcode.com/problems/maximum-subarray
+1,Two Sum,45.6%,Easy,0.00184543512358731, https://leetcode.com/problems/two-sum
+2,Add Two Numbers,33.9%,Medium,0.0016886191111440908, https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,30.4%,Medium,0.0015556336509412823, https://leetcode.com/problems/longest-substring-without-repeating-characters
