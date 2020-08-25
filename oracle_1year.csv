@@ -150,7 +150,7 @@
 91,Decode Ways,24.7%,Medium,0.005968385368349129, https://leetcode.com/problems/decode-ways
 199,Binary Tree Right Side View,54.1%,Medium,0.0056826406650506926, https://leetcode.com/problems/binary-tree-right-side-view
 105,Construct Binary Tree from Preorder and Inorder Traversal,48.8%,Medium,0.005628268691614718, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
-50,Pow(x, n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
 108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.005554027051374908, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
 55,Jump Game,34.6%,Medium,0.005022612266291382, https://leetcode.com/problems/jump-game
 160,Intersection of Two Linked Lists,40.6%,Easy,0.004901369939720486, https://leetcode.com/problems/intersection-of-two-linked-lists

@@ -77,7 +77,7 @@
 665,Non-decreasing Array,19.5%,Easy,0.029053044062689753, https://leetcode.com/problems/non-decreasing-array
 129,Sum Root to Leaf Numbers,49.1%,Medium,0.02843793532053351, https://leetcode.com/problems/sum-root-to-leaf-numbers
 213,House Robber II,36.5%,Medium,0.028250466285851712, https://leetcode.com/problems/house-robber-ii
-50,Pow(x, n),30.3%,Medium,0.028008192734969368, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.028008192734969368, https://leetcode.com/problems/powx-n
 445,Add Two Numbers II,54.5%,Medium,0.02753309435998931, https://leetcode.com/problems/add-two-numbers-ii
 1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,42.1%,Medium,0.026955809988528263, https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
 951,Flip Equivalent Binary Trees,65.8%,Medium,0.025269822188076344, https://leetcode.com/problems/flip-equivalent-binary-trees

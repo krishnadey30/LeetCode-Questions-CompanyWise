@@ -433,7 +433,7 @@
 1060,Missing Element in Sorted Array,54.5%,Medium,0.06796670413163937, https://leetcode.com/problems/missing-element-in-sorted-array
 993,Cousins in Binary Tree,52.0%,Easy,0.06790898756146661, https://leetcode.com/problems/cousins-in-binary-tree
 316,Remove Duplicate Letters,35.8%,Hard,0.067239661116769, https://leetcode.com/problems/remove-duplicate-letters
-50,Pow(x, n),30.3%,Medium,0.06647190010502257, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.06647190010502257, https://leetcode.com/problems/powx-n
 584,Find Customer Referee,72.3%,Easy,0.06592172080482424, https://leetcode.com/problems/find-customer-referee
 662,Maximum Width of Binary Tree,41.0%,Medium,0.06560589270959301, https://leetcode.com/problems/maximum-width-of-binary-tree
 178,Rank Scores,45.8%,Medium,0.06551667145414991, https://leetcode.com/problems/rank-scores

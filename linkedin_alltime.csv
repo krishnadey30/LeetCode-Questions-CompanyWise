@@ -43,7 +43,7 @@
 102,Binary Tree Level Order Traversal,54.6%,Medium,1.4026563080569336, https://leetcode.com/problems/binary-tree-level-order-traversal
 381,Insert Delete GetRandom O(1) - Duplicates allowed,34.1%,Hard,1.4015377574600891, https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
 1,Two Sum,45.6%,Easy,1.3998908606433091, https://leetcode.com/problems/two-sum
-50,Pow(x, n),30.3%,Medium,1.295878904893276, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,1.295878904893276, https://leetcode.com/problems/powx-n
 33,Search in Rotated Sorted Array,34.5%,Medium,1.2373938135133047, https://leetcode.com/problems/search-in-rotated-sorted-array
 20,Valid Parentheses,39.0%,Easy,1.2333689145339155, https://leetcode.com/problems/valid-parentheses
 273,Integer to English Words,27.1%,Hard,1.2185425385498858, https://leetcode.com/problems/integer-to-english-words

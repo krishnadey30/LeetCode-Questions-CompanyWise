@@ -62,7 +62,7 @@
 34,Find First and Last Position of Element in Sorted Array,36.2%,Medium,0.14257571553993023, https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 428,Serialize and Deserialize N-ary Tree,59.4%,Hard,0.13313574474596881, https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree
 367,Valid Perfect Square,41.7%,Easy,0.1274707680128316, https://leetcode.com/problems/valid-perfect-square
-50,Pow(x, n),30.3%,Medium,0.11919639741435266, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.11919639741435266, https://leetcode.com/problems/powx-n
 101,Symmetric Tree,46.8%,Easy,0.11583847861592966, https://leetcode.com/problems/symmetric-tree
 61,Rotate List,30.0%,Medium,0.11528615545779625, https://leetcode.com/problems/rotate-list
 721,Accounts Merge,48.8%,Medium,0.11257939199174459, https://leetcode.com/problems/accounts-merge

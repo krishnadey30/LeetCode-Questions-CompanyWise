@@ -219,7 +219,7 @@
 144,Binary Tree Preorder Traversal,55.7%,Medium,0.0060975798681185, https://leetcode.com/problems/binary-tree-preorder-traversal
 91,Decode Ways,24.7%,Medium,0.005968385368349129, https://leetcode.com/problems/decode-ways
 39,Combination Sum,56.1%,Medium,0.005715934396440999, https://leetcode.com/problems/combination-sum
-50,Pow(x, n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
 108,Convert Sorted Array to Binary Search Tree,57.9%,Easy,0.005554027051374908, https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
 124,Binary Tree Maximum Path Sum,34.3%,Hard,0.005531752454833179, https://leetcode.com/problems/binary-tree-maximum-path-sum
 287,Find the Duplicate Number,55.5%,Medium,0.005501320434837602, https://leetcode.com/problems/find-the-duplicate-number

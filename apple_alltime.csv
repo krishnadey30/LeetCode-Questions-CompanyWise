@@ -303,7 +303,7 @@
 1275,Find Winner on a Tic Tac Toe Game,52.8%,Easy,0.05292240145434251, https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game
 767,Reorganize String,48.7%,Medium,0.05216306328458592, https://leetcode.com/problems/reorganize-string
 695,Max Area of Island,62.7%,Medium,0.04980799142417255, https://leetcode.com/problems/max-area-of-island
-50,Pow(x, n),30.3%,Medium,0.049262619451480506, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.049262619451480506, https://leetcode.com/problems/powx-n
 709,To Lower Case,79.3%,Easy,0.048909503032274274, https://leetcode.com/problems/to-lower-case
 621,Task Scheduler,50.1%,Medium,0.04638413032188776, https://leetcode.com/problems/task-scheduler
 166,Fraction to Recurring Decimal,21.6%,Medium,0.04478360262697337, https://leetcode.com/problems/fraction-to-recurring-decimal

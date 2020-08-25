@@ -280,7 +280,7 @@
 39,Combination Sum,56.1%,Medium,0.012815211692867591, https://leetcode.com/problems/combination-sum
 219,Contains Duplicate II,37.7%,Easy,0.01276748910345265, https://leetcode.com/problems/contains-duplicate-ii
 129,Sum Root to Leaf Numbers,49.1%,Medium,0.012739025777429757, https://leetcode.com/problems/sum-root-to-leaf-numbers
-50,Pow(x, n),30.3%,Medium,0.01254502984008178, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.01254502984008178, https://leetcode.com/problems/powx-n
 152,Maximum Product Subarray,31.7%,Medium,0.012534983069696118, https://leetcode.com/problems/maximum-product-subarray
 124,Binary Tree Maximum Path Sum,34.3%,Hard,0.012403687139326226, https://leetcode.com/problems/binary-tree-maximum-path-sum
 986,Interval List Intersections,67.3%,Medium,0.011969023795320735, https://leetcode.com/problems/interval-list-intersections

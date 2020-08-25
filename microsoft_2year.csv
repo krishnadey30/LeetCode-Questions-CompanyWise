@@ -442,7 +442,7 @@
 219,Contains Duplicate II,37.7%,Easy,0.01276748910345265, https://leetcode.com/problems/contains-duplicate-ii
 743,Network Delay Time,45.0%,Medium,0.012743084194281933, https://leetcode.com/problems/network-delay-time
 213,House Robber II,36.5%,Medium,0.012654392210497564, https://leetcode.com/problems/house-robber-ii
-50,Pow(x, n),30.3%,Medium,0.01254502984008178, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.01254502984008178, https://leetcode.com/problems/powx-n
 437,Path Sum III,47.2%,Medium,0.012128711446614806, https://leetcode.com/problems/path-sum-iii
 278,First Bad Version,35.7%,Easy,0.012090421323816148, https://leetcode.com/problems/first-bad-version
 90,Subsets II,47.1%,Medium,0.011412392051744769, https://leetcode.com/problems/subsets-ii

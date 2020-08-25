@@ -102,7 +102,7 @@
 658,Find K Closest Elements,40.9%,Medium,1.0461722557435686, https://leetcode.com/problems/find-k-closest-elements
 536,Construct Binary Tree from String,48.3%,Medium,1.0281929964622412, https://leetcode.com/problems/construct-binary-tree-from-string
 114,Flatten Binary Tree to Linked List,49.3%,Medium,1.019434258955927, https://leetcode.com/problems/flatten-binary-tree-to-linked-list
-50,Pow(x, n),30.3%,Medium,0.9999968664707609, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.9999968664707609, https://leetcode.com/problems/powx-n
 865,Smallest Subtree with all the Deepest Nodes,60.8%,Medium,0.9992659535205286, https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes
 480,Sliding Window Median,37.2%,Hard,0.9861751440709843, https://leetcode.com/problems/sliding-window-median
 283,Move Zeroes,57.8%,Easy,0.9799710505768641, https://leetcode.com/problems/move-zeroes

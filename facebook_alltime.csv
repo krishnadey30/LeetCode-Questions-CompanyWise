@@ -151,7 +151,7 @@
 21,Merge Two Sorted Lists,53.5%,Easy,1.54824799568769, https://leetcode.com/problems/merge-two-sorted-lists
 230,Kth Smallest Element in a BST,60.2%,Medium,1.53927525756437, https://leetcode.com/problems/kth-smallest-element-in-a-bst
 678,Valid Parenthesis String,31.0%,Medium,1.5238562476062738, https://leetcode.com/problems/valid-parenthesis-string
-50,Pow(x, n),30.3%,Medium,1.5210797012418373, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,1.5210797012418373, https://leetcode.com/problems/powx-n
 346,Moving Average from Data Stream,70.9%,Easy,1.5026900216652235, https://leetcode.com/problems/moving-average-from-data-stream
 1060,Missing Element in Sorted Array,54.5%,Medium,1.492039418216795, https://leetcode.com/problems/missing-element-in-sorted-array
 140,Word Break II,32.6%,Hard,1.4852880807915247, https://leetcode.com/problems/word-break-ii

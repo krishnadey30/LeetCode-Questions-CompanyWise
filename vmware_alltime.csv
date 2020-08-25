@@ -87,7 +87,7 @@
 287,Find the Duplicate Number,55.5%,Medium,0.012335682739188652, https://leetcode.com/problems/find-the-duplicate-number
 234,Palindrome Linked List,39.3%,Easy,0.010171877938733932, https://leetcode.com/problems/palindrome-linked-list
 28,Implement strStr(),34.5%,Easy,0.008850485542574548, https://leetcode.com/problems/implement-strstr
-50,Pow(x, n),30.3%,Medium,0.008728496167158806, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.008728496167158806, https://leetcode.com/problems/powx-n
 416,Partition Equal Subset Sum,43.7%,Medium,0.008686265255960345, https://leetcode.com/problems/partition-equal-subset-sum
 394,Decode String,50.0%,Medium,0.008166644000272283, https://leetcode.com/problems/decode-string
 16,3Sum Closest,46.0%,Medium,0.0075259057003469075, https://leetcode.com/problems/3sum-closest

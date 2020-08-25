@@ -129,7 +129,7 @@
 72,Edit Distance,44.8%,Hard,0.18554648786569794, https://leetcode.com/problems/edit-distance
 181,Employees Earning More Than Their Managers,56.9%,Easy,0.18496356625679328, https://leetcode.com/problems/employees-earning-more-than-their-managers
 61,Rotate List,30.0%,Medium,0.18398268674403112, https://leetcode.com/problems/rotate-list
-50,Pow(x, n),30.3%,Medium,0.18397417464169494, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.18397417464169494, https://leetcode.com/problems/powx-n
 221,Maximal Square,37.7%,Medium,0.1833146055349465, https://leetcode.com/problems/maximal-square
 239,Sliding Window Maximum,43.0%,Hard,0.18086662630782, https://leetcode.com/problems/sliding-window-maximum
 112,Path Sum,41.2%,Easy,0.18019396942949986, https://leetcode.com/problems/path-sum

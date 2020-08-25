@@ -110,7 +110,7 @@
 198,House Robber,42.0%,Easy,0.0037576371128333645, https://leetcode.com/problems/house-robber
 78,Subsets,62.0%,Medium,0.00368765975195334, https://leetcode.com/problems/subsets
 14,Longest Common Prefix,35.4%,Easy,0.003320331762984143, https://leetcode.com/problems/longest-common-prefix
-50,Pow(x, n),30.3%,Medium,0.0031510424503886844, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0031510424503886844, https://leetcode.com/problems/powx-n
 88,Merge Sorted Array,39.4%,Easy,0.0030102370714243072, https://leetcode.com/problems/merge-sorted-array
 98,Validate Binary Search Tree,27.8%,Medium,0.002943776044013381, https://leetcode.com/problems/validate-binary-search-tree
 140,Word Break II,32.6%,Hard,0.0027070942357783584, https://leetcode.com/problems/word-break-ii

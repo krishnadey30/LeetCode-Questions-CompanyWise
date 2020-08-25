@@ -215,7 +215,7 @@
 83,Remove Duplicates from Sorted List,45.4%,Easy,0.006353261522609498, https://leetcode.com/problems/remove-duplicates-from-sorted-list
 104,Maximum Depth of Binary Tree,66.0%,Easy,0.006261761223976207, https://leetcode.com/problems/maximum-depth-of-binary-tree
 105,Construct Binary Tree from Preorder and Inorder Traversal,48.8%,Medium,0.005628268691614718, https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
-50,Pow(x, n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
 124,Binary Tree Maximum Path Sum,34.3%,Hard,0.005531752454833179, https://leetcode.com/problems/binary-tree-maximum-path-sum
 237,Delete Node in a Linked List,63.8%,Easy,0.005144705881237697, https://leetcode.com/problems/delete-node-in-a-linked-list
 1470,Shuffle the Array,88.9%,Easy,0.004527967890154029, https://leetcode.com/problems/shuffle-the-array

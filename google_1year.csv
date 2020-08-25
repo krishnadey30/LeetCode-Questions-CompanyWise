@@ -480,7 +480,7 @@
 82,Remove Duplicates from Sorted List II,36.8%,Medium,0.01297035044262745, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii
 213,House Robber II,36.5%,Medium,0.012654392210497564, https://leetcode.com/problems/house-robber-ii
 181,Employees Earning More Than Their Managers,56.9%,Easy,0.012618463959211509, https://leetcode.com/problems/employees-earning-more-than-their-managers
-50,Pow(x, n),30.3%,Medium,0.01254502984008178, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.01254502984008178, https://leetcode.com/problems/powx-n
 547,Friend Circles,58.6%,Medium,0.012228828639434596, https://leetcode.com/problems/friend-circles
 11,Container With Most Water,50.8%,Medium,0.012214824746492168, https://leetcode.com/problems/container-with-most-water
 1313,Decompress Run-Length Encoded List,85.1%,Easy,0.012088391385967972, https://leetcode.com/problems/decompress-run-length-encoded-list

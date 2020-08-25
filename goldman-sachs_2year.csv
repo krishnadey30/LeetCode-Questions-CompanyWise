@@ -96,7 +96,7 @@
 204,Count Primes,31.5%,Easy,0.007072165261362441, https://leetcode.com/problems/count-primes
 973,K Closest Points to Origin,63.8%,Medium,0.005773688094426333, https://leetcode.com/problems/k-closest-points-to-origin
 39,Combination Sum,56.1%,Medium,0.005715934396440999, https://leetcode.com/problems/combination-sum
-50,Pow(x, n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
 237,Delete Node in a Linked List,63.8%,Easy,0.005144705881237697, https://leetcode.com/problems/delete-node-in-a-linked-list
 15,3Sum,26.8%,Medium,0.004940992758742591, https://leetcode.com/problems/3sum
 160,Intersection of Two Linked Lists,40.6%,Easy,0.004901369939720486, https://leetcode.com/problems/intersection-of-two-linked-lists

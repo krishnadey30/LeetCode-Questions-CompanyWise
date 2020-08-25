@@ -280,7 +280,7 @@
 426,Convert Binary Search Tree to Sorted Doubly Linked List,59.1%,Medium,0.024214258120594613, https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
 662,Maximum Width of Binary Tree,41.0%,Medium,0.024116924478312346, https://leetcode.com/problems/maximum-width-of-binary-tree
 844,Backspace String Compare,46.4%,Easy,0.0235551325028849, https://leetcode.com/problems/backspace-string-compare
-50,Pow(x, n),30.3%,Medium,0.022194620516948222, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.022194620516948222, https://leetcode.com/problems/powx-n
 278,First Bad Version,35.7%,Easy,0.021394050366625766, https://leetcode.com/problems/first-bad-version
 45,Jump Game II,30.6%,Hard,0.021353124470568974, https://leetcode.com/problems/jump-game-ii
 350,Intersection of Two Arrays II,51.4%,Easy,0.020680587107206983, https://leetcode.com/problems/intersection-of-two-arrays-ii

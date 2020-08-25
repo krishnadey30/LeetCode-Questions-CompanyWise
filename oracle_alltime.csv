@@ -181,7 +181,7 @@
 88,Merge Sorted Array,39.4%,Easy,0.018667009593356397, https://leetcode.com/problems/merge-sorted-array
 617,Merge Two Binary Trees,74.1%,Easy,0.018496211633622316, https://leetcode.com/problems/merge-two-binary-trees
 239,Sliding Window Maximum,43.0%,Hard,0.01768566434627554, https://leetcode.com/problems/sliding-window-maximum
-50,Pow(x, n),30.3%,Medium,0.017036779497025166, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.017036779497025166, https://leetcode.com/problems/powx-n
 402,Remove K Digits,28.4%,Medium,0.016863806052004816, https://leetcode.com/problems/remove-k-digits
 340,Longest Substring with At Most K Distinct Characters,44.1%,Hard,0.016122880486563188, https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
 217,Contains Duplicate,56.0%,Easy,0.015106027431013205, https://leetcode.com/problems/contains-duplicate

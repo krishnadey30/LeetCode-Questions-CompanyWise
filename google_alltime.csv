@@ -345,7 +345,7 @@
 660,Remove 9,53.3%,Hard,1.11365016603265, https://leetcode.com/problems/remove-9
 986,Interval List Intersections,67.3%,Medium,1.110184644469336, https://leetcode.com/problems/interval-list-intersections
 7,Reverse Integer,25.8%,Easy,1.108160891856326, https://leetcode.com/problems/reverse-integer
-50,Pow(x, n),30.3%,Medium,1.1070626497293488, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,1.1070626497293488, https://leetcode.com/problems/powx-n
 310,Minimum Height Trees,32.3%,Medium,1.1006741450686683, https://leetcode.com/problems/minimum-height-trees
 116,Populating Next Right Pointers in Each Node,45.2%,Medium,1.100206500790656, https://leetcode.com/problems/populating-next-right-pointers-in-each-node
 609,Find Duplicate File in System,59.5%,Medium,1.0830779957059256, https://leetcode.com/problems/find-duplicate-file-in-system

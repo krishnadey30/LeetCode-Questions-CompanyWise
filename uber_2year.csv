@@ -255,7 +255,7 @@
 322,Coin Change,35.5%,Medium,0.00904437880665999, https://leetcode.com/problems/coin-change
 15,3Sum,26.8%,Medium,0.00876717944353383, https://leetcode.com/problems/3sum
 215,Kth Largest Element in an Array,55.4%,Medium,0.008759180089881562, https://leetcode.com/problems/kth-largest-element-in-an-array
-50,Pow(x, n),30.3%,Medium,0.008728496167158806, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.008728496167158806, https://leetcode.com/problems/powx-n
 416,Partition Equal Subset Sum,43.7%,Medium,0.008686265255960345, https://leetcode.com/problems/partition-equal-subset-sum
 8,String to Integer (atoi),15.4%,Medium,0.008513104762248265, https://leetcode.com/problems/string-to-integer-atoi
 153,Find Minimum in Rotated Sorted Array,45.1%,Medium,0.008430963288799368, https://leetcode.com/problems/find-minimum-in-rotated-sorted-array

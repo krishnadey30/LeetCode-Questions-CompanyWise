@@ -343,7 +343,7 @@
 101,Symmetric Tree,46.8%,Easy,0.0034057078469827435, https://leetcode.com/problems/symmetric-tree
 94,Binary Tree Inorder Traversal,63.3%,Medium,0.0033551449021403577, https://leetcode.com/problems/binary-tree-inorder-traversal
 344,Reverse String,68.5%,Easy,0.003269579502519813, https://leetcode.com/problems/reverse-string
-50,Pow(x, n),30.3%,Medium,0.0031510424503886844, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0031510424503886844, https://leetcode.com/problems/powx-n
 104,Maximum Depth of Binary Tree,66.0%,Easy,0.002787846801433134, https://leetcode.com/problems/maximum-depth-of-binary-tree
 26,Remove Duplicates from Sorted Array,45.1%,Easy,0.0019513153174351963, https://leetcode.com/problems/remove-duplicates-from-sorted-array
 190,Reverse Bits,39.8%,Easy,0.0018316700789167337, https://leetcode.com/problems/reverse-bits

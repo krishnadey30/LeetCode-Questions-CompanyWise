@@ -234,7 +234,7 @@
 153,Find Minimum in Rotated Sorted Array,45.1%,Medium,0.0037558729598054378, https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 101,Symmetric Tree,46.8%,Easy,0.0034057078469827435, https://leetcode.com/problems/symmetric-tree
 122,Best Time to Buy and Sell Stock II,57.0%,Easy,0.0033545821461532107, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
-50,Pow(x, n),30.3%,Medium,0.0031510424503886844, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0031510424503886844, https://leetcode.com/problems/powx-n
 136,Single Number,65.5%,Easy,0.002869648285357666, https://leetcode.com/problems/single-number
 104,Maximum Depth of Binary Tree,66.0%,Easy,0.002787846801433134, https://leetcode.com/problems/maximum-depth-of-binary-tree
 106,Construct Binary Tree from Inorder and Postorder Traversal,47.2%,Medium,0.00234041415121758, https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal

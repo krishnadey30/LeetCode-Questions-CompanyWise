@@ -250,7 +250,7 @@
 266,Palindrome Permutation,61.9%,Easy,0.41882207294422785, https://leetcode.com/problems/palindrome-permutation
 162,Find Peak Element,43.3%,Medium,0.41607906913719583, https://leetcode.com/problems/find-peak-element
 30,Substring with Concatenation of All Words,25.4%,Hard,0.41194709630297865, https://leetcode.com/problems/substring-with-concatenation-of-all-words
-50,Pow(x, n),30.3%,Medium,0.4096992146874839, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.4096992146874839, https://leetcode.com/problems/powx-n
 448,Find All Numbers Disappeared in an Array,55.9%,Easy,0.4038568366529517, https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
 112,Path Sum,41.2%,Easy,0.4021229967221487, https://leetcode.com/problems/path-sum
 316,Remove Duplicate Letters,35.8%,Hard,0.40185220095239377, https://leetcode.com/problems/remove-duplicate-letters

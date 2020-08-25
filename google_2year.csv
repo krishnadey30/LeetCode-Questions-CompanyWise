@@ -543,7 +543,7 @@
 26,Remove Duplicates from Sorted Array,45.1%,Easy,0.06795386974703942, https://leetcode.com/problems/remove-duplicates-from-sorted-array
 504,Base 7,46.2%,Easy,0.06759329113252818, https://leetcode.com/problems/base-7
 1027,Longest Arithmetic Sequence,53.4%,Medium,0.06693948267510934, https://leetcode.com/problems/longest-arithmetic-sequence
-50,Pow(x, n),30.3%,Medium,0.06647190010502257, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.06647190010502257, https://leetcode.com/problems/powx-n
 167,Two Sum II - Input array is sorted,54.1%,Easy,0.06546140041370939, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 658,Find K Closest Elements,40.9%,Medium,0.06485254217956125, https://leetcode.com/problems/find-k-closest-elements
 747,Largest Number At Least Twice of Others,42.0%,Easy,0.06481750007647082, https://leetcode.com/problems/largest-number-at-least-twice-of-others

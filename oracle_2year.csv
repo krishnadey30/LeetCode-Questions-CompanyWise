@@ -139,7 +139,7 @@
 38,Count and Say,44.6%,Easy,0.01753063983505879, https://leetcode.com/problems/count-and-say
 289,Game of Life,54.5%,Medium,0.0173239499317743, https://leetcode.com/problems/game-of-life
 876,Middle of the Linked List,68.4%,Easy,0.01707497375257815, https://leetcode.com/problems/middle-of-the-linked-list
-50,Pow(x, n),30.3%,Medium,0.017036779497025166, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.017036779497025166, https://leetcode.com/problems/powx-n
 560,Subarray Sum Equals K,43.9%,Medium,0.017009020666013328, https://leetcode.com/problems/subarray-sum-equals-k
 402,Remove K Digits,28.4%,Medium,0.016863806052004816, https://leetcode.com/problems/remove-k-digits
 51,N-Queens,46.6%,Hard,0.016393809775676407, https://leetcode.com/problems/n-queens

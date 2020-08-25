@@ -341,7 +341,7 @@
 64,Minimum Path Sum,54.5%,Medium,0.006127470152097104, https://leetcode.com/problems/minimum-path-sum
 144,Binary Tree Preorder Traversal,55.7%,Medium,0.0060975798681185, https://leetcode.com/problems/binary-tree-preorder-traversal
 973,K Closest Points to Origin,63.8%,Medium,0.005773688094426333, https://leetcode.com/problems/k-closest-points-to-origin
-50,Pow(x, n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.0055950070772402055, https://leetcode.com/problems/powx-n
 167,Two Sum II - Input array is sorted,54.1%,Easy,0.005507380022589096, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 112,Path Sum,41.2%,Easy,0.00546972510956646, https://leetcode.com/problems/path-sum
 106,Construct Binary Tree from Inorder and Postorder Traversal,47.2%,Medium,0.005258250021550252, https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal

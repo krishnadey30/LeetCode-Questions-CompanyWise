@@ -379,7 +379,7 @@
 44,Wildcard Matching,24.7%,Hard,0.19947835142380788, https://leetcode.com/problems/wildcard-matching
 836,Rectangle Overlap,48.6%,Easy,0.19944370144318244, https://leetcode.com/problems/rectangle-overlap
 1007,Minimum Domino Rotations For Equal Row,50.0%,Medium,0.19906748870593582, https://leetcode.com/problems/minimum-domino-rotations-for-equal-row
-50,Pow(x, n),30.3%,Medium,0.1981682603478686, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.1981682603478686, https://leetcode.com/problems/powx-n
 1315,Sum of Nodes with Even-Valued Grandparent,83.5%,Medium,0.19757677034220278, https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent
 637,Average of Levels in Binary Tree,63.1%,Easy,0.1972664368553499, https://leetcode.com/problems/average-of-levels-in-binary-tree
 214,Shortest Palindrome,29.8%,Hard,0.19671029424605424, https://leetcode.com/problems/shortest-palindrome

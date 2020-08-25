@@ -85,7 +85,7 @@
 993,Cousins in Binary Tree,52.0%,Easy,0.03876454345024432, https://leetcode.com/problems/cousins-in-binary-tree
 380,Insert Delete GetRandom O(1),47.5%,Medium,0.038717635350707984, https://leetcode.com/problems/insert-delete-getrandom-o1
 317,Shortest Distance from All Buildings,41.4%,Hard,0.03795522000043556, https://leetcode.com/problems/shortest-distance-from-all-buildings
-50,Pow(x, n),30.3%,Medium,0.034465967879243095, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.034465967879243095, https://leetcode.com/problems/powx-n
 167,Two Sum II - Input array is sorted,54.1%,Easy,0.03393376616898467, https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 198,House Robber,42.0%,Easy,0.033320991026093004, https://leetcode.com/problems/house-robber
 237,Delete Node in a Linked List,63.8%,Easy,0.031728549820175866, https://leetcode.com/problems/delete-node-in-a-linked-list

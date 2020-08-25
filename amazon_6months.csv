@@ -400,7 +400,7 @@
 104,Maximum Depth of Binary Tree,66.0%,Easy,0.017297878201610554, https://leetcode.com/problems/maximum-depth-of-binary-tree
 6,ZigZag Conversion,36.3%,Medium,0.01726827253226344, https://leetcode.com/problems/zigzag-conversion
 337,House Robber III,50.6%,Medium,0.017182553319996886, https://leetcode.com/problems/house-robber-iii
-50,Pow(x, n),30.3%,Medium,0.017036779497025166, https://leetcode.com/problems/powx-n
+50,Pow(x;n),30.3%,Medium,0.017036779497025166, https://leetcode.com/problems/powx-n
 389,Find the Difference,55.3%,Easy,0.016978336534417868, https://leetcode.com/problems/find-the-difference
 402,Remove K Digits,28.4%,Medium,0.016863806052004816, https://leetcode.com/problems/remove-k-digits
 1110,Delete Nodes And Return Forest,67.0%,Medium,0.01660478167636296, https://leetcode.com/problems/delete-nodes-and-return-forest
