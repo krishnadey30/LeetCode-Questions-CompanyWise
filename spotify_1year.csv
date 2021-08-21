@@ -3,7 +3,7 @@
 784,Letter Case Permutation,64.6%,Medium,0.02026411791905559, https://leetcode.com/problems/letter-case-permutation
 22,Generate Parentheses,62.7%,Medium,0.017331456351639924, https://leetcode.com/problems/generate-parentheses
 20,Valid Parentheses,39.0%,Easy,0.014292491180025941, https://leetcode.com/problems/valid-parentheses
-443,String Compression,41.3%,Easy,0.01390843004613198, https://leetcode.com/problems/string-compression
+443,String Compression,41.3%,Medium,0.01390843004613198, https://leetcode.com/problems/string-compression
 146,LRU Cache,33.2%,Medium,0.010321192540274932, https://leetcode.com/problems/lru-cache
 206,Reverse Linked List,62.5%,Easy,0.009326794511974934, https://leetcode.com/problems/reverse-linked-list
 128,Longest Consecutive Sequence,45.1%,Hard,0.009051883485315484, https://leetcode.com/problems/longest-consecutive-sequence
