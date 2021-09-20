@@ -13,7 +13,7 @@
 528,Random Pick with Weight,43.9%,Medium,0.31740043778091953, https://leetcode.com/problems/random-pick-with-weight
 253,Meeting Rooms II,45.7%,Medium,0.29470460870072, https://leetcode.com/problems/meeting-rooms-ii
 127,Word Ladder,29.6%,Medium,0.29067608666438566, https://leetcode.com/problems/word-ladder
-1333,Filter Restaurants by Vegan-Friendly, Price and Distance,54.6%,Medium,0.263911853117869, https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
+1333,Filter Restaurants by Vegan-Friendly & Price and Distance,54.6%,Medium,0.263911853117869, https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
 3,Longest Substring Without Repeating Characters,30.4%,Medium,0.20227578684440572, https://leetcode.com/problems/longest-substring-without-repeating-characters
 14,Longest Common Prefix,35.4%,Easy,0.1714957284786035, https://leetcode.com/problems/longest-common-prefix
 205,Isomorphic Strings,39.8%,Easy,0.1703978238463443, https://leetcode.com/problems/isomorphic-strings
