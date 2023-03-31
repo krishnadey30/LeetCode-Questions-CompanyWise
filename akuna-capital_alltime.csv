@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 713,Subarray Product Less Than K,39.1%,Medium,1.072475096007634, https://leetcode.com/problems/subarray-product-less-than-k
 1223,Dice Roll Simulation,45.6%,Medium,0.8403614163905465, https://leetcode.com/problems/dice-roll-simulation
 995,Minimum Number of K Consecutive Bit Flips,46.8%,Hard,0.6082477367734591, https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
