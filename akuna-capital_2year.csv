@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 713,Subarray Product Less Than K,39.1%,Medium,0.6727517560064701, https://leetcode.com/problems/subarray-product-less-than-k
 1223,Dice Roll Simulation,45.6%,Medium,0.5140462384660329, https://leetcode.com/problems/dice-roll-simulation
 1411,Number of Ways to Paint N × 3 Grid,61.1%,Hard,0.35534072092559577, https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid
