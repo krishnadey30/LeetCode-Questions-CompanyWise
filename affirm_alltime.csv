@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 736,Parse Lisp Expression,47.5%,Hard,1.0065947176467498, https://leetcode.com/problems/parse-lisp-expression
 381,Insert Delete GetRandom O(1) - Duplicates allowed,34.1%,Hard,0.6946505634539769, https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
 695,Max Area of Island,62.7%,Medium,0.5227168031344483, https://leetcode.com/problems/max-area-of-island
