@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 37,Sudoku Solver,43.6%,Hard,0.0346243462817872, https://leetcode.com/problems/sudoku-solver
 165,Compare Version Numbers,27.4%,Medium,0.029283880120642022, https://leetcode.com/problems/compare-version-numbers
 21,Merge Two Sorted Lists,53.5%,Easy,0.02011578137441701, https://leetcode.com/problems/merge-two-sorted-lists

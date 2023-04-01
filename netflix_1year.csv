@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 981,Time Based Key-Value Store,53.1%,Medium,0.0417652106742648, https://leetcode.com/problems/time-based-key-value-store
 362,Design Hit Counter,63.7%,Medium,0.025382073271417165, https://leetcode.com/problems/design-hit-counter
 295,Find Median from Data Stream,44.3%,Hard,0.00899893586856953, https://leetcode.com/problems/find-median-from-data-stream

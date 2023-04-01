@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 974,Subarray Sums Divisible by K,48.9%,Medium,0.23897880752617776, https://leetcode.com/problems/subarray-sums-divisible-by-k
 1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.17884755718277986, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
 443,String Compression,41.3%,Easy,0.11871630683938197, https://leetcode.com/problems/string-compression

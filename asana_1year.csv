@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 98,Validate Binary Search Tree,27.8%,Medium,0.15946580717044478, https://leetcode.com/problems/validate-binary-search-tree
 238,Product of Array Except Self,60.1%,Medium,0.14381651020193786, https://leetcode.com/problems/product-of-array-except-self
 973,K Closest Points to Origin,63.8%,Medium,0.0846954809648288, https://leetcode.com/problems/k-closest-points-to-origin

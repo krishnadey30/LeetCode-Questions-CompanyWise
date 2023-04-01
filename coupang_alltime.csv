@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1296,Divide Array in Sets of K Consecutive Numbers,53.8%,Medium,0.06650266441668072, https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers
 759,Employee Free Time,66.3%,Hard,0.046358242602104555, https://leetcode.com/problems/employee-free-time
 114,Flatten Binary Tree to Linked List,49.3%,Medium,0.026213820787528385, https://leetcode.com/problems/flatten-binary-tree-to-linked-list

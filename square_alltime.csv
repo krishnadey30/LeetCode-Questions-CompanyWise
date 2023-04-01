@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 72,Edit Distance,44.8%,Hard,0.8278420197119241, https://leetcode.com/problems/edit-distance
 271,Encode and Decode Strings,31.5%,Medium,0.6492888646599129, https://leetcode.com/problems/encode-and-decode-strings
 969,Pancake Sorting,67.5%,Medium,0.5905780135393897, https://leetcode.com/problems/pancake-sorting

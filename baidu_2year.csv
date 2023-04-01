@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 871,Minimum Number of Refueling Stops,31.4%,Hard,0.021853241177366825, https://leetcode.com/problems/minimum-number-of-refueling-stops
 146,LRU Cache,33.2%,Medium,0.017369086240613615, https://leetcode.com/problems/lru-cache
 91,Decode Ways,24.7%,Medium,0.012884931303860403, https://leetcode.com/problems/decode-ways

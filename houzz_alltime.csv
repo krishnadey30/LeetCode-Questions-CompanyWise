@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 227,Basic Calculator II,36.9%,Medium,0.21141874864915486, https://leetcode.com/problems/basic-calculator-ii
 727,Minimum Window Subsequence,41.8%,Hard,0.15970111035790735, https://leetcode.com/problems/minimum-window-subsequence
 304,Range Sum Query 2D - Immutable,38.6%,Medium,0.1583948504722182, https://leetcode.com/problems/range-sum-query-2d-immutable

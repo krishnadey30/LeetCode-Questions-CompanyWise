@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 312,Burst Balloons,51.8%,Hard,0.05677042474639432, https://leetcode.com/problems/burst-balloons
 32,Longest Valid Parentheses,28.4%,Hard,0.03477099521294092, https://leetcode.com/problems/longest-valid-parentheses
 85,Maximal Rectangle,37.7%,Hard,0.012771565679487524, https://leetcode.com/problems/maximal-rectangle

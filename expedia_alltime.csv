@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 20,Valid Parentheses,39.0%,Easy,0.5285821270620421, https://leetcode.com/problems/valid-parentheses
 974,Subarray Sums Divisible by K,48.9%,Medium,0.45026093827333574, https://leetcode.com/problems/subarray-sums-divisible-by-k
 73,Set Matrix Zeroes,43.1%,Medium,0.37193974948462943, https://leetcode.com/problems/set-matrix-zeroes

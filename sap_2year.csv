@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1349,Maximum Students Taking Exam,42.0%,Hard,0.12179424958237695, https://leetcode.com/problems/maximum-students-taking-exam
 738,Monotone Increasing Digits,44.3%,Medium,0.08479653666007693, https://leetcode.com/problems/monotone-increasing-digits
 1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.047798823737776906, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

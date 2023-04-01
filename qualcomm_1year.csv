@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 160,Intersection of Two Linked Lists,40.6%,Easy,0.009840575641962807, https://leetcode.com/problems/intersection-of-two-linked-lists
 191,Number of 1 Bits,49.8%,Easy,0.007169774395423815, https://leetcode.com/problems/number-of-1-bits
 237,Delete Node in a Linked List,63.8%,Easy,0.004902571407932664, https://leetcode.com/problems/delete-node-in-a-linked-list

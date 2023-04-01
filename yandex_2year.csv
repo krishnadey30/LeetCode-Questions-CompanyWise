@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 281,Zigzag Iterator,58.4%,Medium,0.15115252496881726, https://leetcode.com/problems/zigzag-iterator
 283,Move Zeroes,57.8%,Easy,0.12694900267046355, https://leetcode.com/problems/move-zeroes
 487,Max Consecutive Ones II,48.5%,Medium,0.10973238837921641, https://leetcode.com/problems/max-consecutive-ones-ii

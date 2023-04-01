@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 301,Remove Invalid Parentheses,43.3%,Hard,0.13310393847431484, https://leetcode.com/problems/remove-invalid-parentheses
 1190,Reverse Substrings Between Each Pair of Parentheses,61.5%,Medium,0.09928670042921932, https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
 55,Jump Game,34.6%,Medium,0.059854228581496645, https://leetcode.com/problems/jump-game

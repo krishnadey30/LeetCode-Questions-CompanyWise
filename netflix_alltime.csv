@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 981,Time Based Key-Value Store,53.1%,Medium,0.07449650549860767, https://leetcode.com/problems/time-based-key-value-store
 185,Department Top Three Salaries,34.5%,Hard,0.07421850176056281, https://leetcode.com/problems/department-top-three-salaries
 56,Merge Intervals,39.3%,Medium,0.05635902050495936, https://leetcode.com/problems/merge-intervals

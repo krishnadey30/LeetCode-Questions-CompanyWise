@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 509,Fibonacci Number,67.2%,Easy,0.03801871583399193, https://leetcode.com/problems/fibonacci-number
 115,Distinct Subsequences,38.3%,Hard,0.027798871362742988, https://leetcode.com/problems/distinct-subsequences
 20,Valid Parentheses,39.0%,Easy,0.020517047266669974, https://leetcode.com/problems/valid-parentheses

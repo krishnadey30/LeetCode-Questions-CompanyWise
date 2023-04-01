@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.0665963051641667, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
 146,LRU Cache,33.2%,Medium,0.054946555458745445, https://leetcode.com/problems/lru-cache
 895,Maximum Frequency Stack,60.6%,Hard,0.04329680575332419, https://leetcode.com/problems/maximum-frequency-stack

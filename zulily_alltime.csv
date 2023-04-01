@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 56,Merge Intervals,39.3%,Medium,0.10703248793941993, https://leetcode.com/problems/merge-intervals
 1138,Alphabet Board Path,48.4%,Medium,0.06635853611859671, https://leetcode.com/problems/alphabet-board-path
 242,Valid Anagram,56.9%,Easy,0.025684584297773504, https://leetcode.com/problems/valid-anagram

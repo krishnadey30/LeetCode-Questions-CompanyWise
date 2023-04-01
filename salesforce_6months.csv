@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.030152736302452396, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
 348,Design Tic-Tac-Toe,54.3%,Medium,0.024214258120594613, https://leetcode.com/problems/design-tic-tac-toe
 146,LRU Cache,33.2%,Medium,0.01827577993873683, https://leetcode.com/problems/lru-cache

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 121,Best Time to Buy and Sell Stock,50.5%,Easy,0.03031079164323808, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 1,Two Sum,45.6%,Easy,0.020315992091756507, https://leetcode.com/problems/two-sum
 146,LRU Cache,33.2%,Medium,0.010321192540274932, https://leetcode.com/problems/lru-cache

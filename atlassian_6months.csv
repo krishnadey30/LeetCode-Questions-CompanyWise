@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1071,Greatest Common Divisor of Strings,52.9%,Easy,0.11954237676819192, https://leetcode.com/problems/greatest-common-divisor-of-strings
 366,Find Leaves of Binary Tree,70.6%,Medium,0.1180240366638968, https://leetcode.com/problems/find-leaves-of-binary-tree
 1223,Dice Roll Simulation,45.6%,Medium,0.10212949507637983, https://leetcode.com/problems/dice-roll-simulation

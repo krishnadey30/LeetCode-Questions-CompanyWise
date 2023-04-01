@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 525,Contiguous Array,42.8%,Medium,0.42990617361238165, https://leetcode.com/problems/contiguous-array
 498,Diagonal Traverse,48.2%,Medium,0.32668133250056075, https://leetcode.com/problems/diagonal-traverse
 855,Exam Room,43.1%,Medium,0.22345649138873985, https://leetcode.com/problems/exam-room

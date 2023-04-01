@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 669,Trim a Binary Search Tree,63.0%,Easy,0.015052444911090134, https://leetcode.com/problems/trim-a-binary-search-tree
 384,Shuffle an Array,52.8%,Medium,0.011375721700252122, https://leetcode.com/problems/shuffle-an-array
 77,Combinations,54.7%,Medium,0.008578021081192079, https://leetcode.com/problems/combinations

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 529,Minesweeper,59.1%,Medium,0.03486918507635715, https://leetcode.com/problems/minesweeper
 146,LRU Cache,33.2%,Medium,0.031510805207477295, https://leetcode.com/problems/lru-cache
 304,Range Sum Query 2D - Immutable,38.6%,Medium,0.023009339909829205, https://leetcode.com/problems/range-sum-query-2d-immutable

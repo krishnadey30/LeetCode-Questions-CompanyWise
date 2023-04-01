@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 76,Minimum Window Substring,34.6%,Hard,0.03691000072068462, https://leetcode.com/problems/minimum-window-substring
 845,Longest Mountain in Array,37.2%,Medium,0.029335507073925533, https://leetcode.com/problems/longest-mountain-in-array
 25,Reverse Nodes in k-Group,42.1%,Hard,0.021761013427166447, https://leetcode.com/problems/reverse-nodes-in-k-group

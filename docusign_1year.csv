@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 92,Reverse Linked List II,38.8%,Medium,0.021069640609489525, https://leetcode.com/problems/reverse-linked-list-ii
 71,Simplify Path,32.6%,Medium,0.016260520871780308, https://leetcode.com/problems/simplify-path
 49,Group Anagrams,56.9%,Medium,0.01513031227798415, https://leetcode.com/problems/group-anagrams

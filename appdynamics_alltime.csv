@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 394,Decode String,50.0%,Medium,0.06713782998723788, https://leetcode.com/problems/decode-string
 346,Moving Average from Data Stream,70.9%,Easy,0.03932354620391436, https://leetcode.com/problems/moving-average-from-data-stream
 200,Number of Islands,46.8%,Medium,0.011509262420590827, https://leetcode.com/problems/number-of-islands

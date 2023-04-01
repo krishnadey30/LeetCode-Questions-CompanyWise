@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1190,Reverse Substrings Between Each Pair of Parentheses,61.5%,Medium,0.12571406915674363, https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
 301,Remove Invalid Parentheses,43.3%,Hard,0.08716315660591871, https://leetcode.com/problems/remove-invalid-parentheses
 759,Employee Free Time,66.3%,Hard,0.04861224405509378, https://leetcode.com/problems/employee-free-time

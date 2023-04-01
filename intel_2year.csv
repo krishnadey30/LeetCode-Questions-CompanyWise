@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1,Two Sum,45.6%,Easy,0.007050281837628458, https://leetcode.com/problems/two-sum
 204,Count Primes,31.5%,Easy,0.006761350978043845, https://leetcode.com/problems/count-primes
 543,Diameter of Binary Tree,48.4%,Easy,0.005047966297304777, https://leetcode.com/problems/diameter-of-binary-tree

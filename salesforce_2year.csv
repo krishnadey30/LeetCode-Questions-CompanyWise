@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 780,Reaching Points,29.4%,Hard,0.33832960242595933, https://leetcode.com/problems/reaching-points
 146,LRU Cache,33.2%,Medium,0.2585885798043696, https://leetcode.com/problems/lru-cache
 1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.17884755718277986, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

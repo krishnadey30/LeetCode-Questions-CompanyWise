@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 271,Encode and Decode Strings,31.5%,Medium,0.456074830875999, https://leetcode.com/problems/encode-and-decode-strings
 336,Palindrome Pairs,33.7%,Hard,0.3591927799310734, https://leetcode.com/problems/palindrome-pairs
 969,Pancake Sorting,67.5%,Medium,0.27343004974457946, https://leetcode.com/problems/pancake-sorting

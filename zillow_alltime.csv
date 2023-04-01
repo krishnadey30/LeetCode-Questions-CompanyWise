@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 273,Integer to English Words,27.1%,Hard,0.37861967367115135, https://leetcode.com/problems/integer-to-english-words
 146,LRU Cache,33.2%,Medium,0.3225459261278396, https://leetcode.com/problems/lru-cache
 387,First Unique Character in a String,53.4%,Easy,0.29387200474932007, https://leetcode.com/problems/first-unique-character-in-a-string

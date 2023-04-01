@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,0.03376763319427294, https://leetcode.com/problems/lru-cache
 317,Shortest Distance from All Buildings,41.4%,Hard,0.031062254983439577, https://leetcode.com/problems/shortest-distance-from-all-buildings
 212,Word Search II,34.9%,Hard,0.02201654487096149, https://leetcode.com/problems/word-search-ii

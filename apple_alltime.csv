@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1,Two Sum,45.6%,Easy,2.44165352519978, https://leetcode.com/problems/two-sum
 146,LRU Cache,33.2%,Medium,2.288507627845124, https://leetcode.com/problems/lru-cache
 403,Frog Jump,39.7%,Hard,2.1353617304904677, https://leetcode.com/problems/frog-jump

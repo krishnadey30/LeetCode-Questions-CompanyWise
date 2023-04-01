@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 336,Palindrome Pairs,33.7%,Hard,0.09524900495801866, https://leetcode.com/problems/palindrome-pairs
 999,Available Captures for Rook,66.7%,Easy,0.06736553182757604, https://leetcode.com/problems/available-captures-for-rook
 72,Edit Distance,44.8%,Hard,0.039482058697133414, https://leetcode.com/problems/edit-distance

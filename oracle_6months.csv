@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 352,Data Stream as Disjoint Intervals,47.3%,Hard,0.26671077361397416, https://leetcode.com/problems/data-stream-as-disjoint-intervals
 362,Design Hit Counter,63.7%,Medium,0.20812125379246896, https://leetcode.com/problems/design-hit-counter
 1242,Web Crawler Multithreaded,45.9%,Medium,0.14953173397096375, https://leetcode.com/problems/web-crawler-multithreaded

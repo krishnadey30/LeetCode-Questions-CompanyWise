@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1258,Synonymous Sentences,64.4%,Medium,0.6677654778785802, https://leetcode.com/problems/synonymous-sentences
 146,LRU Cache,33.2%,Medium,0.6161320189263424, https://leetcode.com/problems/lru-cache
 529,Minesweeper,59.1%,Medium,0.42248679567759495, https://leetcode.com/problems/minesweeper

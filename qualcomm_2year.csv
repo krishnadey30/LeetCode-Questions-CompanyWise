@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 237,Delete Node in a Linked List,63.8%,Easy,0.010459229961269176, https://leetcode.com/problems/delete-node-in-a-linked-list
 160,Intersection of Two Linked Lists,40.6%,Easy,0.00998969599575425, https://leetcode.com/problems/intersection-of-two-linked-lists
 1,Two Sum,45.6%,Easy,0.009046102197985831, https://leetcode.com/problems/two-sum

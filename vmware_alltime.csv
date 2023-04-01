@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,0.40992460509770895, https://leetcode.com/problems/lru-cache
 697,Degree of an Array,53.8%,Easy,0.3745732054339119, https://leetcode.com/problems/degree-of-an-array
 460,LFU Cache,34.2%,Hard,0.3604069261652464, https://leetcode.com/problems/lfu-cache

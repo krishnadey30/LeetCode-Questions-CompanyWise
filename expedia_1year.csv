@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1283,Find the Smallest Divisor Given a Threshold,47.6%,Medium,0.1369289189470806, https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
 443,String Compression,41.3%,Easy,0.08391368024915737, https://leetcode.com/problems/string-compression
 724,Find Pivot Index,44.0%,Easy,0.03089844155123413, https://leetcode.com/problems/find-pivot-index

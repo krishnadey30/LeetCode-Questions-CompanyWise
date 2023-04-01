@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 364,Nested List Weight Sum II,62.8%,Medium,0.1841995690149098, https://leetcode.com/problems/nested-list-weight-sum-ii
 815,Bus Routes,42.5%,Hard,0.1329388000145885, https://leetcode.com/problems/bus-routes
 1293,Shortest Path in a Grid with Obstacles Elimination,42.8%,Hard,0.08167803101426718, https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination

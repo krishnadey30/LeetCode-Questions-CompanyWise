@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.06122838444838759, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
 437,Path Sum III,47.2%,Medium,0.04550116684579005, https://leetcode.com/problems/path-sum-iii
 443,String Compression,41.3%,Easy,0.029773949243192512, https://leetcode.com/problems/string-compression
