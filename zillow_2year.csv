@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,0.17336380847901145, https://leetcode.com/problems/lru-cache
 387,First Unique Character in a String,53.4%,Easy,0.15790706492146894, https://leetcode.com/problems/first-unique-character-in-a-string
 236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.12961627631364242, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 554,Brick Wall,50.0%,Medium,0.5628369978035019, https://leetcode.com/problems/brick-wall
 352,Data Stream as Disjoint Intervals,47.3%,Hard,0.4990377527312547, https://leetcode.com/problems/data-stream-as-disjoint-intervals
 362,Design Hit Counter,63.7%,Medium,0.4137338521213525, https://leetcode.com/problems/design-hit-counter

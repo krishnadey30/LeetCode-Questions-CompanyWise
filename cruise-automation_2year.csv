@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,0.16703842296841676, https://leetcode.com/problems/lru-cache
 281,Zigzag Iterator,58.4%,Medium,0.10821358464023274, https://leetcode.com/problems/zigzag-iterator
 529,Minesweeper,59.1%,Medium,0.09218395607805856, https://leetcode.com/problems/minesweeper

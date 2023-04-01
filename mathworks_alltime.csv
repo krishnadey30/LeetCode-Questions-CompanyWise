@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1130,Minimum Cost Tree From Leaf Values,66.1%,Medium,2.445077590079096, https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
 255,Verify Preorder Sequence in Binary Search Tree,45.7%,Medium,1.9602473122017205, https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
 1163,Last Substring in Lexicographical Order,33.9%,Hard,1.4754170343243447, https://leetcode.com/problems/last-substring-in-lexicographical-order

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 545,Boundary of Binary Tree,38.9%,Medium,0.09349966258159505, https://leetcode.com/problems/boundary-of-binary-tree
 250,Count Univalue Subtrees,52.0%,Medium,0.07975881838845024, https://leetcode.com/problems/count-univalue-subtrees
 244,Shortest Word Distance II,52.3%,Medium,0.07622736538788424, https://leetcode.com/problems/shortest-word-distance-ii

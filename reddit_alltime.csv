@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 289,Game of Life,54.5%,Medium,0.20761483400383401, https://leetcode.com/problems/game-of-life
 314,Binary Tree Vertical Order Traversal,45.3%,Medium,0.15148600467306356, https://leetcode.com/problems/binary-tree-vertical-order-traversal
 706,Design HashMap,61.3%,Easy,0.10482987091202353, https://leetcode.com/problems/design-hashmap

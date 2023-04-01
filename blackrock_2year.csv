@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 322,Coin Change,35.5%,Medium,0.03257065710568334, https://leetcode.com/problems/coin-change
 12,Integer to Roman,55.1%,Medium,0.018163970627671163, https://leetcode.com/problems/integer-to-roman
 238,Product of Array Except Self,60.1%,Medium,0.003757284149658983, https://leetcode.com/problems/product-of-array-except-self

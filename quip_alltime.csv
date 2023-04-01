@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 708,Insert into a Sorted Circular Linked List,31.6%,Medium,0.6963635371787209, https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
 855,Exam Room,43.1%,Medium,0.5147127208812607, https://leetcode.com/problems/exam-room
 510,Inorder Successor in BST II,58.0%,Medium,0.3274381237537068, https://leetcode.com/problems/inorder-successor-in-bst-ii

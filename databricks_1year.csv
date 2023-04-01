@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 314,Binary Tree Vertical Order Traversal,45.3%,Medium,0.6090179533486686, https://leetcode.com/problems/binary-tree-vertical-order-traversal
 1242,Web Crawler Multithreaded,45.9%,Medium,0.4978384282391795, https://leetcode.com/problems/web-crawler-multithreaded
 722,Remove Comments,34.6%,Medium,0.40958882529202645, https://leetcode.com/problems/remove-comments

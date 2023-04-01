@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1290,Convert Binary Number in a Linked List to Integer,80.4%,Easy,0.15748072194904283, https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
 394,Decode String,50.0%,Medium,0.1232801760013658, https://leetcode.com/problems/decode-string
 1235,Maximum Profit in Job Scheduling,44.0%,Hard,0.08907963005368878, https://leetcode.com/problems/maximum-profit-in-job-scheduling

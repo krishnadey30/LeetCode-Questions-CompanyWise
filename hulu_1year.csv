@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 326,Power of Three,42.1%,Easy,0.02907623878526534, https://leetcode.com/problems/power-of-three
 907,Sum of Subarray Minimums,32.3%,Medium,0.02877881426353932, https://leetcode.com/problems/sum-of-subarray-minimums
 394,Decode String,50.0%,Medium,0.01743216716867105, https://leetcode.com/problems/decode-string

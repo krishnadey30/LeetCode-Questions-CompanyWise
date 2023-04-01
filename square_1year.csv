@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 336,Palindrome Pairs,33.7%,Hard,0.10501458755636292, https://leetcode.com/problems/palindrome-pairs
 72,Edit Distance,44.8%,Hard,0.08673866592531046, https://leetcode.com/problems/edit-distance
 271,Encode and Decode Strings,31.5%,Medium,0.07197349962508924, https://leetcode.com/problems/encode-and-decode-strings

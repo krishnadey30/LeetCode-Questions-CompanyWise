@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 545,Boundary of Binary Tree,38.9%,Medium,0.23484882359918047, https://leetcode.com/problems/boundary-of-binary-tree
 146,LRU Cache,33.2%,Medium,0.19793208872567258, https://leetcode.com/problems/lru-cache
 498,Diagonal Traverse,48.2%,Medium,0.1610153538521647, https://leetcode.com/problems/diagonal-traverse

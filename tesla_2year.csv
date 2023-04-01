@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1189,Maximum Number of Balloons,61.2%,Easy,0.07441757097416746, https://leetcode.com/problems/maximum-number-of-balloons
 146,LRU Cache,33.2%,Medium,0.054946555458745445, https://leetcode.com/problems/lru-cache
 724,Find Pivot Index,44.0%,Easy,0.05428741283782842, https://leetcode.com/problems/find-pivot-index

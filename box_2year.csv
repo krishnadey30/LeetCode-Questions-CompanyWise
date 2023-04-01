@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 250,Count Univalue Subtrees,52.0%,Medium,1.1142520926168622, https://leetcode.com/problems/count-univalue-subtrees
 965,Univalued Binary Tree,67.7%,Easy,0.8592043555602473, https://leetcode.com/problems/univalued-binary-tree
 68,Text Justification,27.7%,Hard,0.6976918484065334, https://leetcode.com/problems/text-justification

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 200,Number of Islands,46.8%,Medium,0.6743216943898789, https://leetcode.com/problems/number-of-islands
 695,Max Area of Island,62.7%,Medium,0.5272157745378819, https://leetcode.com/problems/max-area-of-island
 449,Serialize and Deserialize BST,52.0%,Medium,0.5089777138955178, https://leetcode.com/problems/serialize-and-deserialize-bst

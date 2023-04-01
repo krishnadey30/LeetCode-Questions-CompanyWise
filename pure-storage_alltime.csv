@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 593,Valid Square,43.1%,Medium,2.012428334541107, https://leetcode.com/problems/valid-square
 647,Palindromic Substrings,60.6%,Medium,1.4078595470997393, https://leetcode.com/problems/palindromic-substrings
 730,Count Different Palindromic Subsequences,41.8%,Hard,0.8032907596583713, https://leetcode.com/problems/count-different-palindromic-subsequences

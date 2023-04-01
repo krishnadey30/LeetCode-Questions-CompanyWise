@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 204,Count Primes,31.5%,Easy,0.003999006076005168, https://leetcode.com/problems/count-primes
 206,Reverse Linked List,62.5%,Easy,0.002231770161393673, https://leetcode.com/problems/reverse-linked-list
 20,Valid Parentheses,39.0%,Easy,0.002197682330605871, https://leetcode.com/problems/valid-parentheses

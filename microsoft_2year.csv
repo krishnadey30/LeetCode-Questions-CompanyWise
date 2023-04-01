@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,1.9068942851168293, https://leetcode.com/problems/lru-cache
 138,Copy List with Random Pointer,36.4%,Medium,1.839296369281829, https://leetcode.com/problems/copy-list-with-random-pointer
 348,Design Tic-Tac-Toe,54.3%,Medium,1.7622511751629417, https://leetcode.com/problems/design-tic-tac-toe

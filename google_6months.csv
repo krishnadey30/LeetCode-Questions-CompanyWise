@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 843,Guess the Word,46.1%,Hard,1.2138391004755573, https://leetcode.com/problems/guess-the-word
 809,Expressive Words,47.0%,Medium,1.134863557707283, https://leetcode.com/problems/expressive-words
 946,Validate Stack Sequences,61.9%,Medium,1.1029586218338125, https://leetcode.com/problems/validate-stack-sequences

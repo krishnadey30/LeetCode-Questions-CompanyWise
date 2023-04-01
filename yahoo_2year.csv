@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1,Two Sum,45.6%,Easy,0.31908885342700277, https://leetcode.com/problems/two-sum
 1168,Optimize Water Distribution in a Village,60.9%,Hard,0.24224370139848353, https://leetcode.com/problems/optimize-water-distribution-in-a-village
 146,LRU Cache,33.2%,Medium,0.1653985493699643, https://leetcode.com/problems/lru-cache

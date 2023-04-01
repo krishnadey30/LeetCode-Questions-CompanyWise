@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 708,Insert into a Sorted Circular Linked List,31.6%,Medium,0.5187310859952682, https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
 855,Exam Room,43.1%,Medium,0.3829290108305956, https://leetcode.com/problems/exam-room
 362,Design Hit Counter,63.7%,Medium,0.20812125379246896, https://leetcode.com/problems/design-hit-counter

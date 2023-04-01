@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,0.0873691394938576, https://leetcode.com/problems/lru-cache
 1048,Longest String Chain,54.7%,Medium,0.07529425330187599, https://leetcode.com/problems/longest-string-chain
 697,Degree of an Array,53.8%,Easy,0.07117627846789498, https://leetcode.com/problems/degree-of-an-array

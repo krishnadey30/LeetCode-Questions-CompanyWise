@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 256,Paint House,52.1%,Easy,0.03172360722570897, https://leetcode.com/problems/paint-house
 143,Reorder List,37.1%,Medium,0.025870945598649286, https://leetcode.com/problems/reorder-list
 33,Search in Rotated Sorted Array,34.5%,Medium,0.0200182839715896, https://leetcode.com/problems/search-in-rotated-sorted-array

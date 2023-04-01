@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 49,Group Anagrams,56.9%,Medium,0.04730812692103113, https://leetcode.com/problems/group-anagrams
 253,Meeting Rooms II,45.7%,Medium,0.03193246767820989, https://leetcode.com/problems/meeting-rooms-ii
 362,Design Hit Counter,63.7%,Medium,0.025382073271417165, https://leetcode.com/problems/design-hit-counter

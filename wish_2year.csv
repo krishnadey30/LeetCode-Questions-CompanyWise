@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 845,Longest Mountain in Array,37.2%,Medium,0.2744088602461735, https://leetcode.com/problems/longest-mountain-in-array
 388,Longest Absolute File Path,41.8%,Medium,0.18128582392042256, https://leetcode.com/problems/longest-absolute-file-path
 900,RLE Iterator,53.5%,Medium,0.08816278759467164, https://leetcode.com/problems/rle-iterator

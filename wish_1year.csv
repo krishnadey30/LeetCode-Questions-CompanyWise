@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 388,Longest Absolute File Path,41.8%,Medium,0.09792469558666919, https://leetcode.com/problems/longest-absolute-file-path
 900,RLE Iterator,53.5%,Medium,0.08010604232504882, https://leetcode.com/problems/rle-iterator
 616,Add Bold Tag in String,43.1%,Medium,0.05421381659414747, https://leetcode.com/problems/add-bold-tag-in-string

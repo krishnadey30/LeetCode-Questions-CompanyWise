@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1189,Maximum Number of Balloons,61.2%,Easy,0.10316224371942753, https://leetcode.com/problems/maximum-number-of-balloons
 1239,Maximum Length of a Concatenated String with Unique Characters,47.8%,Medium,0.0766985653316095, https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
 146,LRU Cache,33.2%,Medium,0.054946555458745445, https://leetcode.com/problems/lru-cache

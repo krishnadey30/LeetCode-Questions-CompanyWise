@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,0.1499900812285872, https://leetcode.com/problems/lru-cache
 37,Sudoku Solver,43.6%,Hard,0.13242170014920152, https://leetcode.com/problems/sudoku-solver
 221,Maximal Square,37.7%,Medium,0.11485331906981584, https://leetcode.com/problems/maximal-square

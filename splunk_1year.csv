@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 498,Diagonal Traverse,48.2%,Medium,0.046617066297050695, https://leetcode.com/problems/diagonal-traverse
 130,Surrounded Regions,28.1%,Medium,0.02556231203780306, https://leetcode.com/problems/surrounded-regions
 236,Lowest Common Ancestor of a Binary Tree,45.7%,Medium,0.004507557778555423, https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree

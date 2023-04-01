@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 286,Walls and Gates,54.5%,Medium,0.045906593198722395, https://leetcode.com/problems/walls-and-gates
 383,Ransom Note,53.1%,Easy,0.039220713153281295, https://leetcode.com/problems/ransom-note
 480,Sliding Window Median,37.2%,Hard,0.03373001037669306, https://leetcode.com/problems/sliding-window-median

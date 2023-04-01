@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 529,Minesweeper,59.1%,Medium,0.09420878206672367, https://leetcode.com/problems/minesweeper
 575,Distribute Candies,61.4%,Easy,0.08329002108922262, https://leetcode.com/problems/distribute-candies
 581,Shortest Unsorted Continuous Subarray,31.1%,Easy,0.05007303798232116, https://leetcode.com/problems/shortest-unsorted-continuous-subarray

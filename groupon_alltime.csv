@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 297,Serialize and Deserialize Binary Tree,47.5%,Hard,0.04958336617493765, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 146,LRU Cache,33.2%,Medium,0.040660598211268925, https://leetcode.com/problems/lru-cache
 121,Best Time to Buy and Sell Stock,50.5%,Easy,0.033453179586686504, https://leetcode.com/problems/best-time-to-buy-and-sell-stock

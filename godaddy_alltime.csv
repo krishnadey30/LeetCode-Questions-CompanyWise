@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 441,Arranging Coins,41.9%,Easy,0.08973851726005694, https://leetcode.com/problems/arranging-coins
 146,LRU Cache,33.2%,Medium,0.07118067822062889, https://leetcode.com/problems/lru-cache
 20,Valid Parentheses,39.0%,Easy,0.055983722381420686, https://leetcode.com/problems/valid-parentheses

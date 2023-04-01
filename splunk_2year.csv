@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 130,Surrounded Regions,28.1%,Medium,0.14880377058747696, https://leetcode.com/problems/surrounded-regions
 498,Diagonal Traverse,48.2%,Medium,0.09253623916246477, https://leetcode.com/problems/diagonal-traverse
 317,Shortest Distance from All Buildings,41.4%,Hard,0.03626870773745257, https://leetcode.com/problems/shortest-distance-from-all-buildings

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 761,Special Binary String,54.7%,Hard,0.09348775380846833, https://leetcode.com/problems/special-binary-string
 362,Design Hit Counter,63.7%,Medium,0.05622967649867821, https://leetcode.com/problems/design-hit-counter
 1353,Maximum Number of Events That Can Be Attended,30.5%,Medium,0.05428741283782842, https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended

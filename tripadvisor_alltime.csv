@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 274,H-Index,36.1%,Medium,0.18810197835269699, https://leetcode.com/problems/h-index
 146,LRU Cache,33.2%,Medium,0.14642426807449366, https://leetcode.com/problems/lru-cache
 149,Max Points on a Line,16.9%,Hard,0.13811211729480913, https://leetcode.com/problems/max-points-on-a-line

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 425,Word Squares,47.7%,Hard,1.3737846439355526, https://leetcode.com/problems/word-squares
 146,LRU Cache,33.2%,Medium,1.2233383443716415, https://leetcode.com/problems/lru-cache
 352,Data Stream as Disjoint Intervals,47.3%,Hard,1.0728920448077304, https://leetcode.com/problems/data-stream-as-disjoint-intervals

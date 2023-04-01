@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 981,Time Based Key-Value Store,53.1%,Medium,0.04554547215407168, https://leetcode.com/problems/time-based-key-value-store
 185,Department Top Three Salaries,34.5%,Hard,0.0453832413479485, https://leetcode.com/problems/department-top-three-salaries
 295,Find Median from Data Stream,44.3%,Hard,0.031658984015535734, https://leetcode.com/problems/find-median-from-data-stream

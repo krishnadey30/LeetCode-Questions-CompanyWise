@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 939,Minimum Area Rectangle,51.8%,Medium,0.03323242792566654, https://leetcode.com/problems/minimum-area-rectangle
 231,Power of Two,43.7%,Easy,0.021776810232970734, https://leetcode.com/problems/power-of-two
 146,LRU Cache,33.2%,Medium,0.010321192540274932, https://leetcode.com/problems/lru-cache

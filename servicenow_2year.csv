@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 706,Design HashMap,61.3%,Easy,0.03655310240265549, https://leetcode.com/problems/design-hashmap
 653,Two Sum IV - Input is a BST,55.5%,Easy,0.02926276273740802, https://leetcode.com/problems/two-sum-iv-input-is-a-bst
 867,Transpose Matrix,62.8%,Easy,0.028715904834557722, https://leetcode.com/problems/transpose-matrix

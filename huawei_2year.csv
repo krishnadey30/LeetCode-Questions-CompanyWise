@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 221,Maximal Square,37.7%,Medium,0.07763487926837137, https://leetcode.com/problems/maximal-square
 394,Decode String,50.0%,Medium,0.0476916619317836, https://leetcode.com/problems/decode-string
 617,Merge Two Binary Trees,74.1%,Easy,0.017748444595195822, https://leetcode.com/problems/merge-two-binary-trees

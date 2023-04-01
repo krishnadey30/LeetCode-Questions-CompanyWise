@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,LRU Cache,33.2%,Medium,0.5157086604966173, https://leetcode.com/problems/lru-cache
 545,Boundary of Binary Tree,38.9%,Medium,0.4381868316355515, https://leetcode.com/problems/boundary-of-binary-tree
 1,Two Sum,45.6%,Easy,0.36066500277448565, https://leetcode.com/problems/two-sum

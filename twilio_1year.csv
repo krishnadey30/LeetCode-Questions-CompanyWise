@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 974,Subarray Sums Divisible by K,48.9%,Medium,0.2967998323621869, https://leetcode.com/problems/subarray-sums-divisible-by-k
 146,LRU Cache,33.2%,Medium,0.2037051228192776, https://leetcode.com/problems/lru-cache
 68,Text Justification,27.7%,Hard,0.16143214434637243, https://leetcode.com/problems/text-justification

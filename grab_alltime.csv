@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 984,String Without AAA or BBB,37.7%,Medium,0.4954247677613364, https://leetcode.com/problems/string-without-aaa-or-bbb
 915,Partition Array into Disjoint Intervals,45.4%,Medium,0.37292635232139065, https://leetcode.com/problems/partition-array-into-disjoint-intervals
 983,Minimum Cost For Tickets,60.5%,Medium,0.26701398643191887, https://leetcode.com/problems/minimum-cost-for-tickets

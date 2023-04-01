@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 1130,Minimum Cost Tree From Leaf Values,66.1%,Medium,2.354986953663386, https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
 255,Verify Preorder Sequence in Binary Search Tree,45.7%,Medium,1.6804984402728165, https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
 25,Reverse Nodes in k-Group,42.1%,Hard,1.0060099268822469, https://leetcode.com/problems/reverse-nodes-in-k-group

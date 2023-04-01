@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 115,Distinct Subsequences,38.3%,Hard,0.10259092868139033, https://leetcode.com/problems/distinct-subsequences
 509,Fibonacci Number,67.2%,Easy,0.07958999426900074, https://leetcode.com/problems/fibonacci-number
 273,Integer to English Words,27.1%,Hard,0.06896929475435468, https://leetcode.com/problems/integer-to-english-words

@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 742,Closest Leaf in a Binary Tree,43.6%,Medium,0.8883303521322305, https://leetcode.com/problems/closest-leaf-in-a-binary-tree
 314,Binary Tree Vertical Order Traversal,45.3%,Medium,0.7042169874893927, https://leetcode.com/problems/binary-tree-vertical-order-traversal
 41,First Missing Positive,32.0%,Hard,0.6555459946274417, https://leetcode.com/problems/first-missing-positive

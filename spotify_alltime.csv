@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 128,Longest Consecutive Sequence,45.1%,Hard,0.12090519978650899, https://leetcode.com/problems/longest-consecutive-sequence
 383,Ransom Note,53.1%,Easy,0.1053605156578263, https://leetcode.com/problems/ransom-note
 286,Walls and Gates,54.5%,Medium,0.089897664246389, https://leetcode.com/problems/walls-and-gates

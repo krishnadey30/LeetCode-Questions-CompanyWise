@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 42,Trapping Rain Water,48.9%,Hard,0.2080272315165578, https://leetcode.com/problems/trapping-rain-water
 52,N-Queens II,57.9%,Hard,0.20340920294292344, https://leetcode.com/problems/n-queens-ii
 255,Verify Preorder Sequence in Binary Search Tree,45.7%,Medium,0.1348842676899421, https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree

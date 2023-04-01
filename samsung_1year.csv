@@ -1,3 +1,4 @@
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 312,Burst Balloons,51.8%,Hard,0.023366022786649468, https://leetcode.com/problems/burst-balloons
 85,Maximal Rectangle,37.7%,Hard,0.012771565679487524, https://leetcode.com/problems/maximal-rectangle
 5,Longest Palindromic Substring,29.5%,Medium,0.0021771085723255794, https://leetcode.com/problems/longest-palindromic-substring
